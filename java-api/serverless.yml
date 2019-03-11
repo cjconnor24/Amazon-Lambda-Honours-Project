@@ -54,6 +54,13 @@ functions:
         path: /todos
         method: post
 #        private: true
+  getTodo:
+    handler: com.serverless.GetTodoItemHandler
+    events:
+    - http:
+        path: /todos/{id}
+        method: get
+#        private: true
 resources:
   Resources:
     TodosDynamoDBTable:
