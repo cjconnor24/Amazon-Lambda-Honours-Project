@@ -1,6 +1,16 @@
 package com.serverless.DAL;
 
+
+import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
+import com.amazonaws.services.dynamodbv2.datamodeling.DynamoDBMapper;
+
 public class TodoItem {
+
+    private static final String PRODUCTS_TABLE_NAME = System.getenv("PRODUCTS_TABLE_NAME");
+
+    private static DynamoDBAdapter db_adapter;
+    private final AmazonDynamoDB client;
+    private final DynamoDBMapper mapper;
 
     private String id;
     private String text;
