@@ -7,6 +7,7 @@ public class Response {
 	private final String message;
 	private final Map<String, Object> input;
 
+	// TODO: POSSIBLY OVERLOAD THIS SO IT DOESNT DUMP THE WHOLE INPUT OBJECT BACK
 	public Response(String message, Map<String, Object> input) {
 		this.message = message;
 		this.input = input;
