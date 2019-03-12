@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: JavaAPI # NOTE: update this with your service name
+service: java-todo-api # NOTE: update this with your service name
 
 custom:
   todoTableName: 'java-todo-${self:provider.stage}'
@@ -42,7 +42,7 @@ provider:
 
 # you can add packaging information here
 package:
-  artifact: target/hello-dev.jar
+  artifact: 'target/${self:service}-${self:provider.stage}.jar'
 
 functions:
 #  hello:
