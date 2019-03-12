@@ -4,6 +4,7 @@ package com.serverless.DAL;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
 import com.amazonaws.services.dynamodbv2.datamodeling.*;
 import com.amazonaws.services.dynamodbv2.model.AttributeValue;
+import com.sun.tools.javac.comp.Todo;
 import org.apache.log4j.Logger;
 
 
@@ -87,6 +88,11 @@ public class TodoItem {
     public void save(TodoItem todoItem) {
         logger.info("ToDoList - save(): " + todoItem.toString());
         this.mapper.save(todoItem);
+    }
+
+    public void update(TodoItem todoItem){
+        save(todoItem);
+
     }
 
 

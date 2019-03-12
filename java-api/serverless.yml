@@ -68,6 +68,13 @@ functions:
         path: /todos/
         method: get
 #        private: true
+  updateTodo:
+    handler: com.serverless.UpdateTodoItemHandler
+    events:
+    - http:
+        path: /todos/{id}
+        method: put
+  #        private: true
   deleteTodo:
     handler: com.serverless.DeleteTodoItemHandler
     events:
