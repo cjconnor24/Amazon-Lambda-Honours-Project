@@ -68,6 +68,13 @@ functions:
         path: /todos/
         method: get
 #        private: true
+  deleteTodo:
+    handler: com.serverless.DeleteTodoItemHandler
+    events:
+    - http:
+        path: /todos/{id}
+        method: delete
+#        private: true
 resources:
   Resources:
     TodosDynamoDBTable:
