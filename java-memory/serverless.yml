@@ -50,8 +50,15 @@ package:
   artifact: target/hello-dev.jar
 
 functions:
-  hello:
+  hello128:
     handler: com.serverless.Handler
+    memorySize: 128
+  hello512:
+    handler: com.serverless.Handler
+    memorySize: 512
+  hello1024:
+    handler: com.serverless.Handler
+    memorySize: 1024
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
