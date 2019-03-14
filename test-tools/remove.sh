@@ -16,7 +16,7 @@ do
    echo ""
    echo "####################"
 
-   sls remove
+   sls remove &
    
 
    cd ../
