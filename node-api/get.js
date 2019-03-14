@@ -47,6 +47,9 @@ module.exports.get = (event, context, callback) => {
         // CREATE A RESPONSE TO SEND BACK WITH THE TODO ITEM
         const response = {
             statusCode: 200,
+            headers: {
+                "Access-Control-Allow-Origin" : "*"
+              },            
             body: JSON.stringify(result.Item),
         };
 
