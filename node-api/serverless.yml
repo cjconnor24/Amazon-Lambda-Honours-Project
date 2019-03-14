@@ -99,7 +99,7 @@ functions:
         cors:
           origin: '*'
 #        private: true    
-  updateTodos:
+  updateTodo:
     handler: update.update
     events:
     - http:
@@ -108,7 +108,7 @@ functions:
         cors:
           origin: '*'
 #        private: true    
-  updateTodos:
+  deleteTodo:
     handler: delete.delete
     events:
     - http:
