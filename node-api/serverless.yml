@@ -108,7 +108,15 @@ functions:
         cors:
           origin: '*'
 #        private: true    
-
+  updateTodos:
+    handler: delete.delete
+    events:
+    - http:
+        path: /todos/{id}
+        method: delete
+        cors:
+          origin: '*'
+#        private: true    
 
 
 # you can add CloudFormation resource templates here
