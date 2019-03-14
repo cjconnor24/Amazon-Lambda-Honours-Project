@@ -1,0 +1,10 @@
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Go Serverless v1.0! Your function executed successfully!\",\"input\":{}}"
+}
+--------------------------------------------------------------------
+START RequestId: b4fe28eb-a2bf-4da4-9f3e-2ad9a53b6852 Version: $LATEST
+END RequestId: b4fe28eb-a2bf-4da4-9f3e-2ad9a53b6852
+REPORT RequestId: b4fe28eb-a2bf-4da4-9f3e-2ad9a53b6852	Duration: 0.32 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 72 MB	
+
+
