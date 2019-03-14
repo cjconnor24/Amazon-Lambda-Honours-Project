@@ -1,0 +1,15 @@
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Go Serverless v1.x! Your function executed successfully!\",\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: fb2e54e1-3027-4f82-bf59-a2716d3440f6 Version: $LATEST
+2019-03-14 20:52:22 fb2e54e1-3027-4f82-bf59-a2716d3440f6 INFO  Handler:18 - received: {}
+END RequestId: fb2e54e1-3027-4f82-bf59-a2716d3440f6
+REPORT RequestId: fb2e54e1-3027-4f82-bf59-a2716d3440f6	Duration: 1.01 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 135 MB	
+
+
