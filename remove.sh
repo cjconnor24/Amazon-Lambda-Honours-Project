@@ -10,13 +10,13 @@ do
    
    cd $folder
    
-   echo "Now deploying $i API"
+   echo "REMOVING $i API"
    echo ""
    pwd
    echo ""
    echo "####################"
 
-   sls remove &
+   sls remove
    
 
    cd ../
@@ -24,3 +24,4 @@ do
 done
 
 # You can access them using echo "${arr[0]}", "${arr[1]}" also
+echo "***** APIS NOW HAVE BEEN REMOVED *****"
