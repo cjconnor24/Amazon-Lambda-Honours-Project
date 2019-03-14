@@ -11,19 +11,29 @@
 #
 # Happy Coding!
 
-service: Python3API # NOTE: update this with your service name
+service: python3-todo-api # NOTE: update this with your service name
 
-# You can pin your service to only deploy with a specific Serverless version
-# Check out our docs for more details
-# frameworkVersion: "=X.X.X"
+custom:
+  todoTableName: 'python-todo-${self:provider.stage}'
 
 provider:
   name: aws
   runtime: python3.7
+  stage: ${opt:stage, 'dev'}
+  region: ${opt:region, 'eu-west-2'}
+  iamRoleStatements:
+  - Effect: Allow
+    Action:
+    - dynamodb:Query
+    - dynamodb:Scan
+    - dynamodb:GetItem
+    - dynamodb:PutItem
+    - dynamodb:UpdateItem
+    - dynamodb:DeleteItem
+    Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:custom.todoTableName}"
 
-# you can overwrite defaults here
-#  stage: dev
-#  region: us-east-1
+  environment:
+    TODO_TABLE_NAME: ${self:custom.todoTableName}  
 
 # you can add statements to the Lambda function's IAM Role here
 #  iamRoleStatements:
@@ -57,6 +67,51 @@ provider:
 functions:
   hello:
     handler: handler.hello
+  createTodo:
+    handler: create.create
+    events:
+    - http:
+        path: /todos
+        method: post
+        cors:
+          origin: '*'
+#        private: true    
+  getTodo:
+    handler: get.get
+    events:
+    - http:
+        path: /todos/{id}
+        method: get
+        cors:
+          origin: '*'
+#        private: true    
+  listTodos:
+    handler: list.list
+    events:
+    - http:
+        path: /todos
+        method: get
+        cors:
+          origin: '*'
+#        private: true    
+  updateTodo:
+    handler: update.update
+    events:
+    - http:
+        path: /todos/{id}
+        method: put
+        cors:
+          origin: '*'
+#        private: true    
+  deleteTodo:
+    handler: delete.delete
+    events:
+    - http:
+        path: /todos/{id}
+        method: delete
+        cors:
+          origin: '*'
+#        private: true       
 
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
@@ -92,13 +147,18 @@ functions:
 #      variable2: value2
 
 # you can add CloudFormation resource templates here
-#resources:
-#  Resources:
-#    NewResource:
-#      Type: AWS::S3::Bucket
-#      Properties:
-#        BucketName: my-new-bucket
-#  Outputs:
-#     NewOutput:
-#       Description: "Description for the output"
-#       Value: "Some output value"
+resources:
+  Resources:
+    TodosDynamoDBTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:custom.todoTableName}
+        AttributeDefinitions:
+        - AttributeName: id
+          AttributeType: S
+        KeySchema:
+        - AttributeName: id
+          KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
