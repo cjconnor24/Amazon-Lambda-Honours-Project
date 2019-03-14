@@ -78,6 +78,20 @@ functions:
         path: /todos
         method: post
 #        private: true    
+  getTodo:
+    handler: get.get
+    events:
+    - http:
+        path: /todos/{id}
+        method: get
+#        private: true    
+  listTodos:
+    handler: list.list
+    events:
+    - http:
+        path: /todos
+        method: get
+#        private: true    
 
 
 
