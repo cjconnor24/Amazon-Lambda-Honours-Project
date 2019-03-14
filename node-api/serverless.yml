@@ -14,7 +14,7 @@
 service: node-todo-api # NOTE: update this with your service name
 
 custom:
-  todoTableName: 'java-todo-${self:provider.stage}'
+  todoTableName: 'node-todo-${self:provider.stage}'
 
 provider:
   name: aws
