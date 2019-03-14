@@ -25,6 +25,9 @@ module.exports.list = (event, context, callback) => {
         // CREATE A RESPONSE TO SEND BACK
         const response = {
             statusCode: 200,
+            headers: {
+                "Access-Control-Allow-Origin" : "*"
+              },
             body: JSON.stringify(result.Items),
         };
         callback(null, response);

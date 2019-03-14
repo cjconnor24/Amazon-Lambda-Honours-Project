@@ -77,7 +77,8 @@ functions:
     - http:
         path: /todos
         method: post
-        cors: true
+        cors:
+          origin: '*'
 
 #        private: true    
   getTodo:
@@ -86,7 +87,8 @@ functions:
     - http:
         path: /todos/{id}
         method: get
-        cors: true
+        cors:
+          origin: '*'
 #        private: true    
   listTodos:
     handler: list.list
@@ -94,7 +96,8 @@ functions:
     - http:
         path: /todos
         method: get
-        cors: true
+        cors:
+          origin: '*'
 #        private: true    
   updateTodos:
     handler: update.update
@@ -102,7 +105,8 @@ functions:
     - http:
         path: /todos/{id}
         method: put
-        cors: true
+        cors:
+          origin: '*'
 #        private: true    
 
 
