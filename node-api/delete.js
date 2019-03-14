@@ -7,7 +7,7 @@ module.exports.delete = (event, context, callback) => {
 
     //BIULD THE PARAMS FOR DYNAMO
   const params = {
-    TableName: process.env.DYNAMODB_TABLE,
+    TableName: process.env.TODO_TABLE_NAME,
     Key: {
       id: event.pathParameters.id,
     },
