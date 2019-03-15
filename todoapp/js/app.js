@@ -13,8 +13,8 @@
     //     text: "Todo List Two"
     // }];
 
-    // const API_URL = "https://localhost";
-    const API_URL = "https://hw403l2xsk.execute-api.eu-west-2.amazonaws.com/dev/todos";
+    const API_URL = "https://2lulgjlzw2.execute-api.eu-west-2.amazonaws.com/dev/todos";
+    // const API_URL = "https://hw403l2xsk.execute-api.eu-west-2.amazonaws.com/dev/todos";
 
     // THIS INITIALLY TRIES TO GET THE TODOLIST
     fetch(API_URL)
