@@ -3,8 +3,8 @@
     "body": "{\"message\":\"Go Serverless v1.0! Your function executed successfully!\",\"input\":{}}"
 }
 --------------------------------------------------------------------
-START RequestId: 29b72d96-dc17-4fe8-bb27-b109fae89dd7 Version: $LATEST
-END RequestId: 29b72d96-dc17-4fe8-bb27-b109fae89dd7
-REPORT RequestId: 29b72d96-dc17-4fe8-bb27-b109fae89dd7	Duration: 9.13 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 47 MB	
+START RequestId: cd6d5e1a-7055-473e-8414-a128e5b81c73 Version: $LATEST
+END RequestId: cd6d5e1a-7055-473e-8414-a128e5b81c73
+REPORT RequestId: cd6d5e1a-7055-473e-8414-a128e5b81c73	Duration: 1.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 47 MB	
 
 
