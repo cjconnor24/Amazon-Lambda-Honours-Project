@@ -22,11 +22,11 @@ echo $RESULTS_FILENAME
 
 COUNT=0
 # bash until loop
-until [ $COUNT -gt 200 ]; do
+until [ $COUNT -gt 50 ]; do
     
     curl -X $HTTP_METHOD -d "$DATA" -o /dev/null -s $BASE_URL -w "%{url_effective}\t${RUNTIME}\t%{http_code}\t%{time_pretransfer}\t%{time_starttransfer}\t%{time_total}\t$(echo $HTTP_METHOD)\t$(date)\n" | tee -a $RESULTS_FILENAME
     let COUNT=COUNT+1
     echo Sleeping $COUNT
     # sleep $COUNT
-    sleep 1
+    sleep 0.5
 done

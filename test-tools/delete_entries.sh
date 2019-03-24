@@ -1,21 +1,13 @@
 #!/bin/bash
-# CREATE ENTRIES
-
-# THIS SCRIPT WILL CREATE 200 ENTRIES AT AN INTERVAL OF 500ms
-
 
 # VARIABLES
-# BASE_URL="https://3u5d6296vf.execute-api.eu-west-2.amazonaws.com/node-dev/todos"
 BASE_URL=$1
 DATA=$(jo text="Todo created at $(date)" checked=false)
 RUNTIME=$2
 HTTP_METHOD=DELETE
 RESULTS_FILENAME="results_${RUNTIME}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
 
-# RUNTIME_API=${BASE_URL#*aws.com/}
-# echo $TEMP_URL
-
-echo $RESULTS_FILENAME
+echo "RUNNING TEST USING ${RUNTIME} RUNTIME AND ${HTTP_METHOD} METHOD"
 
 ids_filename="${RUNTIME}_ids_$(date +%d-%m-%Y_%H%M).txt"
 
@@ -35,4 +27,5 @@ do
     
 done
 
-rm "${RUNTIME}_ids.txt"
+rm "${ids_filename}"
+echo "Delete completed"
