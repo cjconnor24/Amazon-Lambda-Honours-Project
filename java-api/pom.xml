@@ -2,10 +2,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.serverless</groupId>
-  <artifactId>java-todo-api</artifactId>
+  <artifactId>java-todo-api-java</artifactId>
   <packaging>jar</packaging>
   <version>dev</version>
-  <name>java-todo-api</name>
+  <name>java-todo-api-java</name>
 
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
