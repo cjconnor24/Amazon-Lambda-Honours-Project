@@ -1,0 +1,3 @@
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/996baecd-37d6-4d11-83c1-20b5686cf6b4	java	204	0.079373	0.248486	0.248492	DELETE	Sun 24 Mar 2019 15:44:37 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/50c0bdef-ca62-4580-857b-3719810fb4f2	java	204	0.082484	0.155281	0.155287	DELETE	Sun 24 Mar 2019 15:44:38 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/8cd86de0-1505-4523-a869-b4bbd5868b00	java	204	0.093894	0.154919	0.154924	DELETE	Sun 24 Mar 2019 15:44:39 GMT

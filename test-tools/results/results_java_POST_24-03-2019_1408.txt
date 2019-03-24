@@ -1,0 +1,4 @@
+{"message": "Internal server error"}https://w79bn70v26.execute-api.eu-west-2.amazonaws.com/java-dev/todos	502	0.081379	0.081390	0.138694	POST	Sun 24 Mar 2019 14:08:01 GMT
+{"message": "Internal server error"}https://w79bn70v26.execute-api.eu-west-2.amazonaws.com/java-dev/todos	502	0.095753	0.095764	0.139949	POST	Sun 24 Mar 2019 14:08:01 GMT
+{"message": "Internal server error"}https://w79bn70v26.execute-api.eu-west-2.amazonaws.com/java-dev/todos	502	0.083153	0.083163	0.127309	POST	Sun 24 Mar 2019 14:08:02 GMT
+{"message": "Internal server error"}https://w79bn70v26.execute-api.eu-west-2.amazonaws.com/java-dev/todos	502	0.083691	0.083732	0.123481	POST	Sun 24 Mar 2019 14:08:03 GMT
