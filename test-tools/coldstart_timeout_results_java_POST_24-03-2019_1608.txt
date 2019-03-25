@@ -1,0 +1,11 @@
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.146359	0.146369	4.919977	POST	Sun 24 Mar 2019 16:08:06 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.146169	0.146195	0.336022	POST	Sun 24 Mar 2019 16:13:11 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.164538	0.164564	0.286182	POST	Sun 24 Mar 2019 16:23:11 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.146551	0.146561	0.276853	POST	Sun 24 Mar 2019 16:38:11 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.146135	0.146145	0.306439	POST	Sun 24 Mar 2019 16:58:12 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.125227	0.125254	0.296804	POST	Sun 24 Mar 2019 17:23:12 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.113212	0.113244	4.890907	POST	Sun 24 Mar 2019 17:53:12 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.112957	0.112968	5.060187	POST	Sun 24 Mar 2019 18:28:17 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.149930	0.149944	5.349183	POST	Sun 24 Mar 2019 19:08:22 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.140765	0.140794	4.770558	POST	Sun 24 Mar 2019 19:53:28 GMT
+https://ahsm1pzph2.execute-api.eu-west-2.amazonaws.com/java-dev/todos	java	200	0.141076	0.141088	5.713991	POST	Sun 24 Mar 2019 20:43:32 GMT

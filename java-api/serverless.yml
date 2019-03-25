@@ -19,7 +19,7 @@ custom:
 provider:
   name: aws
   runtime: java8
-  stage: ${opt:stage, 'dev'}
+  stage: ${opt:stage, 'java-dev'}
   region: ${opt:region, 'eu-west-2'}
   iamRoleStatements:
   - Effect: Allow

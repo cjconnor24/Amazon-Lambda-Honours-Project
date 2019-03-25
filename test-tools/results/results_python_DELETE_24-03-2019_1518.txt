@@ -1,0 +1,11 @@
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/0692908c-4e48-11e9-b6ec-967b541d7fd5	python	200	0.087332	0.193734	0.193740	DELETE	Sun 24 Mar 2019 15:18:15 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/05061324-4e48-11e9-b6ec-967b541d7fd5	python	200	0.082518	0.129966	0.129971	DELETE	Sun 24 Mar 2019 15:18:15 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/018a4a44-4e48-11e9-b6ec-967b541d7fd5	python	200	0.088571	0.142176	0.142182	DELETE	Sun 24 Mar 2019 15:18:16 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/02ec167e-4e48-11e9-b6ec-967b541d7fd5	python	200	0.077965	0.127293	0.127299	DELETE	Sun 24 Mar 2019 15:18:17 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/05baa79e-4e48-11e9-b6ec-967b541d7fd5	python	200	0.084843	0.145437	0.145481	DELETE	Sun 24 Mar 2019 15:18:17 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/ff735d72-4e47-11e9-b6ec-967b541d7fd5	python	200	0.082590	0.137685	0.137691	DELETE	Sun 24 Mar 2019 15:18:18 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/023a16ae-4e48-11e9-b6ec-967b541d7fd5	python	200	0.082666	0.151378	0.151384	DELETE	Sun 24 Mar 2019 15:18:19 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/045713f6-4e48-11e9-b6ec-967b541d7fd5	python	200	0.080880	0.130211	0.130217	DELETE	Sun 24 Mar 2019 15:18:19 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/00dafcba-4e48-11e9-b6ec-967b541d7fd5	python	200	0.079226	0.134974	0.134979	DELETE	Sun 24 Mar 2019 15:18:20 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/002a417c-4e48-11e9-b6ec-967b541d7fd5	python	200	0.082487	0.151835	0.151842	DELETE	Sun 24 Mar 2019 15:18:21 GMT
+https://dr7jb6hcd1.execute-api.eu-west-2.amazonaws.com/py3-dev/todos/03a359ce-4e48-11e9-b6ec-967b541d7fd5	python	200	0.083705	0.145234	0.145240	DELETE	Sun 24 Mar 2019 15:18:21 GMT

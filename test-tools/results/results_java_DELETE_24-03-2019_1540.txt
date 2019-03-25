@@ -1,0 +1,11 @@
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/8d63c3ec-a238-4f76-9458-8a717794f345	java	204	0.109563	4.988214	4.988219	DELETE	Sun 24 Mar 2019 15:40:05 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/728cd60e-f71c-4f23-8c7b-1744346bfa60	java	204	0.084810	0.146899	0.146904	DELETE	Sun 24 Mar 2019 15:40:11 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/503efbb5-257d-4129-bbab-2c32b6c0c35b	java	204	0.079167	0.163901	0.163909	DELETE	Sun 24 Mar 2019 15:40:11 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/db99680e-78ed-4112-a120-83bf516be2f7	java	204	0.092578	0.172053	0.172059	DELETE	Sun 24 Mar 2019 15:40:12 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/74e35030-c6f5-4bd5-af89-f8478a6c41d6	java	204	0.080853	0.193402	0.193408	DELETE	Sun 24 Mar 2019 15:40:13 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/e5adb9b2-cbf9-471d-867e-0c5f8e39f00d	java	204	0.084343	0.144621	0.144627	DELETE	Sun 24 Mar 2019 15:40:13 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/c4753200-65b2-459d-b408-b9bfcaf8f106	java	204	0.081670	0.137175	0.137181	DELETE	Sun 24 Mar 2019 15:40:14 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/78167c8f-7824-4963-90f0-aac94cf7817f	java	204	0.079053	0.160960	0.160965	DELETE	Sun 24 Mar 2019 15:40:15 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/a26e0ca1-9fc8-4905-9c8a-5b6adf8685ad	java	204	0.090165	0.159445	0.159450	DELETE	Sun 24 Mar 2019 15:40:15 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/002f9ecd-0e8a-41bb-9c08-0ea80e5def55	java	204	0.090998	0.155121	0.155127	DELETE	Sun 24 Mar 2019 15:40:16 GMT
+https://69edd7w6b5.execute-api.eu-west-2.amazonaws.com/java-dev/todos/eba7247f-f0fe-4c74-b9d9-ff40f46c3ca7	java	204	0.076722	0.166219	0.166225	DELETE	Sun 24 Mar 2019 15:40:17 GMT
