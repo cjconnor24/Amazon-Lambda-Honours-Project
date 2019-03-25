@@ -1,0 +1,112 @@
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553549800986,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 56df899b-28e1-4d97-88a0-71ffe9913149 Version: $LATEST
+2019-03-25 21:36:40 56df899b-28e1-4d97-88a0-71ffe9913149 INFO  Handler:18 - received: {}
+END RequestId: 56df899b-28e1-4d97-88a0-71ffe9913149
+REPORT RequestId: 56df899b-28e1-4d97-88a0-71ffe9913149	Duration: 799.46 ms	Billed Duration: 800 ms 	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+
+
+25/03/2019 21:36:40
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553550102697,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3 Version: $LATEST
+2019-03-25 21:41:42 9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3 INFO  Handler:18 - received: {}
+END RequestId: 9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3
+REPORT RequestId: 9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3	Duration: 1.43 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+
+
+25/03/2019 21:41:41
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553550703621,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1dedbe5b-ee43-4241-bc59-8f469a8f05ea Version: $LATEST
+2019-03-25 21:51:43 1dedbe5b-ee43-4241-bc59-8f469a8f05ea INFO  Handler:18 - received: {}
+END RequestId: 1dedbe5b-ee43-4241-bc59-8f469a8f05ea
+REPORT RequestId: 1dedbe5b-ee43-4241-bc59-8f469a8f05ea	Duration: 11.47 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+
+
+25/03/2019 21:51:42
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553551604561,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5ca77346-69a4-43e5-9e24-77497b4735d5 Version: $LATEST
+2019-03-25 22:06:44 5ca77346-69a4-43e5-9e24-77497b4735d5 INFO  Handler:18 - received: {}
+END RequestId: 5ca77346-69a4-43e5-9e24-77497b4735d5
+REPORT RequestId: 5ca77346-69a4-43e5-9e24-77497b4735d5	Duration: 17.61 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+
+
+25/03/2019 22:06:44
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553552805442,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4dfdb150-be05-4c8a-9c15-63d811852d29 Version: $LATEST
+2019-03-25 22:26:45 4dfdb150-be05-4c8a-9c15-63d811852d29 INFO  Handler:18 - received: {}
+END RequestId: 4dfdb150-be05-4c8a-9c15-63d811852d29
+REPORT RequestId: 4dfdb150-be05-4c8a-9c15-63d811852d29	Duration: 1.06 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 133 MB	
+
+
+25/03/2019 22:26:45
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553554306468,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1bcfd99b-721c-40cb-8df8-819cd1fb35b3 Version: $LATEST
+2019-03-25 22:51:46 1bcfd99b-721c-40cb-8df8-819cd1fb35b3 INFO  Handler:18 - received: {}
+END RequestId: 1bcfd99b-721c-40cb-8df8-819cd1fb35b3
+REPORT RequestId: 1bcfd99b-721c-40cb-8df8-819cd1fb35b3	Duration: 858.96 ms	Billed Duration: 900 ms 	Memory Size: 1024 MB	Max Memory Used: 137 MB	
+
+
+25/03/2019 22:51:47
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553556109616,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 64fd383a-d792-471c-b81c-45d96fabd78b Version: $LATEST
+2019-03-25 23:21:49 64fd383a-d792-471c-b81c-45d96fabd78b INFO  Handler:18 - received: {}
+END RequestId: 64fd383a-d792-471c-b81c-45d96fabd78b
+REPORT RequestId: 64fd383a-d792-471c-b81c-45d96fabd78b	Duration: 833.69 ms	Billed Duration: 900 ms 	Memory Size: 1024 MB	Max Memory Used: 135 MB	
+
+
+25/03/2019 23:21:50

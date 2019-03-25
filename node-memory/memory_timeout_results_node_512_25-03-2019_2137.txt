@@ -1,0 +1,77 @@
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553549842339,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: 8288cccb-50af-47cf-ae08-7009e8e7a91c Version: $LATEST
+END RequestId: 8288cccb-50af-47cf-ae08-7009e8e7a91c
+REPORT RequestId: 8288cccb-50af-47cf-ae08-7009e8e7a91c	Duration: 2.03 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 21:37:21
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553550143291,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: b028a963-0e9a-4db7-987d-ee0dd2703e51 Version: $LATEST
+END RequestId: b028a963-0e9a-4db7-987d-ee0dd2703e51
+REPORT RequestId: b028a963-0e9a-4db7-987d-ee0dd2703e51	Duration: 20.58 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 21:42:22
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553550744202,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: 007b29b6-2254-4130-90d8-53510558d15a Version: $LATEST
+END RequestId: 007b29b6-2254-4130-90d8-53510558d15a
+REPORT RequestId: 007b29b6-2254-4130-90d8-53510558d15a	Duration: 0.46 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 21:52:23
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553551645130,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: efca2676-b609-4fe3-9d42-65c6efefc8ce Version: $LATEST
+END RequestId: efca2676-b609-4fe3-9d42-65c6efefc8ce
+REPORT RequestId: efca2676-b609-4fe3-9d42-65c6efefc8ce	Duration: 18.73 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 22:07:25
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553552846038,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: 1e9bfaa2-4a22-4f6b-a059-05426339fcfe Version: $LATEST
+END RequestId: 1e9bfaa2-4a22-4f6b-a059-05426339fcfe
+REPORT RequestId: 1e9bfaa2-4a22-4f6b-a059-05426339fcfe	Duration: 0.42 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 22:27:26
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553554346950,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: f1491b4b-411f-498e-9567-08a6716790e1 Version: $LATEST
+END RequestId: f1491b4b-411f-498e-9567-08a6716790e1
+REPORT RequestId: f1491b4b-411f-498e-9567-08a6716790e1	Duration: 13.83 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 20 MB	
+
+
+25/03/2019 22:52:27
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553556147911,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: fb55b694-fafc-4e3e-85e1-815d5ea89d73 Version: $LATEST
+END RequestId: fb55b694-fafc-4e3e-85e1-815d5ea89d73
+REPORT RequestId: fb55b694-fafc-4e3e-85e1-815d5ea89d73	Duration: 16.88 ms	Billed Duration: 100 ms 	Memory Size: 512 MB	Max Memory Used: 21 MB	
+
+
+25/03/2019 23:22:28
