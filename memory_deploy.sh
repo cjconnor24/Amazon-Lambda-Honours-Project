@@ -16,7 +16,7 @@ do
    echo ""
    echo "####################"
 
-   #sls deploy
+   sls deploy
    
 
    cd ../
