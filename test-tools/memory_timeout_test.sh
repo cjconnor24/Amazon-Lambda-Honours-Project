@@ -1,29 +1,25 @@
 #!/bin/bash
 
-#!/bin/bash
-
 RUNTIME=$1
 MEM_SIZE=$2
 
-RESULTS_FILENAME="memory_timeout_coldstart_results_${RUNTIME}_${MEM_SIZE}_$(date +%d-%m-%Y_%H%M).txt"
+RESULTS_FILENAME="memory_timeout_results_${RUNTIME}_${MEM_SIZE}_$(date +%d-%m-%Y_%H%M).txt"
 
 
-echo $RESULTS_FILENAME
-
-folder="$1-memory"
-
-echo "Switching folder to $folder"
-
-cd ../$folder
+SLEEP_TIMER=5
+SLEEP_INTERVAL=5
 
 COUNT=0
-
-until [ $COUNT -gt 100 ]; do
+# bash until loop
+until [ $SLEEP_TIMER -gt 240 ]; do
+# while [ 1 ]; do
     
-    let COUNT=COUNT+1
-    echo "sls invoke -l -f memTest$MEM_SIZE | tee $RESULTS_FILENAME"
-    echo Sleeping 30 minutes
+    #curl -X $HTTP_METHOD -d "$DATA" -o /dev/null -s $BASE_URL -w "%{url_effective}\t${RUNTIME}\t%{http_code}\t%{time_pretransfer}\t%{time_starttransfer}\t%{time_total}\t$(echo $HTTP_METHOD)\t$(date)\n" | tee -a $RESULTS_FILENAME
+    echo "sls invoke -l -f memTest$MEM_SIZE | tee -a $RESULTS_FILENAME"
+    date "+%d/%m/%Y %H:%M:%S" >> $RESULTS_FILENAME
 
-    # sleep for 30 minutes
-    sleep $[30 * 60]
+    let COUNT=COUNT+1    
+    echo "$RUNTIME: Sleeping for $SLEEP_TIMER minutes $(date +%H:%M:%S)"
+    sleep $[$SLEEP_TIMER * 60]
+    let SLEEP_TIMER=SLEEP_TIMER+SLEEP_INTERVAL
 done
