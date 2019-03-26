@@ -69,3 +69,13 @@ https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0
 https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.112758	0.112763	0.213169	POST	Tue 26 Mar 2019 07:03:43 GMT
 https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.168197	0.168203	0.362694	POST	Tue 26 Mar 2019 07:33:43 GMT
 https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.145026	0.145047	0.235911	POST	Tue 26 Mar 2019 08:03:44 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.146230	0.146240	0.235649	POST	Tue 26 Mar 2019 08:33:44 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.105619	0.105631	0.215230	POST	Tue 26 Mar 2019 09:03:44 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.113444	0.113455	0.251891	POST	Tue 26 Mar 2019 09:33:44 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.162115	0.162126	0.291091	POST	Tue 26 Mar 2019 10:03:45 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.147595	0.147607	0.256208	POST	Tue 26 Mar 2019 10:33:45 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.118185	0.118197	0.249790	POST	Tue 26 Mar 2019 11:03:45 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.114925	0.114953	0.223724	POST	Tue 26 Mar 2019 11:33:45 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.140903	0.140916	0.239388	POST	Tue 26 Mar 2019 12:03:46 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.153629	0.153643	0.353699	POST	Tue 26 Mar 2019 12:33:46 GMT
+https://uw5m3imb12.execute-api.eu-west-2.amazonaws.com/node-dev/todos	node	200	0.146425	0.146437	0.948159	POST	Tue 26 Mar 2019 13:03:46 GMT
