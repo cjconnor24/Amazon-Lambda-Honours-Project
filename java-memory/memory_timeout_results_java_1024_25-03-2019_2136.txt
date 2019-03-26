@@ -254,3 +254,19 @@ REPORT RequestId: a219c0bf-9626-4fda-aa50-f166a811c9bb	Duration: 600.21 ms	Bille
 
 
 26/03/2019 07:37:18
+{
+    "statusCode": 200,
+    "body": "{\"message\":\"Java Lambda Response. Memory Test. Function executed successfully!\",\"timestamp\":1553590640741,\"input\":{}}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 824371a0-45a2-476c-96f3-c7f2bc45da1d Version: $LATEST
+2019-03-26 08:57:20 824371a0-45a2-476c-96f3-c7f2bc45da1d INFO  Handler:18 - received: {}
+END RequestId: 824371a0-45a2-476c-96f3-c7f2bc45da1d
+REPORT RequestId: 824371a0-45a2-476c-96f3-c7f2bc45da1d	Duration: 859.13 ms	Billed Duration: 900 ms 	Memory Size: 1024 MB	Max Memory Used: 135 MB	
+
+
+26/03/2019 08:57:21
