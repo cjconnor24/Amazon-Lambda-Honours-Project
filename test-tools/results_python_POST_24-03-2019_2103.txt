@@ -83,3 +83,13 @@ https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.174263	0.174292	0.356198	POST	Tue 26 Mar 2019 14:04:32 GMT
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.152271	0.152283	0.949099	POST	Tue 26 Mar 2019 14:34:33 GMT
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.146153	0.146182	0.918390	POST	Tue 26 Mar 2019 15:04:34 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.151375	0.151394	0.990229	POST	Tue 26 Mar 2019 15:34:35 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.150369	0.150381	0.933416	POST	Tue 26 Mar 2019 16:04:36 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.116295	0.116322	0.903145	POST	Tue 26 Mar 2019 16:34:36 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.121372	0.121384	1.926289	POST	Tue 26 Mar 2019 17:04:37 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.163470	0.163497	0.274870	POST	Tue 26 Mar 2019 17:34:39 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.108682	0.108694	0.211655	POST	Tue 26 Mar 2019 18:04:40 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.148276	0.148306	0.269816	POST	Tue 26 Mar 2019 18:34:40 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	000	0.000000	0.000000	29.721110	POST	Tue 26 Mar 2019 19:04:40 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.152860	0.152870	0.923473	POST	Tue 26 Mar 2019 19:35:11 GMT
+https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.114379	0.114388	0.282878	POST	Tue 26 Mar 2019 20:05:12 GMT
