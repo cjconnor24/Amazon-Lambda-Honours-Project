@@ -75,3 +75,102 @@ REPORT RequestId: d98206ef-4532-48ff-b598-0638edddc78d	Duration: 7.40 ms	Billed 
 
 
 25/03/2019 23:22:37
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553558257824,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: a75c238c-0d84-41d0-ab33-5ea72665c8cb Version: $LATEST
+END RequestId: a75c238c-0d84-41d0-ab33-5ea72665c8cb
+REPORT RequestId: a75c238c-0d84-41d0-ab33-5ea72665c8cb	Duration: 0.62 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 47 MB	
+
+
+25/03/2019 23:57:38
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553560659073,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: e583d097-ca92-418b-8bb2-60eb0e1ac05c Version: $LATEST
+END RequestId: e583d097-ca92-418b-8bb2-60eb0e1ac05c
+REPORT RequestId: e583d097-ca92-418b-8bb2-60eb0e1ac05c	Duration: 2.31 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 72 MB	
+
+
+26/03/2019 00:37:39
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553563360325,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: 5d9cedc7-b36b-4600-a629-f0c9a8e60c4f Version: $LATEST
+END RequestId: 5d9cedc7-b36b-4600-a629-f0c9a8e60c4f
+REPORT RequestId: 5d9cedc7-b36b-4600-a629-f0c9a8e60c4f	Duration: 2.31 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 72 MB	
+
+
+26/03/2019 01:22:40
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553566361559,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: d86031ae-01e2-468c-a36d-8538badcb7f2 Version: $LATEST
+END RequestId: d86031ae-01e2-468c-a36d-8538badcb7f2
+REPORT RequestId: d86031ae-01e2-468c-a36d-8538badcb7f2	Duration: 2.33 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 73 MB	
+
+
+26/03/2019 02:12:41
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553569662530,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: e6d4ae6f-a3f7-4bc5-9e97-ff3c201392f4 Version: $LATEST
+END RequestId: e6d4ae6f-a3f7-4bc5-9e97-ff3c201392f4
+REPORT RequestId: e6d4ae6f-a3f7-4bc5-9e97-ff3c201392f4	Duration: 2.17 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 21 MB	
+
+
+26/03/2019 03:07:42
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553573263778,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: d5337843-e980-4fac-bec8-c7004a3bac0e Version: $LATEST
+END RequestId: d5337843-e980-4fac-bec8-c7004a3bac0e
+REPORT RequestId: d5337843-e980-4fac-bec8-c7004a3bac0e	Duration: 2.36 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 72 MB	
+
+
+26/03/2019 04:07:44
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553577164991,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: c3d0d43a-eaf6-4f54-a417-a23d6a5ba68b Version: $LATEST
+END RequestId: c3d0d43a-eaf6-4f54-a417-a23d6a5ba68b
+REPORT RequestId: c3d0d43a-eaf6-4f54-a417-a23d6a5ba68b	Duration: 2.16 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 72 MB	
+
+
+26/03/2019 05:12:45
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553581365984,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: bdcedd7a-484f-4b79-9457-807d1018316d Version: $LATEST
+END RequestId: bdcedd7a-484f-4b79-9457-807d1018316d
+REPORT RequestId: bdcedd7a-484f-4b79-9457-807d1018316d	Duration: 2.17 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 21 MB	
+
+
+26/03/2019 06:22:46
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\":1553585866924,\"message\":\"NodeJS Lambda Response. Memory Test. Function executed successfully!\"}"
+}
+--------------------------------------------------------------------
+START RequestId: 1146f604-3439-4fe7-b4cc-c635c7b245b0 Version: $LATEST
+END RequestId: 1146f604-3439-4fe7-b4cc-c635c7b245b0
+REPORT RequestId: 1146f604-3439-4fe7-b4cc-c635c7b245b0	Duration: 2.05 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 21 MB	
+
+
+26/03/2019 07:37:47

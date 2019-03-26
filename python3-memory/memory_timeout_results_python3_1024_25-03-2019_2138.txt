@@ -75,3 +75,102 @@ REPORT RequestId: 68a976a8-ab8c-4e38-8ca0-305fbfbee87d	Duration: 1.18 ms	Billed 
 
 
 25/03/2019 23:23:32
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553558313.547911, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: 05af46bc-459e-4ad0-948c-b02b4d1e3fbd Version: $LATEST
+END RequestId: 05af46bc-459e-4ad0-948c-b02b4d1e3fbd
+REPORT RequestId: 05af46bc-459e-4ad0-948c-b02b4d1e3fbd	Duration: 1.16 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+25/03/2019 23:58:33
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553560714.839357, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: fd35782b-f141-4200-aa58-f2f874a32848 Version: $LATEST
+END RequestId: fd35782b-f141-4200-aa58-f2f874a32848
+REPORT RequestId: fd35782b-f141-4200-aa58-f2f874a32848	Duration: 1.15 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 00:38:34
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553563416.101958, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: 2e0cc5eb-f28f-4b79-9656-f474ed779154 Version: $LATEST
+END RequestId: 2e0cc5eb-f28f-4b79-9656-f474ed779154
+REPORT RequestId: 2e0cc5eb-f28f-4b79-9656-f474ed779154	Duration: 1.45 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 01:23:36
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553566417.777424, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: afac3e84-88fa-42ad-b6c3-7f52042a1527 Version: $LATEST
+END RequestId: afac3e84-88fa-42ad-b6c3-7f52042a1527
+REPORT RequestId: afac3e84-88fa-42ad-b6c3-7f52042a1527	Duration: 1.29 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 81 MB	
+
+
+26/03/2019 02:13:38
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553569719.070319, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: b09ed602-97ad-4068-b79e-746877cd2f70 Version: $LATEST
+END RequestId: b09ed602-97ad-4068-b79e-746877cd2f70
+REPORT RequestId: b09ed602-97ad-4068-b79e-746877cd2f70	Duration: 1.21 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 03:08:39
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553573320.326309, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: fb209003-f5ff-4843-a3bf-27b999459cb9 Version: $LATEST
+END RequestId: fb209003-f5ff-4843-a3bf-27b999459cb9
+REPORT RequestId: fb209003-f5ff-4843-a3bf-27b999459cb9	Duration: 1.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 04:08:40
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553577221.632809, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: 510f982e-0982-43e7-8bee-b475c5653108 Version: $LATEST
+END RequestId: 510f982e-0982-43e7-8bee-b475c5653108
+REPORT RequestId: 510f982e-0982-43e7-8bee-b475c5653108	Duration: 1.31 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 05:13:41
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553581422.854385, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: 995c8c4f-e39f-4295-a645-91f90e47f12c Version: $LATEST
+END RequestId: 995c8c4f-e39f-4295-a645-91f90e47f12c
+REPORT RequestId: 995c8c4f-e39f-4295-a645-91f90e47f12c	Duration: 1.48 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 65 MB	
+
+
+26/03/2019 06:23:43
+{
+    "statusCode": 200,
+    "body": "{\"timestamp\": 1553585924.052318, \"message\": \"Python Lambda Response. Memory Test. Function executed successfully!\", \"input\": {}}"
+}
+--------------------------------------------------------------------
+START RequestId: 3580fd2f-ceaf-4c29-86ff-a114244bbbb0 Version: $LATEST
+END RequestId: 3580fd2f-ceaf-4c29-86ff-a114244bbbb0
+REPORT RequestId: 3580fd2f-ceaf-4c29-86ff-a114244bbbb0	Duration: 1.37 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 64 MB	
+
+
+26/03/2019 07:38:44
