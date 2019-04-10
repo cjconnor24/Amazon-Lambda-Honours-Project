@@ -23,7 +23,7 @@ do
     todo_id="${todo_id#\"}"
     
     curl -X $HTTP_METHOD -o /dev/null -s "${BASE_URL}/${todo_id}" -w "%{url_effective}\t${RUNTIME}\t%{http_code}\t%{time_pretransfer}\t%{time_starttransfer}\t%{time_total}\t$(echo $HTTP_METHOD)\t$(date)\n" | tee -a $RESULTS_FILENAME
-    sleep 0.5
+    sleep 1s
     
 done
 
