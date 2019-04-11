@@ -1,0 +1,16 @@
+ 
+  Serverless Error ---------------------------------------
+ 
+  This command can only be run in a Serverless service directory
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.38.0
+ 
+10/04/2019 17:14:16
