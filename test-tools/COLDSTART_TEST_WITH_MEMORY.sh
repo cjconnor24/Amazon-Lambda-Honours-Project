@@ -9,8 +9,9 @@
 BASE_URL=$1
 DATA=$(jo text="Todo created at $(date)" checked=false)
 RUNTIME=$2
+MEMSIZE=$3
 HTTP_METHOD=POST
-RESULTS_FILENAME="results_${RUNTIME}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
+RESULTS_FILENAME="results_${RUNTIME}_${MEMSIZE}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
 
 # RUNTIME_API=${BASE_URL#*aws.com/}
 # echo $TEMP_URL
