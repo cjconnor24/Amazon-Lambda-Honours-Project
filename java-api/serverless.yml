@@ -47,6 +47,30 @@ package:
 functions:
 #  hello:
 #    handler: com.serverless.Handler
+  createTodo512:
+    handler: com.serverless.CreateTodoItemHandler
+    memorySize: 512
+    events:
+    - http:
+        path: /todos512
+        method: post
+#        private: true
+  createTodo1024:
+    handler: com.serverless.CreateTodoItemHandler
+    memorySize: 1024
+    events:
+    - http:
+        path: /todos1024
+        method: post
+#        private: true
+  createTodo2048:
+    handler: com.serverless.CreateTodoItemHandler
+    memorySize: 2048
+    events:
+    - http:
+        path: /todos2048
+        method: post
+#        private: true
   createTodo:
     handler: com.serverless.CreateTodoItemHandler
     events:

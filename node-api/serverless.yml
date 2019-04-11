@@ -71,6 +71,36 @@ provider:
 functions:
   hello:
     handler: handler.hello
+  createTodo512:
+    handler: create.create
+    memorySize: 512
+    events:
+    - http:
+        path: /todos512
+        method: post
+        cors:
+          origin: '*'
+#        private: true        
+  createTodo1024:
+    handler: create.create
+    memorySize: 1024
+    events:
+    - http:
+        path: /todos1024
+        method: post
+        cors:
+          origin: '*'
+#        private: true       
+  createTodo2048:
+    handler: create.create
+    memorySize: 2048
+    events:
+    - http:
+        path: /todos2048
+        method: post
+        cors:
+          origin: '*'
+#        private: true    
   createTodo:
     handler: create.create
     events:
