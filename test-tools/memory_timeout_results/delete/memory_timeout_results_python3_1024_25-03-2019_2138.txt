@@ -1,3 +1,4 @@
+
 Runtime	Request ID	Version	End Request ID	Report Request ID	Date	Duration	Billed Duration	Memory Size	Max Memory Used
 Python	c664c567-2660-4309-89a3-744eb9909a2c Version:	$LATEST	c664c567-2660-4309-89a3-744eb9909a2c	c664c567-2660-4309-89a3-744eb9909a2c	25/03/2019 21:38	1.16	100	1024	64
 Python	ec155a78-6ea7-4e44-a454-12e10c7ab879 Version:	$LATEST	ec155a78-6ea7-4e44-a454-12e10c7ab879	ec155a78-6ea7-4e44-a454-12e10c7ab879	25/03/2019 21:43	11.8	100	1024	64

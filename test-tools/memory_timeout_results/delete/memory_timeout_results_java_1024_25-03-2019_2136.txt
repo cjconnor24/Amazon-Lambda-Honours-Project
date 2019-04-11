@@ -1,3 +1,4 @@
+
 Runtime	Request ID	Version	End Request ID	Report Request ID	Date	Duration	Billed Duration	Memory Size	Max Memory Used
 Java	56df899b-28e1-4d97-88a0-71ffe9913149 Version:	$LATEST	56df899b-28e1-4d97-88a0-71ffe9913149	56df899b-28e1-4d97-88a0-71ffe9913149	25/03/2019 21:36	799.46	800	1024	133
 Java	9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3 Version:	$LATEST	9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3	9ab8fe1b-2af5-493b-9ea9-f80bf98a20d3	25/03/2019 21:41	1.43	100	1024	133
