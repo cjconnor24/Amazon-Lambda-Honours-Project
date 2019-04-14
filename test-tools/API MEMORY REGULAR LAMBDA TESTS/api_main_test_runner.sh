@@ -11,7 +11,7 @@ RUNTIME=$2
 # ./create_entry_test.sh $BASE_URL $RUNTIME
 
 # EDIT
-./edit_entry_test.sh $BASE_URL $RUNTIME
+# ./edit_entry_test.sh $BASE_URL $RUNTIME
 
 # DELETE
 ./delete_entries.sh $BASE_URL $RUNTIME
