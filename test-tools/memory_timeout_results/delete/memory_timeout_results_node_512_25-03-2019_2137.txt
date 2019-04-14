@@ -1,3 +1,4 @@
+
 Runtime	Request ID	Version	End Request ID	Report Request ID	Date	Duration	Billed Duration	Memory Size	Max Memory Used
 NodeJS	8288cccb-50af-47cf-ae08-7009e8e7a91c Version:	$LATEST	8288cccb-50af-47cf-ae08-7009e8e7a91c	8288cccb-50af-47cf-ae08-7009e8e7a91c	25/03/2019 21:37	2.03	100	512	20
 NodeJS	b028a963-0e9a-4db7-987d-ee0dd2703e51 Version:	$LATEST	b028a963-0e9a-4db7-987d-ee0dd2703e51	b028a963-0e9a-4db7-987d-ee0dd2703e51	25/03/2019 21:42	20.58	100	512	20

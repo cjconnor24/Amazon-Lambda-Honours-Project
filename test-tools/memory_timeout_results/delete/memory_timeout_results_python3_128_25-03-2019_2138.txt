@@ -1,3 +1,4 @@
+
 Runtime	Request ID	Version	End Request ID	Report Request ID	Date	Duration	Billed Duration	Memory Size	Max Memory Used
 Python	5b3f063e-a727-4035-9faa-49436a1de794 Version:	$LATEST	5b3f063e-a727-4035-9faa-49436a1de794	5b3f063e-a727-4035-9faa-49436a1de794	25/03/2019 21:38	16.33	100	128	21
 Python	e183865d-49ad-43f7-b3ea-b5a2a9b28cd4 Version:	$LATEST	e183865d-49ad-43f7-b3ea-b5a2a9b28cd4	e183865d-49ad-43f7-b3ea-b5a2a9b28cd4	25/03/2019 21:43	48.71	100	128	21
