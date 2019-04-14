@@ -147,7 +147,36 @@ functions:
         cors:
           origin: '*'
 #        private: true    
-
+  deleteTodo512:
+    handler: delete.delete
+    memorySize: 512
+    events:
+    - http:
+        path: /todos512/{id}
+        method: delete
+        cors:
+          origin: '*'
+#        private: true 
+  deleteTodo1024:
+    handler: delete.delete
+    memorySize: 1024
+    events:
+    - http:
+        path: /todos1024/{id}
+        method: delete
+        cors:
+          origin: '*'
+#        private: true    
+  deleteTodo2048:
+    handler: delete.delete
+    memorySize: 2048
+    events:
+    - http:
+        path: /todos2048/{id}
+        method: delete
+        cors:
+          origin: '*'
+#        private: true 
 
 # you can add CloudFormation resource templates here
 resources:

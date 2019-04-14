@@ -106,6 +106,28 @@ functions:
         path: /todos/{id}
         method: delete
 #        private: true
+########################################
+  deleteTodo512:
+    handler: com.serverless.DeleteTodoItemHandler
+    memorySize: 512
+    events:
+    - http:
+        path: /todos512/{id}
+        method: delete
+  deleteTodo1024:
+    handler: com.serverless.DeleteTodoItemHandler
+    memorySize: 1024
+    events:
+    - http:
+        path: /todos1024/{id}
+        method: delete  
+  deleteTodo2048:
+    handler: com.serverless.DeleteTodoItemHandler
+    memorySize: 2048
+    events:
+    - http:
+        path: /todos512/{id}
+        method: delete              
 resources:
   Resources:
     TodosDynamoDBTable:
