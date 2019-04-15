@@ -1,26 +1,45 @@
 #!/bin/bash
 
-# VARIABLES
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
+
+# COMMANDLINE INPUT PARAMETERS ./filename.sh [url] [runtime]
+# EXAMPLE USAGE: ./timeout_test.sh http://api.urlone.aws.com JAVA
 BASE_URL=$1
-DATA=$(jo text="Todo created at $(date)" checked=false)
 RUNTIME=$2
+
+# JSON PAYLOAD TO POST TO THE API
+DATA=$(jo text="Todo created at $(date)" checked=false)
+
+# METHOD AND LOG FILENAME
 HTTP_METHOD=POST
 RESULTS_FILENAME="coldstart_timeout_results_${RUNTIME}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
 
 
+# INITIALISE THE SLEEP TIMER AND INTERVAL
 SLEEP_TIMER=5
 SLEEP_INTERVAL=5
 
+# CREATE A COUNTER
 COUNT=0
-# bash until loop
+
+# LOOP THE TEST UNTIL AN INTERVAL OF 240 MINUTES IS REACHED
 until [ $SLEEP_TIMER -gt 240 ]; do
-# while [ 1 ]; do
     
+    # MAKE A POST REQUEST TO THE API WITH A TEST TODO LIST ITEM. LOG THE RESPONSE AND TRANSFER TIMES TO LOG FILE
     curl -X $HTTP_METHOD -d "$DATA" -o /dev/null -s $BASE_URL -w "%{url_effective}\t${RUNTIME}\t%{http_code}\t%{time_pretransfer}\t%{time_starttransfer}\t%{time_total}\t$(echo $HTTP_METHOD)\t$(date)\n" | tee -a $RESULTS_FILENAME
+
+    # INCREMENT THE COUNTER
     let COUNT=COUNT+1
     
-    
+    # UPDATE CONSOLE WITH CURRENT DATE AND TIME AND CURRENT SLEEP INTERVAL FOR MONITORING
     echo "$RUNTIME: Sleeping for $SLEEP_TIMER minutes $(date +%H:%M:%S)"
+
+    # SLEEP FOR THE SPECIFIED INTERVAL
     sleep $[$SLEEP_TIMER * 60]
+
+    # INCREATE THE INTERVAL BY FIVE MINUTES FOR THE NEXT ITERATION
     let SLEEP_TIMER=SLEEP_TIMER+SLEEP_INTERVAL
+
 done
