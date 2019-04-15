@@ -1,21 +1,15 @@
-# Welcome to Serverless!
-#
-# This file is the main config file for your service.
-# It's very minimal at this point and uses default values.
-# You can always add more config options for more control.
-# We've included some commented out config examples here.
-# Just uncomment any of them to get that config option.
-#
-# For full config options, check the docs:
-#    docs.serverless.com
-#
-# Happy Coding!
+# NODE TODO LIST API
+# CHRIS CONNOR
+# HONOURS PROJECT
 
-service: node-todo-api # NOTE: update this with your service name
+# SERVICE NAME
+service: node-todo-api
 
+# CUSTOM VARIABLES
 custom:
   todoTableName: 'node-todo-${self:provider.stage}'
 
+# PROVIDER SETUP
 provider:
   name: aws
   runtime: nodejs8.10
@@ -32,45 +26,13 @@ provider:
     - dynamodb:DeleteItem
     Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:custom.todoTableName}"
 
+# ENVIRONMENT VARIABLE
   environment:
     TODO_TABLE_NAME: ${self:custom.todoTableName}  
 
-# you can overwrite defaults here
-#  stage: dev
-#  region: us-east-1
-
-# you can add statements to the Lambda function's IAM Role here
-#  iamRoleStatements:
-#    - Effect: "Allow"
-#      Action:
-#        - "s3:ListBucket"
-#      Resource: { "Fn::Join" : ["", ["arn:aws:s3:::", { "Ref" : "ServerlessDeploymentBucket" } ] ]  }
-#    - Effect: "Allow"
-#      Action:
-#        - "s3:PutObject"
-#      Resource:
-#        Fn::Join:
-#          - ""
-#          - - "arn:aws:s3:::"
-#            - "Ref" : "ServerlessDeploymentBucket"
-#            - "/*"
-
-# you can define service wide environment variables here
-#  environment:
-#    variable1: value1
-
-# you can add packaging information here
-#package:
-#  include:
-#    - include-me.js
-#    - include-me-dir/**
-#  exclude:
-#    - exclude-me.js
-#    - exclude-me-dir/**
-
+# FUNCTION DEFINITIONS
 functions:
-  hello:
-    handler: handler.hello
+# MEMORY TEST DEFINITIONS
   createTodo512:
     handler: create.create
     memorySize: 512
@@ -80,7 +42,7 @@ functions:
         method: post
         cors:
           origin: '*'
-#        private: true        
+
   createTodo1024:
     handler: create.create
     memorySize: 1024
@@ -90,7 +52,7 @@ functions:
         method: post
         cors:
           origin: '*'
-#        private: true       
+
   createTodo2048:
     handler: create.create
     memorySize: 2048
@@ -100,7 +62,7 @@ functions:
         method: post
         cors:
           origin: '*'
-#        private: true    
+# REGULAR API END POINT DEFINITIONS
   createTodo:
     handler: create.create
     events:
@@ -110,7 +72,6 @@ functions:
         cors:
           origin: '*'
 
-#        private: true    
   getTodo:
     handler: get.get
     events:
@@ -119,7 +80,7 @@ functions:
         method: get
         cors:
           origin: '*'
-#        private: true    
+
   listTodos:
     handler: list.list
     events:
@@ -128,7 +89,7 @@ functions:
         method: get
         cors:
           origin: '*'
-#        private: true    
+
   updateTodo:
     handler: update.update
     events:
@@ -137,7 +98,7 @@ functions:
         method: put
         cors:
           origin: '*'
-#        private: true    
+
   deleteTodo:
     handler: delete.delete
     events:
@@ -146,7 +107,7 @@ functions:
         method: delete
         cors:
           origin: '*'
-#        private: true    
+
   deleteTodo512:
     handler: delete.delete
     memorySize: 512
@@ -156,7 +117,7 @@ functions:
         method: delete
         cors:
           origin: '*'
-#        private: true 
+
   deleteTodo1024:
     handler: delete.delete
     memorySize: 1024
@@ -166,7 +127,7 @@ functions:
         method: delete
         cors:
           origin: '*'
-#        private: true    
+
   deleteTodo2048:
     handler: delete.delete
     memorySize: 2048
@@ -176,9 +137,9 @@ functions:
         method: delete
         cors:
           origin: '*'
-#        private: true 
 
-# you can add CloudFormation resource templates here
+
+# RESOURCES FOR DYNAMO DB TABLES - NAME AND SETUP ETC
 resources:
   Resources:
     TodosDynamoDBTable:
