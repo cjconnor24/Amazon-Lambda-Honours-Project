@@ -65,8 +65,6 @@ provider:
 #    - exclude-me-dir/**
 
 functions:
-  hello:
-    handler: handler.hello
   createTodo2048:
     handler: create.create
     memorySize: 2048
