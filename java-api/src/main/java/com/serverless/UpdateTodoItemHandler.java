@@ -19,44 +19,53 @@ public class UpdateTodoItemHandler implements RequestHandler<Map<String, Object>
     public ApiGatewayResponse handleRequest(Map<String, Object> input, Context context) {
 
         try {
-            // get the 'pathParameters' from input
+            
+            // GET THE ID FROM THE URL
             Map<String, String> pathParameters = (Map<String, String>) input.get("pathParameters");
             String todoId = pathParameters.get("id");
 
-            // get the ToDoItem by id
+            // GET THE ITEM IF IT EXISTS IN THE DB
             TodoItem todoItem = new TodoItem().get(todoId);
 
-            // send the response back
+            // IF THE ITEM IS FOUND
             if (todoItem != null) {
 
-                // UPDATE THE FIELDS
+                // GET THE JSON FROM THE BODY OF THE REQUEST AND UPDATE THE OBJECT PROPERTIES
                 JsonNode body = new ObjectMapper().readTree((String) input.get("body"));
                 todoItem.setText(body.get("text").asText());
                 todoItem.setChecked((boolean) body.get("checked").asBoolean());
                 todoItem.setUpdatedAt(new Date().getTime());
+
+                // SAVE THE UPDATED OBJECT IN THE DB USING THE DAO METHODS
                 todoItem.update(todoItem);
 
+                // BIULD THE RESPONSE AND RETURN 200 TO CALLING AGENTS
                 return ApiGatewayResponse.builder()
                         .setStatusCode(200)
                         .setObjectBody(todoItem)
-                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                         .build();
             } else {
+
+                // OTHERWISE BUILD AND RETURN 404 AS TODO WASNT FOUND
                 return ApiGatewayResponse.builder()
                         .setStatusCode(404)
                         .setObjectBody("Todo Item with id: '" + todoId + "' not found.")
-                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                         .build();
             }
         } catch (Exception ex) {
+
+            // CATCH EXCEPTION AND LOG TO LOGS
             logger.error("Error in retrieving todo item: " + ex);
 
-            // send the error response back
+            // BUILD THE ERROR RESPONSE AND RETURN TO CALLING AGENT
+            // TODO: NEEDS BETTER ERROR HANDLING HERE
             Response responseBody = new Response("Error in retrieving todo item: ", input);
             return ApiGatewayResponse.builder()
                     .setStatusCode(500)
                     .setObjectBody(responseBody)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
         }
     }

@@ -16,35 +16,44 @@ public class DeleteTodoItemHandler implements RequestHandler<Map<String, Object>
     public ApiGatewayResponse handleRequest(Map<String, Object> input, Context context) {
 
         try {
-            // get the 'pathParameters' from input
+            
+            // GET THE ID FROM THE URL AND WRITE TO VARIABLE
             Map<String,String> pathParameters =  (Map<String,String>)input.get("pathParameters");
             String todoItemId = pathParameters.get("id");
 
-            // get the TodoItem by id
+            // DELETE THE TODO ITEM BY PASSING THE ID
             Boolean success = new TodoItem().delete(todoItemId);
 
-            // send the response back
+            // IF IT WAS A SUCCESS
             if (success) {
+
+                // BUILD THE RESPONSE AND REUTNR A 204 TO SIGNIFY OK
                 return ApiGatewayResponse.builder()
                         .setStatusCode(204)
-                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                         .build();
             } else {
+
+                // OTHERWISE BUILD AND RETURN A 404 TO SAY THERE WAS NO ITEM FOUND
                 return ApiGatewayResponse.builder()
                         .setStatusCode(404)
                         .setObjectBody("Todo with id: '" + todoItemId + "' not found.")
-                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                        .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                         .build();
             }
         } catch (Exception ex) {
+
+            // CATCH EXCEPTIONS AND LOG AN ERROR
             logger.error("Error in deleting todo: " + ex);
 
-            // send the error response back
+            // BUILD THE ERROR RESPONSE - SET A 500 INTERNAL ERROR
+
+            // TODO: BETTER HANDLING OF ERRORS HERE INSTEAD OF A BLANKET 500
             Response responseBody = new Response("Error in deleting todo: ", input);
             return ApiGatewayResponse.builder()
                     .setStatusCode(500)
                     .setObjectBody(responseBody)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
         }
     }

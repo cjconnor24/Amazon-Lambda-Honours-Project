@@ -20,34 +20,40 @@ public class CreateTodoItemHandler implements RequestHandler<Map<String, Object>
 
 
         try {
-            // get the 'body' from input
+            
+            // GET THE RESPONSE BODY FROM THE REQUEST
             JsonNode body = new ObjectMapper().readTree((String) input.get("body"));
 
-
+            // CREATE NEW TODO POJO ITEM
             TodoItem todoItem = new TodoItem();
+
+            // ASSIGN ALL THE VALUES FROM THE BODY AND GET THE NEW TIME STAMPS
             todoItem.setText(body.get("text").asText());
             todoItem.setChecked((boolean) body.get("checked").asBoolean());
             todoItem.setCreatedAt(new Date().getTime());
             todoItem.setUpdatedAt(new Date().getTime());
+
+            // SAVE THE ITEM VIA THE REQUEST MAPPER / DAO METHODS INSIDE THE POJO
             todoItem.save(todoItem);
 
-            // send the response back
+            // BUILD THE RESPONSE AND SEND IT BACK TO THE CALLING AGENTS
             return ApiGatewayResponse.builder()
                     .setStatusCode(200)
                     .setObjectBody(todoItem)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
 
         } catch (Exception ex) {
-            logger.error("Error in saving product: " + ex);
 
-            // send the error response back
-            Response responseBody = new Response("Error in saving product: ", input);
-//            Response responseBody = new Response("Error in saving product: ",);
+            // CATCH ANY ERRORS AND LOG
+            logger.error("Error in saving To-do Item: " + ex);
+
+            // BUILD AN ERROR RESPONSE
+            Response responseBody = new Response("Error in saving To-do Item: ", input);
             return ApiGatewayResponse.builder()
                     .setStatusCode(500)
                     .setObjectBody(responseBody)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
         }
     }

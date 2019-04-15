@@ -16,24 +16,28 @@ public class ListTodoItemHandler implements RequestHandler<Map<String, Object>, 
     @Override
     public ApiGatewayResponse handleRequest(Map<String, Object> input, Context context) {
         try {
-            // get all todolist items
+            
+            // GET ALL TODO LIST ITEMS FROM THE DAO METHOD
             List<TodoItem> todoList = new TodoItem().list();
 
-            // send the response back
+            // BUILD THE RESPONSE AND RETURN
             return ApiGatewayResponse.builder()
                     .setStatusCode(200)
                     .setObjectBody(todoList)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
         } catch (Exception ex) {
+
+            // CATCH THE ERRORS AND OUTPUT TO CONSOLE
             logger.error("Error in listing todo list: " + ex);
 
-            // send the error response back
+            // BUILD RESPONSE ERROR AND RETURN 500
+            // TODO: NEEDS BETTER ERROR HANDLING HERE
             Response responseBody = new Response("Error in listing todo list: ", input);
             return ApiGatewayResponse.builder()
                     .setStatusCode(500)
                     .setObjectBody(responseBody)
-                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless"))
+                    .setHeaders(Collections.singletonMap("X-Powered-By", "AWS Lambda & Serverless Framework"))
                     .build();
         }
     }
