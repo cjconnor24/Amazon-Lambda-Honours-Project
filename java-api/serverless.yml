@@ -1,21 +1,15 @@
-# Welcome to Serverless!
-#
-# This file is the main config file for your service.
-# It's very minimal at this point and uses default values.
-# You can always add more config options for more control.
-# We've included some commented out config examples here.
-# Just uncomment any of them to get that config option.
-#
-# For full config options, check the docs:
-#    docs.serverless.com
-#
-# Happy Coding!
+# NODE TODO LIST API
+# CHRIS CONNOR
+# HONOURS PROJECT
 
+# SERVICE NAME
 service: java-todo-api # NOTE: update this with your service name
 
+# CUSTOM VARIABLES
 custom:
   todoTableName: 'java-todo-${self:provider.stage}'
 
+# PROVIDER SETUP
 provider:
   name: aws
   runtime: java8
@@ -35,18 +29,14 @@ provider:
   environment:
     TODO_TABLE_NAME: ${self:custom.todoTableName}
 
-
-# you can define service wide environment variables here
-#  environment:
-#    variable1: value1
-
-# you can add packaging information here
+# PACKAGE DETAILS FOR THE MAVEN OUTPUT JAR FILE
 package:
   artifact: 'target/${self:service}-${self:provider.stage}.jar'
 
+# FUNCTION DEFINITIONS
 functions:
-#  hello:
-#    handler: com.serverless.Handler
+
+# MEMORY TEST DEFINITIONS
   createTodo512:
     handler: com.serverless.CreateTodoItemHandler
     memorySize: 512
@@ -54,7 +44,6 @@ functions:
     - http:
         path: /todos512
         method: post
-#        private: true
   createTodo1024:
     handler: com.serverless.CreateTodoItemHandler
     memorySize: 1024
@@ -62,7 +51,6 @@ functions:
     - http:
         path: /todos1024
         method: post
-#        private: true
   createTodo2048:
     handler: com.serverless.CreateTodoItemHandler
     memorySize: 2048
@@ -70,43 +58,40 @@ functions:
     - http:
         path: /todos2048
         method: post
-#        private: true
+
+# REGULAR API DEFINITIONS
   createTodo:
     handler: com.serverless.CreateTodoItemHandler
     events:
     - http:
         path: /todos
         method: post
-#        private: true
   getTodo:
     handler: com.serverless.GetTodoItemHandler
     events:
     - http:
         path: /todos/{id}
         method: get
-#        private: true
   listTodos:
     handler: com.serverless.ListTodoItemHandler
     events:
     - http:
         path: /todos/
         method: get
-#        private: true
   updateTodo:
     handler: com.serverless.UpdateTodoItemHandler
     events:
     - http:
         path: /todos/{id}
         method: put
-  #        private: true
   deleteTodo:
     handler: com.serverless.DeleteTodoItemHandler
     events:
     - http:
         path: /todos/{id}
         method: delete
-#        private: true
 ########################################
+# FURTHER MEMORY ADDITIONS
   deleteTodo512:
     handler: com.serverless.DeleteTodoItemHandler
     memorySize: 512
@@ -128,6 +113,8 @@ functions:
     - http:
         path: /todos512/{id}
         method: delete              
+
+# RESOURCE SETUP - FOR DYNAMO DB        
 resources:
   Resources:
     TodosDynamoDBTable:
