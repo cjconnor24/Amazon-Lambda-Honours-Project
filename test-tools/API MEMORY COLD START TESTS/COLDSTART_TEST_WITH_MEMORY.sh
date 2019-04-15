@@ -1,14 +1,23 @@
 #!/bin/bash
-# CREATE ENTRIES
 
-# THIS SCRIPT WILL CREATE 200 ENTRIES AT AN INTERVAL OF 500ms
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
+
+# THIS TEST SCRIPT WILL RUN A SUITE OF COLD START TESTS AGAINST THE SUPPLIED
+# API URL AND RUNTIME. TEST RESULTS WILL BE LOGGED ACROSS THE THREE MEMORY TIERS
+# AS OUTLINED IN THE EXECUTION SECTION OF THE REPORT
 
 
-# VARIABLES
-# BASE_URL="https://3u5d6296vf.execute-api.eu-west-2.amazonaws.com/node-dev/todos"
+# COMMANDLINE INPUT PARAMETERS ./filename.sh [url] [runtime]
+# EXAMPLE USAGE: ./COLSTART_TEST_WITH_MEMORY http://api.urlone.aws.com JAVA
 BASE_URL=$1
-DATA=$(jo text="Todo created at $(date)" checked=false)
 RUNTIME=$2
+
+# JSON PAYLOAD TO POST TO THE API
+DATA=$(jo text="Todo created at $(date)" checked=false)
+
+# METHOD AND LOG FILENAME
 HTTP_METHOD=POST
 RESULTS_FILENAME="results_${RUNTIME}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
 
@@ -17,28 +26,35 @@ RESULTS_FILENAME="results_${RUNTIME}_${HTTP_METHOD}_$(date +%d-%m-%Y_%H%M).txt"
 
 echo $RESULTS_FILENAME
 
-# -o /dev/null
-
+# MINUTES TO PAUSE ITERATION (VALUE BASED ON COLDSTART TIMEOUT TESTS)
 MINUTES=30
 
+# COUNTER VARIABLE IF NEEDED
 COUNT=0
-# bash until loop
+
+# LOOP 500 ITERATIONS, OR UNTIL CANCELLED
 until [ $COUNT -gt 500 ]; do
 
+    # DECLARE THE MEMORY TIERS WHICH HAVE BEEN DEPLOYED
     declare -a arr=("512" "1024" "2048")
     
+    # LOOP FOR EACH MEMORY TIER IN THE ARRAY
     for i in "${arr[@]}"
     do
+
+        # MAKE A REQUEST TO THE API USING THE HTTP METHOD AND DATA DECLARED ABOVE
+        # LOG ALL FILE DATA TO BOTH THE CONSOLE FOR MONITORING AND THE RESULTS FILE FOR POST-EVALUATION
         curl -X $HTTP_METHOD -d "$DATA" -o /dev/null -s $BASE_URL$i -w "%{url_effective}\t${RUNTIME}\t${i}\t%{http_code}\t%{time_pretransfer}\t%{time_starttransfer}\t%{time_total}\t$(echo $HTTP_METHOD)\t$(date)\n" | tee -a $RESULTS_FILENAME
         let COUNT=COUNT+1
 
-        # SLEEP FOR 10s before running the next memory size
+        # SLEEP FOR 10s BEFORE RUNNING THE NEXT MEMORY TEST - THIS IS TO AVOID ANY CROSS CONTAMINATION BETWEEN THE MEMORY TIERS
         sleep 10s
 
+        # OUTPUT CURRENT SLEEP STATUS TO THE CONSOLE FOR MONITORING
         echo "$RUNTIME $i: Sleeping for $MINUTES minutes $(date +%H:%M:%S)"
     done
 
-    # sleep $COUNT
+    # SLEEP FOR THE NUMBER OF MINUTES DECLARED ABOVE - THIS IS TO ENSURE THE FUNCTIONS ARE COLD ON THE NEXT ITERATION
     sleep $[$MINUTES * 60]
-    # sleep 1s
+
 done
