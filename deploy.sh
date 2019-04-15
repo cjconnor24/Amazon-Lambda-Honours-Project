@@ -1,26 +1,37 @@
 #!/bin/bash
 
-## declare an array variable
-declare -a arr=("java" "node" "python3")
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
 
-## now loop through the above array
-for i in "${arr[@]}"
+# DEPLOY APIS
+
+# THIS SCRIPT WILL DEPLOY ALL THREE APIS AT ONCE WITHOUT
+# HAVING TO DEPLOY EACH ONE MANUALLY WITH THE SERVERLESS FRAMEWORK
+
+# CREATE AN ARRAY WITH THE THREE FOLDERS
+declare -a API_FOLDERS=("java" "node" "python3")
+
+# LOOP THROUGH EACH OF THE FOLDERS
+for i in "${API_FOLDERS[@]}"
 do
+   # CONCATENATE THE FULL FOLDER WITH -API
    folder="$i-api"
    
+   # CHANGE DIRECTORY TO THIS FOLDER
    cd $folder
    
+   # UPDATE CONSOLE TO KEEP USER AWARE OF PROGRESS
    echo "Now deploying $i API"
    echo ""
    pwd
    echo ""
    echo "####################"
 
+   # CALL THE DEPLOY FUNCTION IN THE SERVERLESS FRAMEWORK
    sls deploy
-   
 
+   # RETURN TO THE MAIN FOLDER
    cd ../
-   # or do whatever with individual element of the array
+   
 done
-
-# You can access them using echo "${arr[0]}", "${arr[1]}" also

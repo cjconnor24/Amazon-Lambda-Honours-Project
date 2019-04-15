@@ -1,27 +1,42 @@
 #!/bin/bash
 
-## declare an array variable
-declare -a arr=("java" "node" "python3")
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
 
-## now loop through the above array
-for i in "${arr[@]}"
+# REMOVE APIS
+
+# THIS SCRIPT WILL REMOVE ALL THE APIS FROM LIVE
+# DEPLOYMENT AUTOMATICALL WITHOUT HAVING TO CALL THEM
+# INDIVIDUALLY VIA THE SERVERLESS FRAMEWORK
+
+# CREATE AN ARRAY WITH THE THREE FOLDERS
+declare -a API_FOLDERS=("java" "node" "python3")
+
+# LOOP THROUGH EACH OF THE FOLDERS
+for i in "${API_FOLDERS[@]}"
 do
+
+   # CONCATENATE THE FULL FOLDER WITH -API
    folder="$i-api"
    
+   # CHANGE DIRECTORY TO THIS FOLDER
    cd $folder
    
+   # UPDATE CONSOLE TO KEEP USER AWARE OF PROGRESS
    echo "REMOVING $i API"
    echo ""
    pwd
    echo ""
    echo "####################"
 
+   # REMOVE THE API USING THE SERVERLESS FRAMEWORK
    sls remove
    
-
+   # RETURN TO THE MAIN FOLDER
    cd ../
-   # or do whatever with individual element of the array
+
 done
 
-# You can access them using echo "${arr[0]}", "${arr[1]}" also
+# UPDATE THE USER THAT ALL APIS HAVE NOW BEEN REMOVED
 echo "***** APIS NOW HAVE BEEN REMOVED *****"
