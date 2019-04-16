@@ -53,3 +53,9 @@ until [ $COUNT -gt 500 ]; do
     sleep $[$MINUTES * 60]
     
 done
+
+# RETURN TO CALLING FOLDER
+cd ../
+
+# OUTPUT TO CONSOLE TO SHOW THAT TESTS HAVE COMPLETE
+echo "Tests complete at $(date)"
