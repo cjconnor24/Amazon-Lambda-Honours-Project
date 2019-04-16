@@ -646,3 +646,623 @@ REPORT RequestId: 5b192846-0941-4646-bcb6-2a3e409d1558	Duration: 6004.36 ms	Bill
      Node Version:           11.10.0
      Serverless Version:     1.36.3
  
+{
+    "errorMessage": "2019-04-16T07:59:18.937Z ef0b230f-aeec-4ed7-8ae6-08e2e25a366e Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: ef0b230f-aeec-4ed7-8ae6-08e2e25a366e Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: ef0b230f-aeec-4ed7-8ae6-08e2e25a366e
+REPORT RequestId: ef0b230f-aeec-4ed7-8ae6-08e2e25a366e	Duration: 6005.10 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T07:59:18.937Z ef0b230f-aeec-4ed7-8ae6-08e2e25a366e Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T08:29:38.506Z 32e4d92c-6e17-434a-bf9b-8db6cf52107a Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 32e4d92c-6e17-434a-bf9b-8db6cf52107a Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 32e4d92c-6e17-434a-bf9b-8db6cf52107a
+REPORT RequestId: 32e4d92c-6e17-434a-bf9b-8db6cf52107a	Duration: 6003.22 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 122 MB	
+
+2019-04-16T08:29:38.506Z 32e4d92c-6e17-434a-bf9b-8db6cf52107a Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T08:59:58.095Z d0ba3df4-1f42-4935-9a58-fc52f2ae1876 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: d0ba3df4-1f42-4935-9a58-fc52f2ae1876 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: d0ba3df4-1f42-4935-9a58-fc52f2ae1876
+REPORT RequestId: d0ba3df4-1f42-4935-9a58-fc52f2ae1876	Duration: 6002.88 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T08:59:58.095Z d0ba3df4-1f42-4935-9a58-fc52f2ae1876 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T09:30:17.512Z 591819e4-f1da-4e97-ac48-44d4cac54c51 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 591819e4-f1da-4e97-ac48-44d4cac54c51 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 591819e4-f1da-4e97-ac48-44d4cac54c51
+REPORT RequestId: 591819e4-f1da-4e97-ac48-44d4cac54c51	Duration: 6002.66 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 120 MB	
+
+2019-04-16T09:30:17.512Z 591819e4-f1da-4e97-ac48-44d4cac54c51 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T10:00:37.510Z c047a8e8-e5fd-4d87-8575-d7d3185585a8 Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: c047a8e8-e5fd-4d87-8575-d7d3185585a8 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: c047a8e8-e5fd-4d87-8575-d7d3185585a8
+REPORT RequestId: c047a8e8-e5fd-4d87-8575-d7d3185585a8	Duration: 6006.18 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 126 MB	
+
+2019-04-16T10:00:37.510Z c047a8e8-e5fd-4d87-8575-d7d3185585a8 Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T10:30:57.773Z 52aabe70-95da-4686-a288-1b8cef390bf8 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 52aabe70-95da-4686-a288-1b8cef390bf8 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 52aabe70-95da-4686-a288-1b8cef390bf8
+REPORT RequestId: 52aabe70-95da-4686-a288-1b8cef390bf8	Duration: 6002.89 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 123 MB	
+
+2019-04-16T10:30:57.773Z 52aabe70-95da-4686-a288-1b8cef390bf8 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T11:01:17.313Z 0d32abbc-0106-4817-974d-7619af231612 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 0d32abbc-0106-4817-974d-7619af231612 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 0d32abbc-0106-4817-974d-7619af231612
+REPORT RequestId: 0d32abbc-0106-4817-974d-7619af231612	Duration: 6002.72 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T11:01:17.313Z 0d32abbc-0106-4817-974d-7619af231612 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T11:31:37.420Z 09801c57-ea1e-4b06-9c5b-83ac07feeb63 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 09801c57-ea1e-4b06-9c5b-83ac07feeb63 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 09801c57-ea1e-4b06-9c5b-83ac07feeb63
+REPORT RequestId: 09801c57-ea1e-4b06-9c5b-83ac07feeb63	Duration: 6004.48 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T11:31:37.420Z 09801c57-ea1e-4b06-9c5b-83ac07feeb63 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T12:01:57.116Z 961603f3-a8ed-417a-af4e-fcdc44953264 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 961603f3-a8ed-417a-af4e-fcdc44953264 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 961603f3-a8ed-417a-af4e-fcdc44953264
+REPORT RequestId: 961603f3-a8ed-417a-af4e-fcdc44953264	Duration: 6004.22 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 122 MB	
+
+2019-04-16T12:01:57.116Z 961603f3-a8ed-417a-af4e-fcdc44953264 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T12:32:16.793Z c1ae16a8-6d83-4bf5-9e6f-b0c6bd8e2883 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: c1ae16a8-6d83-4bf5-9e6f-b0c6bd8e2883 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: c1ae16a8-6d83-4bf5-9e6f-b0c6bd8e2883
+REPORT RequestId: c1ae16a8-6d83-4bf5-9e6f-b0c6bd8e2883	Duration: 6004.30 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T12:32:16.793Z c1ae16a8-6d83-4bf5-9e6f-b0c6bd8e2883 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T13:02:37.057Z 6ffb6571-5d56-4802-a973-0f682a5e19c8 Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 6ffb6571-5d56-4802-a973-0f682a5e19c8 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 6ffb6571-5d56-4802-a973-0f682a5e19c8
+REPORT RequestId: 6ffb6571-5d56-4802-a973-0f682a5e19c8	Duration: 6006.17 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 122 MB	
+
+2019-04-16T13:02:37.057Z 6ffb6571-5d56-4802-a973-0f682a5e19c8 Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T13:32:54.020Z e52b7fb8-6402-4e53-a789-a9a316c49978 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: e52b7fb8-6402-4e53-a789-a9a316c49978 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: e52b7fb8-6402-4e53-a789-a9a316c49978
+REPORT RequestId: e52b7fb8-6402-4e53-a789-a9a316c49978	Duration: 6004.83 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 123 MB	
+
+2019-04-16T13:32:54.020Z e52b7fb8-6402-4e53-a789-a9a316c49978 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T14:03:11.196Z 2bc5a2ca-82c7-4747-8625-afc39ae89307 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 2bc5a2ca-82c7-4747-8625-afc39ae89307 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 2bc5a2ca-82c7-4747-8625-afc39ae89307
+REPORT RequestId: 2bc5a2ca-82c7-4747-8625-afc39ae89307	Duration: 6004.86 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 127 MB	
+
+2019-04-16T14:03:11.196Z 2bc5a2ca-82c7-4747-8625-afc39ae89307 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T14:33:28.484Z ce3d8d0a-d190-4558-b5ad-ab9a33273804 Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: ce3d8d0a-d190-4558-b5ad-ab9a33273804 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: ce3d8d0a-d190-4558-b5ad-ab9a33273804
+REPORT RequestId: ce3d8d0a-d190-4558-b5ad-ab9a33273804	Duration: 6006.24 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T14:33:28.484Z ce3d8d0a-d190-4558-b5ad-ab9a33273804 Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T15:03:46.252Z 00c1207b-9a80-4d12-a643-77e7e7211b2c Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 00c1207b-9a80-4d12-a643-77e7e7211b2c Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 00c1207b-9a80-4d12-a643-77e7e7211b2c
+REPORT RequestId: 00c1207b-9a80-4d12-a643-77e7e7211b2c	Duration: 6005.19 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 126 MB	
+
+2019-04-16T15:03:46.252Z 00c1207b-9a80-4d12-a643-77e7e7211b2c Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T15:34:03.698Z b72b64f2-5a91-4690-9518-d1efdda5f495 Task timed out after 6.00 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: b72b64f2-5a91-4690-9518-d1efdda5f495 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: b72b64f2-5a91-4690-9518-d1efdda5f495
+REPORT RequestId: b72b64f2-5a91-4690-9518-d1efdda5f495	Duration: 6005.03 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T15:34:03.698Z b72b64f2-5a91-4690-9518-d1efdda5f495 Task timed out after 6.00 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T16:04:21.058Z 8ef2de5b-787f-4ed8-a8e8-b1d2891c9ca4 Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 8ef2de5b-787f-4ed8-a8e8-b1d2891c9ca4 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 8ef2de5b-787f-4ed8-a8e8-b1d2891c9ca4
+REPORT RequestId: 8ef2de5b-787f-4ed8-a8e8-b1d2891c9ca4	Duration: 6006.16 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 127 MB	
+
+2019-04-16T16:04:21.058Z 8ef2de5b-787f-4ed8-a8e8-b1d2891c9ca4 Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T16:34:38.600Z 4a8dba62-7b71-4db1-9e3e-b2d9ac08633b Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 4a8dba62-7b71-4db1-9e3e-b2d9ac08633b Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 4a8dba62-7b71-4db1-9e3e-b2d9ac08633b
+REPORT RequestId: 4a8dba62-7b71-4db1-9e3e-b2d9ac08633b	Duration: 6006.15 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T16:34:38.600Z 4a8dba62-7b71-4db1-9e3e-b2d9ac08633b Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T17:04:56.322Z 7abaf529-8253-4ce6-9f97-2abce79f5bb7 Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 7abaf529-8253-4ce6-9f97-2abce79f5bb7 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 7abaf529-8253-4ce6-9f97-2abce79f5bb7
+REPORT RequestId: 7abaf529-8253-4ce6-9f97-2abce79f5bb7	Duration: 6006.13 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 122 MB	
+
+2019-04-16T17:04:56.322Z 7abaf529-8253-4ce6-9f97-2abce79f5bb7 Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 
+{
+    "errorMessage": "2019-04-16T17:35:13.632Z 597e4e2b-a670-418c-8945-238d0e60493c Task timed out after 6.01 seconds"
+}
+--------------------------------------------------------------------
+START RequestId: 597e4e2b-a670-418c-8945-238d0e60493c Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 597e4e2b-a670-418c-8945-238d0e60493c
+REPORT RequestId: 597e4e2b-a670-418c-8945-238d0e60493c	Duration: 6005.19 ms	Billed Duration: 6000 ms 	Memory Size: 512 MB	Max Memory Used: 121 MB	
+
+2019-04-16T17:35:13.632Z 597e4e2b-a670-418c-8945-238d0e60493c Task timed out after 6.01 seconds
+
+
+ 
+  Error --------------------------------------------------
+ 
+  Invoked function failed
+ 
+     For debugging logs, run again after setting the "SLS_DEBUG=*" environment variable.
+ 
+  Get Support --------------------------------------------
+     Docs:          docs.serverless.com
+     Bugs:          github.com/serverless/serverless/issues
+     Issues:        forum.serverless.com
+ 
+  Your Environment Information -----------------------------
+     OS:                     darwin
+     Node Version:           11.10.0
+     Serverless Version:     1.36.3
+ 

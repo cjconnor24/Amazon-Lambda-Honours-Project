@@ -352,3 +352,343 @@ END RequestId: 39ebf4de-f17c-4b86-97ab-c9afc6d09b13
 REPORT RequestId: 39ebf4de-f17c-4b86-97ab-c9afc6d09b13	Duration: 4471.71 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 141 MB	
 
 
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1bb0b64f-0845-4b2c-8917-06302c51b4ee\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555401563716,\"updatedAt\":1555401563716}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: cd5f48cd-c23a-4e76-b4cb-b828a27e2156 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: cd5f48cd-c23a-4e76-b4cb-b828a27e2156
+REPORT RequestId: cd5f48cd-c23a-4e76-b4cb-b828a27e2156	Duration: 4142.70 ms	Billed Duration: 4200 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1fff36a9-6638-411b-893a-529d5da6e633\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555403383353,\"updatedAt\":1555403383353}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6cd46a6d-b6c9-4f4d-b9f3-53951e5851a3 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 6cd46a6d-b6c9-4f4d-b9f3-53951e5851a3
+REPORT RequestId: 6cd46a6d-b6c9-4f4d-b9f3-53951e5851a3	Duration: 4365.54 ms	Billed Duration: 4400 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"be5afcfe-bc21-48e2-88c4-b5778e139df4\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555405203076,\"updatedAt\":1555405203076}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2531b40a-dad6-46bb-ba08-4c7a55a8f27e Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 2531b40a-dad6-46bb-ba08-4c7a55a8f27e
+REPORT RequestId: 2531b40a-dad6-46bb-ba08-4c7a55a8f27e	Duration: 4619.73 ms	Billed Duration: 4700 ms 	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"56ab9077-66b9-4b20-8321-9e0ac17e43dd\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555407022591,\"updatedAt\":1555407022591}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6ffe8db6-c664-4a47-9ebc-f15c99cbac65 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 6ffe8db6-c664-4a47-9ebc-f15c99cbac65
+REPORT RequestId: 6ffe8db6-c664-4a47-9ebc-f15c99cbac65	Duration: 4285.04 ms	Billed Duration: 4300 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"97fe8f6d-0d5a-4080-adbf-4fb97bc5f542\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555408842555,\"updatedAt\":1555408842555}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6f2c5b41-4a76-4d10-a10d-89aae34084a7 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 6f2c5b41-4a76-4d10-a10d-89aae34084a7
+REPORT RequestId: 6f2c5b41-4a76-4d10-a10d-89aae34084a7	Duration: 4023.42 ms	Billed Duration: 4100 ms 	Memory Size: 1024 MB	Max Memory Used: 116 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4d03c1ac-e8db-4602-b9a8-18f8e8e30131\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555410662579,\"updatedAt\":1555410662579}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f56ee490-7282-4319-a785-71a7cc2339d6 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: f56ee490-7282-4319-a785-71a7cc2339d6
+REPORT RequestId: f56ee490-7282-4319-a785-71a7cc2339d6	Duration: 4273.58 ms	Billed Duration: 4300 ms 	Memory Size: 1024 MB	Max Memory Used: 137 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"181f86b9-3f38-4b6b-9d08-69cad16e436f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555412482081,\"updatedAt\":1555412482081}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7d37f172-74ec-42e3-92eb-07628b549a67 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 7d37f172-74ec-42e3-92eb-07628b549a67
+REPORT RequestId: 7d37f172-74ec-42e3-92eb-07628b549a67	Duration: 4577.09 ms	Billed Duration: 4600 ms 	Memory Size: 1024 MB	Max Memory Used: 145 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"9dd63253-eb47-4135-8da0-86ce0f236f26\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555414302253,\"updatedAt\":1555414302253}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f217ec59-e048-4e39-92ac-842b2e2c16d0 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: f217ec59-e048-4e39-92ac-842b2e2c16d0
+REPORT RequestId: f217ec59-e048-4e39-92ac-842b2e2c16d0	Duration: 4285.32 ms	Billed Duration: 4300 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c14ae215-148c-44eb-82b6-2d845b8d8202\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555416121904,\"updatedAt\":1555416121904}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b56a6c83-7f7c-44f5-a0d1-58627c80011e Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: b56a6c83-7f7c-44f5-a0d1-58627c80011e
+REPORT RequestId: b56a6c83-7f7c-44f5-a0d1-58627c80011e	Duration: 4265.31 ms	Billed Duration: 4300 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"32ff8ffb-e1c0-406f-8837-9eac9909d8ce\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555417941635,\"updatedAt\":1555417941635}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d3ebbdd5-edea-42ab-9abf-5340d0519528 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: d3ebbdd5-edea-42ab-9abf-5340d0519528
+REPORT RequestId: d3ebbdd5-edea-42ab-9abf-5340d0519528	Duration: 4424.20 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 137 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1a53f3dd-1a57-4177-840b-e5b1229c7f69\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555419761926,\"updatedAt\":1555419761926}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f11e165b-1fee-4947-ac60-94660a007bc7 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: f11e165b-1fee-4947-ac60-94660a007bc7
+REPORT RequestId: f11e165b-1fee-4947-ac60-94660a007bc7	Duration: 4254.12 ms	Billed Duration: 4300 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"cdd7f16f-a393-4a10-a94a-af3103eb82b3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555421579064,\"updatedAt\":1555421579064}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f8240635-8ef4-445e-becf-1d9232c927e7 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: f8240635-8ef4-445e-becf-1d9232c927e7
+REPORT RequestId: f8240635-8ef4-445e-becf-1d9232c927e7	Duration: 4473.87 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1265a83c-4480-40cd-8c6c-91539d2e9125\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555423395998,\"updatedAt\":1555423395998}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a3f29522-d330-49e1-a6cc-2fb2d3c54338 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: a3f29522-d330-49e1-a6cc-2fb2d3c54338
+REPORT RequestId: a3f29522-d330-49e1-a6cc-2fb2d3c54338	Duration: 4648.13 ms	Billed Duration: 4700 ms 	Memory Size: 1024 MB	Max Memory Used: 144 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"84cbfb4e-7268-4bf3-ae9d-431abbe643c2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555425213366,\"updatedAt\":1555425213366}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ba5ca4b3-99e4-4303-b633-6e85c17673ae Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: ba5ca4b3-99e4-4303-b633-6e85c17673ae
+REPORT RequestId: ba5ca4b3-99e4-4303-b633-6e85c17673ae	Duration: 4401.87 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"02991391-c905-4400-a694-eeaf6a74d1d0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555427031154,\"updatedAt\":1555427031154}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 203b9226-17df-484f-9ba7-6d7b61a8b127 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 203b9226-17df-484f-9ba7-6d7b61a8b127
+REPORT RequestId: 203b9226-17df-484f-9ba7-6d7b61a8b127	Duration: 4539.62 ms	Billed Duration: 4600 ms 	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4abcbf8f-2f87-49e7-9325-937b04df788a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555428848511,\"updatedAt\":1555428848511}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d1d3436a-20d8-4f7f-a721-be281f11a721 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: d1d3436a-20d8-4f7f-a721-be281f11a721
+REPORT RequestId: d1d3436a-20d8-4f7f-a721-be281f11a721	Duration: 4502.02 ms	Billed Duration: 4600 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fc7fbc52-9447-4f2e-a64f-aaefb5cf7c97\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555430665750,\"updatedAt\":1555430665750}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 88daa4a4-2b26-4c22-aa90-87b95767a9f8 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 88daa4a4-2b26-4c22-aa90-87b95767a9f8
+REPORT RequestId: 88daa4a4-2b26-4c22-aa90-87b95767a9f8	Duration: 4112.51 ms	Billed Duration: 4200 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5b8579ca-4e3d-4a1e-a012-9deea049eca5\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555432483496,\"updatedAt\":1555432483496}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e3a3d63c-f1ff-4332-8975-6f796c1cab1e Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: e3a3d63c-f1ff-4332-8975-6f796c1cab1e
+REPORT RequestId: e3a3d63c-f1ff-4332-8975-6f796c1cab1e	Duration: 4417.14 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 139 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5dcb0868-65c7-4967-bdef-56fef8ef6a91\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555434301038,\"updatedAt\":1555434301038}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 3d51c46d-525e-4ace-9476-2395e64eaa63 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 3d51c46d-525e-4ace-9476-2395e64eaa63
+REPORT RequestId: 3d51c46d-525e-4ace-9476-2395e64eaa63	Duration: 4089.62 ms	Billed Duration: 4100 ms 	Memory Size: 1024 MB	Max Memory Used: 136 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"040d09db-b616-4a94-a219-ec5d7de8e8d6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555436118485,\"updatedAt\":1555436118485}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8219c114-2761-49f3-afee-03b157864702 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 8219c114-2761-49f3-afee-03b157864702
+REPORT RequestId: 8219c114-2761-49f3-afee-03b157864702	Duration: 4440.20 ms	Billed Duration: 4500 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
