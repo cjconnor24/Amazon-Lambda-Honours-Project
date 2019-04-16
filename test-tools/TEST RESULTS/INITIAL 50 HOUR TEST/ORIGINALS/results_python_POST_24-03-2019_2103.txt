@@ -1,4 +1,3 @@
-
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.139658	0.139669	0.314572	POST	Sun 24 Mar 2019 21:03:20 GMT
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.150256	0.150284	0.975934	POST	Sun 24 Mar 2019 21:33:20 GMT
 https://kjot90gbi9.execute-api.eu-west-2.amazonaws.com/py3-dev/todos	python	200	0.143615	0.143627	0.912687	POST	Sun 24 Mar 2019 22:03:21 GMT
