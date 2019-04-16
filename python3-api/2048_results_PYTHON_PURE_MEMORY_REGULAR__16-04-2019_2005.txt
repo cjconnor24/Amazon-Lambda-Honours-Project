@@ -1,0 +1,2010 @@
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"94f5044c-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441521275, \"updatedAt\": 1555441521275}"
+}
+--------------------------------------------------------------------
+START RequestId: 55e4ff77-c7a3-4797-b446-d1f62ec3e95d Version: $LATEST
+END RequestId: 55e4ff77-c7a3-4797-b446-d1f62ec3e95d
+REPORT RequestId: 55e4ff77-c7a3-4797-b446-d1f62ec3e95d	Duration: 45.74 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 69 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9741258c-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441525139, \"updatedAt\": 1555441525139}"
+}
+--------------------------------------------------------------------
+START RequestId: 3379ff5b-c3cb-4e84-a672-7076f592bc7f Version: $LATEST
+END RequestId: 3379ff5b-c3cb-4e84-a672-7076f592bc7f
+REPORT RequestId: 3379ff5b-c3cb-4e84-a672-7076f592bc7f	Duration: 11.38 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 69 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9991a21c-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441529022, \"updatedAt\": 1555441529022}"
+}
+--------------------------------------------------------------------
+START RequestId: 51eb47ea-55d3-4565-8cef-65082b62560e Version: $LATEST
+END RequestId: 51eb47ea-55d3-4565-8cef-65082b62560e
+REPORT RequestId: 51eb47ea-55d3-4565-8cef-65082b62560e	Duration: 10.64 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 69 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9be02480-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441532891, \"updatedAt\": 1555441532891}"
+}
+--------------------------------------------------------------------
+START RequestId: 3956bd7a-092d-45d3-b8e8-66895f2590fe Version: $LATEST
+END RequestId: 3956bd7a-092d-45d3-b8e8-66895f2590fe
+REPORT RequestId: 3956bd7a-092d-45d3-b8e8-66895f2590fe	Duration: 12.28 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 69 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9e2a337a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441536733, \"updatedAt\": 1555441536733}"
+}
+--------------------------------------------------------------------
+START RequestId: 4fcc7f1c-c0fd-46b1-b243-825621019f3a Version: $LATEST
+END RequestId: 4fcc7f1c-c0fd-46b1-b243-825621019f3a
+REPORT RequestId: 4fcc7f1c-c0fd-46b1-b243-825621019f3a	Duration: 11.68 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a0709098-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441540550, \"updatedAt\": 1555441540550}"
+}
+--------------------------------------------------------------------
+START RequestId: 1f704a91-68af-4439-a0e9-95e4de43cddd Version: $LATEST
+END RequestId: 1f704a91-68af-4439-a0e9-95e4de43cddd
+REPORT RequestId: 1f704a91-68af-4439-a0e9-95e4de43cddd	Duration: 11.33 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a2d10f2a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441544538, \"updatedAt\": 1555441544538}"
+}
+--------------------------------------------------------------------
+START RequestId: 9d37c704-dfd2-4d0d-9e3b-b3c569edb01b Version: $LATEST
+END RequestId: 9d37c704-dfd2-4d0d-9e3b-b3c569edb01b
+REPORT RequestId: 9d37c704-dfd2-4d0d-9e3b-b3c569edb01b	Duration: 12.04 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a5238546-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441548433, \"updatedAt\": 1555441548433}"
+}
+--------------------------------------------------------------------
+START RequestId: 284bf9dd-ee71-482b-bd95-63ff945161ff Version: $LATEST
+END RequestId: 284bf9dd-ee71-482b-bd95-63ff945161ff
+REPORT RequestId: 284bf9dd-ee71-482b-bd95-63ff945161ff	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a77ac192-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441552361, \"updatedAt\": 1555441552361}"
+}
+--------------------------------------------------------------------
+START RequestId: 4f949f8a-6449-4782-abe3-071c0f5677a4 Version: $LATEST
+END RequestId: 4f949f8a-6449-4782-abe3-071c0f5677a4
+REPORT RequestId: 4f949f8a-6449-4782-abe3-071c0f5677a4	Duration: 10.57 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a9cc96be-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441556252, \"updatedAt\": 1555441556252}"
+}
+--------------------------------------------------------------------
+START RequestId: 5c06f840-8225-4190-9a12-6b8eefe79c9e Version: $LATEST
+END RequestId: 5c06f840-8225-4190-9a12-6b8eefe79c9e
+REPORT RequestId: 5c06f840-8225-4190-9a12-6b8eefe79c9e	Duration: 10.76 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ac18e378-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441560108, \"updatedAt\": 1555441560108}"
+}
+--------------------------------------------------------------------
+START RequestId: fda2c51c-4ddc-4775-b9fa-8b75f3b35fc6 Version: $LATEST
+END RequestId: fda2c51c-4ddc-4775-b9fa-8b75f3b35fc6
+REPORT RequestId: fda2c51c-4ddc-4775-b9fa-8b75f3b35fc6	Duration: 10.98 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ae635c58-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441563951, \"updatedAt\": 1555441563951}"
+}
+--------------------------------------------------------------------
+START RequestId: f147a548-9f5e-4036-acb3-6ce0e14f8bce Version: $LATEST
+END RequestId: f147a548-9f5e-4036-acb3-6ce0e14f8bce
+REPORT RequestId: f147a548-9f5e-4036-acb3-6ce0e14f8bce	Duration: 10.71 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b0aef134-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441567802, \"updatedAt\": 1555441567802}"
+}
+--------------------------------------------------------------------
+START RequestId: 9126d8c4-fa46-4d1d-88d5-80bf24a9e311 Version: $LATEST
+END RequestId: 9126d8c4-fa46-4d1d-88d5-80bf24a9e311
+REPORT RequestId: 9126d8c4-fa46-4d1d-88d5-80bf24a9e311	Duration: 10.61 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b2fbb58a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441571661, \"updatedAt\": 1555441571661}"
+}
+--------------------------------------------------------------------
+START RequestId: 96a11e3a-8bc5-4284-84c7-1f978484f6ef Version: $LATEST
+END RequestId: 96a11e3a-8bc5-4284-84c7-1f978484f6ef
+REPORT RequestId: 96a11e3a-8bc5-4284-84c7-1f978484f6ef	Duration: 11.11 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b54ff9f4-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441575568, \"updatedAt\": 1555441575568}"
+}
+--------------------------------------------------------------------
+START RequestId: f968132e-a6ae-4181-be75-e72db127eeaf Version: $LATEST
+END RequestId: f968132e-a6ae-4181-be75-e72db127eeaf
+REPORT RequestId: f968132e-a6ae-4181-be75-e72db127eeaf	Duration: 11.01 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b79da6ca-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441579433, \"updatedAt\": 1555441579433}"
+}
+--------------------------------------------------------------------
+START RequestId: 8104e5db-05b7-4226-8ecf-f4041ff0c7e6 Version: $LATEST
+END RequestId: 8104e5db-05b7-4226-8ecf-f4041ff0c7e6
+REPORT RequestId: 8104e5db-05b7-4226-8ecf-f4041ff0c7e6	Duration: 10.36 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b9f1e058-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441583340, \"updatedAt\": 1555441583340}"
+}
+--------------------------------------------------------------------
+START RequestId: 68ca4d06-ee5d-4698-bab8-5e5bc5a14fee Version: $LATEST
+END RequestId: 68ca4d06-ee5d-4698-bab8-5e5bc5a14fee
+REPORT RequestId: 68ca4d06-ee5d-4698-bab8-5e5bc5a14fee	Duration: 10.69 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"bc4623b4-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441587248, \"updatedAt\": 1555441587248}"
+}
+--------------------------------------------------------------------
+START RequestId: 646f7968-2623-4d92-a304-93246db2482a Version: $LATEST
+END RequestId: 646f7968-2623-4d92-a304-93246db2482a
+REPORT RequestId: 646f7968-2623-4d92-a304-93246db2482a	Duration: 10.94 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"be8e2216-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441591075, \"updatedAt\": 1555441591075}"
+}
+--------------------------------------------------------------------
+START RequestId: 91cd3d30-620a-4336-ae11-90f979eb70d7 Version: $LATEST
+END RequestId: 91cd3d30-620a-4336-ae11-90f979eb70d7
+REPORT RequestId: 91cd3d30-620a-4336-ae11-90f979eb70d7	Duration: 10.30 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c0d6b88a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441594906, \"updatedAt\": 1555441594906}"
+}
+--------------------------------------------------------------------
+START RequestId: 0ac68d87-2033-4db7-a296-e58fd8c250b9 Version: $LATEST
+END RequestId: 0ac68d87-2033-4db7-a296-e58fd8c250b9
+REPORT RequestId: 0ac68d87-2033-4db7-a296-e58fd8c250b9	Duration: 10.79 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c3266bda-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441598784, \"updatedAt\": 1555441598784}"
+}
+--------------------------------------------------------------------
+START RequestId: ebbcd96e-4951-4097-899b-1e9dc2cd885a Version: $LATEST
+END RequestId: ebbcd96e-4951-4097-899b-1e9dc2cd885a
+REPORT RequestId: ebbcd96e-4951-4097-899b-1e9dc2cd885a	Duration: 10.41 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c56f72f6-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441602618, \"updatedAt\": 1555441602618}"
+}
+--------------------------------------------------------------------
+START RequestId: a80d1e01-a38e-4230-9094-b630db356964 Version: $LATEST
+END RequestId: a80d1e01-a38e-4230-9094-b630db356964
+REPORT RequestId: a80d1e01-a38e-4230-9094-b630db356964	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c7bdf4ce-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441606488, \"updatedAt\": 1555441606488}"
+}
+--------------------------------------------------------------------
+START RequestId: d9f69bf2-f907-4540-851f-959dcf7a97e5 Version: $LATEST
+END RequestId: d9f69bf2-f907-4540-851f-959dcf7a97e5
+REPORT RequestId: d9f69bf2-f907-4540-851f-959dcf7a97e5	Duration: 26.79 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ca0c4df2-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441610357, \"updatedAt\": 1555441610357}"
+}
+--------------------------------------------------------------------
+START RequestId: 3b0a9009-7e15-4f17-a581-0fe307a71f61 Version: $LATEST
+END RequestId: 3b0a9009-7e15-4f17-a581-0fe307a71f61
+REPORT RequestId: 3b0a9009-7e15-4f17-a581-0fe307a71f61	Duration: 10.80 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"cc5e474a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441614250, \"updatedAt\": 1555441614250}"
+}
+--------------------------------------------------------------------
+START RequestId: b2b0a12a-fd18-4cfc-b57c-58f839035e69 Version: $LATEST
+END RequestId: b2b0a12a-fd18-4cfc-b57c-58f839035e69
+REPORT RequestId: b2b0a12a-fd18-4cfc-b57c-58f839035e69	Duration: 10.79 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ceaa4fd0-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441618103, \"updatedAt\": 1555441618103}"
+}
+--------------------------------------------------------------------
+START RequestId: ee303374-adb7-4e9a-99f2-83cee3071cb0 Version: $LATEST
+END RequestId: ee303374-adb7-4e9a-99f2-83cee3071cb0
+REPORT RequestId: ee303374-adb7-4e9a-99f2-83cee3071cb0	Duration: 10.57 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d0fa8a2a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441621985, \"updatedAt\": 1555441621985}"
+}
+--------------------------------------------------------------------
+START RequestId: 9e1e2562-73f9-4940-b200-d3fe1584b800 Version: $LATEST
+END RequestId: 9e1e2562-73f9-4940-b200-d3fe1584b800
+REPORT RequestId: 9e1e2562-73f9-4940-b200-d3fe1584b800	Duration: 10.78 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d34aa35a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441625865, \"updatedAt\": 1555441625865}"
+}
+--------------------------------------------------------------------
+START RequestId: 9a3f4c00-bd53-49d2-a037-eabce766f512 Version: $LATEST
+END RequestId: 9a3f4c00-bd53-49d2-a037-eabce766f512
+REPORT RequestId: 9a3f4c00-bd53-49d2-a037-eabce766f512	Duration: 10.91 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d591490c-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441629683, \"updatedAt\": 1555441629683}"
+}
+--------------------------------------------------------------------
+START RequestId: e00ee238-8a86-4165-9d6e-6532beec1b57 Version: $LATEST
+END RequestId: e00ee238-8a86-4165-9d6e-6532beec1b57
+REPORT RequestId: e00ee238-8a86-4165-9d6e-6532beec1b57	Duration: 10.93 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d7e33dbe-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441633576, \"updatedAt\": 1555441633576}"
+}
+--------------------------------------------------------------------
+START RequestId: 27ca2022-f51d-4c2a-b9b4-a6487e6ddd0b Version: $LATEST
+END RequestId: 27ca2022-f51d-4c2a-b9b4-a6487e6ddd0b
+REPORT RequestId: 27ca2022-f51d-4c2a-b9b4-a6487e6ddd0b	Duration: 10.45 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"da2c84cc-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441637412, \"updatedAt\": 1555441637412}"
+}
+--------------------------------------------------------------------
+START RequestId: e0a89dd8-5c20-457f-89fe-53260e010d4d Version: $LATEST
+END RequestId: e0a89dd8-5c20-457f-89fe-53260e010d4d
+REPORT RequestId: e0a89dd8-5c20-457f-89fe-53260e010d4d	Duration: 10.88 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 70 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"dc7fb320-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441641312, \"updatedAt\": 1555441641312}"
+}
+--------------------------------------------------------------------
+START RequestId: 12294475-1efe-46f4-acd1-2a0f88b20c3d Version: $LATEST
+END RequestId: 12294475-1efe-46f4-acd1-2a0f88b20c3d
+REPORT RequestId: 12294475-1efe-46f4-acd1-2a0f88b20c3d	Duration: 10.85 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"decc52f0-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441645170, \"updatedAt\": 1555441645170}"
+}
+--------------------------------------------------------------------
+START RequestId: 9d2abfcc-bdd5-4a5e-a062-ffbc2027f4bf Version: $LATEST
+END RequestId: 9d2abfcc-bdd5-4a5e-a062-ffbc2027f4bf
+REPORT RequestId: 9d2abfcc-bdd5-4a5e-a062-ffbc2027f4bf	Duration: 10.49 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e137d05a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441649230, \"updatedAt\": 1555441649230}"
+}
+--------------------------------------------------------------------
+START RequestId: 1bc28a67-426e-4fe0-9293-a1bf50acc089 Version: $LATEST
+END RequestId: 1bc28a67-426e-4fe0-9293-a1bf50acc089
+REPORT RequestId: 1bc28a67-426e-4fe0-9293-a1bf50acc089	Duration: 10.74 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e3845b12-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441653087, \"updatedAt\": 1555441653087}"
+}
+--------------------------------------------------------------------
+START RequestId: 788cd103-7412-400e-a14e-e433ab088975 Version: $LATEST
+END RequestId: 788cd103-7412-400e-a14e-e433ab088975
+REPORT RequestId: 788cd103-7412-400e-a14e-e433ab088975	Duration: 11.10 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e5d150e6-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441656946, \"updatedAt\": 1555441656946}"
+}
+--------------------------------------------------------------------
+START RequestId: b3290560-0396-431a-b875-74d560c6998c Version: $LATEST
+END RequestId: b3290560-0396-431a-b875-74d560c6998c
+REPORT RequestId: b3290560-0396-431a-b875-74d560c6998c	Duration: 11.41 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e82348ea-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441660839, \"updatedAt\": 1555441660839}"
+}
+--------------------------------------------------------------------
+START RequestId: 5842e897-7ab5-41e7-ba04-6dcb21c4c0ab Version: $LATEST
+END RequestId: 5842e897-7ab5-41e7-ba04-6dcb21c4c0ab
+REPORT RequestId: 5842e897-7ab5-41e7-ba04-6dcb21c4c0ab	Duration: 10.73 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ea6e9ae6-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441664688, \"updatedAt\": 1555441664688}"
+}
+--------------------------------------------------------------------
+START RequestId: 0b5c96a4-eb91-4b18-a946-93c0ff2b52d4 Version: $LATEST
+END RequestId: 0b5c96a4-eb91-4b18-a946-93c0ff2b52d4
+REPORT RequestId: 0b5c96a4-eb91-4b18-a946-93c0ff2b52d4	Duration: 10.43 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ecb6681a-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441668514, \"updatedAt\": 1555441668514}"
+}
+--------------------------------------------------------------------
+START RequestId: d79eafe3-18fc-435a-9c1b-f2c0105ea2b6 Version: $LATEST
+END RequestId: d79eafe3-18fc-435a-9c1b-f2c0105ea2b6
+REPORT RequestId: d79eafe3-18fc-435a-9c1b-f2c0105ea2b6	Duration: 10.82 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ef008ec0-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441672356, \"updatedAt\": 1555441672356}"
+}
+--------------------------------------------------------------------
+START RequestId: dbc42dbb-82c1-4474-9b3f-50dfa7cebbee Version: $LATEST
+END RequestId: dbc42dbb-82c1-4474-9b3f-50dfa7cebbee
+REPORT RequestId: dbc42dbb-82c1-4474-9b3f-50dfa7cebbee	Duration: 10.52 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f14f4b76-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441676227, \"updatedAt\": 1555441676227}"
+}
+--------------------------------------------------------------------
+START RequestId: d9539264-939d-4491-ad8c-a57f2993eea8 Version: $LATEST
+END RequestId: d9539264-939d-4491-ad8c-a57f2993eea8
+REPORT RequestId: d9539264-939d-4491-ad8c-a57f2993eea8	Duration: 10.95 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f39f0146-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441680105, \"updatedAt\": 1555441680105}"
+}
+--------------------------------------------------------------------
+START RequestId: ad3cb99e-9486-4507-8017-d8876d015a68 Version: $LATEST
+END RequestId: ad3cb99e-9486-4507-8017-d8876d015a68
+REPORT RequestId: ad3cb99e-9486-4507-8017-d8876d015a68	Duration: 10.52 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f5f2f9d4-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441684011, \"updatedAt\": 1555441684011}"
+}
+--------------------------------------------------------------------
+START RequestId: c55e006c-ac59-4035-bdfc-8a8c23736136 Version: $LATEST
+END RequestId: c55e006c-ac59-4035-bdfc-8a8c23736136
+REPORT RequestId: c55e006c-ac59-4035-bdfc-8a8c23736136	Duration: 10.65 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f85a67d4-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441688044, \"updatedAt\": 1555441688044}"
+}
+--------------------------------------------------------------------
+START RequestId: 2bfe8a8b-295a-4f01-9a9e-77ce4f66079e Version: $LATEST
+END RequestId: 2bfe8a8b-295a-4f01-9a9e-77ce4f66079e
+REPORT RequestId: 2bfe8a8b-295a-4f01-9a9e-77ce4f66079e	Duration: 11.24 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"faa1b6aa-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441691867, \"updatedAt\": 1555441691867}"
+}
+--------------------------------------------------------------------
+START RequestId: 968ce464-24fc-44b2-832b-d90cad6dd592 Version: $LATEST
+END RequestId: 968ce464-24fc-44b2-832b-d90cad6dd592
+REPORT RequestId: 968ce464-24fc-44b2-832b-d90cad6dd592	Duration: 10.87 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"fcee763c-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441695725, \"updatedAt\": 1555441695725}"
+}
+--------------------------------------------------------------------
+START RequestId: 1118b247-c810-4352-9ef3-baddcb7f3e37 Version: $LATEST
+END RequestId: 1118b247-c810-4352-9ef3-baddcb7f3e37
+REPORT RequestId: 1118b247-c810-4352-9ef3-baddcb7f3e37	Duration: 11.13 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ff369f78-607a-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441699554, \"updatedAt\": 1555441699554}"
+}
+--------------------------------------------------------------------
+START RequestId: 2ea63db0-229f-4ea8-b171-0254caaea0cd Version: $LATEST
+END RequestId: 2ea63db0-229f-4ea8-b171-0254caaea0cd
+REPORT RequestId: 2ea63db0-229f-4ea8-b171-0254caaea0cd	Duration: 10.48 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0185ef9a-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441703429, \"updatedAt\": 1555441703429}"
+}
+--------------------------------------------------------------------
+START RequestId: 9990aac5-efc5-42eb-ab11-b7681e56e1ec Version: $LATEST
+END RequestId: 9990aac5-efc5-42eb-ab11-b7681e56e1ec
+REPORT RequestId: 9990aac5-efc5-42eb-ab11-b7681e56e1ec	Duration: 10.58 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"03cf657e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441707266, \"updatedAt\": 1555441707266}"
+}
+--------------------------------------------------------------------
+START RequestId: 1bfe3958-8114-4c0d-b380-368f2a5de652 Version: $LATEST
+END RequestId: 1bfe3958-8114-4c0d-b380-368f2a5de652
+REPORT RequestId: 1bfe3958-8114-4c0d-b380-368f2a5de652	Duration: 10.53 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"061afa28-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441711116, \"updatedAt\": 1555441711116}"
+}
+--------------------------------------------------------------------
+START RequestId: ed8fd2fa-a9e4-42ba-b656-d8aaad0fd47f Version: $LATEST
+END RequestId: ed8fd2fa-a9e4-42ba-b656-d8aaad0fd47f
+REPORT RequestId: ed8fd2fa-a9e4-42ba-b656-d8aaad0fd47f	Duration: 10.86 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0861eeb8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441714937, \"updatedAt\": 1555441714937}"
+}
+--------------------------------------------------------------------
+START RequestId: db5b82ab-82b0-4c01-a71a-6833125a2f3d Version: $LATEST
+END RequestId: db5b82ab-82b0-4c01-a71a-6833125a2f3d
+REPORT RequestId: db5b82ab-82b0-4c01-a71a-6833125a2f3d	Duration: 10.33 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0ab8f83c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441718863, \"updatedAt\": 1555441718863}"
+}
+--------------------------------------------------------------------
+START RequestId: d67ea364-ab85-4e7d-8263-903ff9230226 Version: $LATEST
+END RequestId: d67ea364-ab85-4e7d-8263-903ff9230226
+REPORT RequestId: d67ea364-ab85-4e7d-8263-903ff9230226	Duration: 10.45 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0d158136-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441722824, \"updatedAt\": 1555441722824}"
+}
+--------------------------------------------------------------------
+START RequestId: 74ab4beb-629d-4326-aa9f-0f428688944d Version: $LATEST
+END RequestId: 74ab4beb-629d-4326-aa9f-0f428688944d
+REPORT RequestId: 74ab4beb-629d-4326-aa9f-0f428688944d	Duration: 10.96 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0f669cc2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441726712, \"updatedAt\": 1555441726712}"
+}
+--------------------------------------------------------------------
+START RequestId: bf691ebf-9109-472a-a921-63c27e6e9d12 Version: $LATEST
+END RequestId: bf691ebf-9109-472a-a921-63c27e6e9d12
+REPORT RequestId: bf691ebf-9109-472a-a921-63c27e6e9d12	Duration: 10.52 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"11b5cc1e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441730586, \"updatedAt\": 1555441730586}"
+}
+--------------------------------------------------------------------
+START RequestId: 844104af-3365-4dec-8f5d-e6ed74832f7a Version: $LATEST
+END RequestId: 844104af-3365-4dec-8f5d-e6ed74832f7a
+REPORT RequestId: 844104af-3365-4dec-8f5d-e6ed74832f7a	Duration: 10.55 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"140b0ba0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441734500, \"updatedAt\": 1555441734500}"
+}
+--------------------------------------------------------------------
+START RequestId: fc79f0f8-1752-4a0b-bdcd-8962b25a6612 Version: $LATEST
+END RequestId: fc79f0f8-1752-4a0b-bdcd-8962b25a6612
+REPORT RequestId: fc79f0f8-1752-4a0b-bdcd-8962b25a6612	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"165ce4be-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441738392, \"updatedAt\": 1555441738392}"
+}
+--------------------------------------------------------------------
+START RequestId: 72588094-1c8e-494e-b822-8e4e8043bfcf Version: $LATEST
+END RequestId: 72588094-1c8e-494e-b822-8e4e8043bfcf
+REPORT RequestId: 72588094-1c8e-494e-b822-8e4e8043bfcf	Duration: 10.95 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"18b81d96-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441742345, \"updatedAt\": 1555441742345}"
+}
+--------------------------------------------------------------------
+START RequestId: 39738441-c214-40ac-9fe8-6f574d81367f Version: $LATEST
+END RequestId: 39738441-c214-40ac-9fe8-6f574d81367f
+REPORT RequestId: 39738441-c214-40ac-9fe8-6f574d81367f	Duration: 10.32 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1b0a7d14-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441746241, \"updatedAt\": 1555441746241}"
+}
+--------------------------------------------------------------------
+START RequestId: 8442810e-ff7f-41f9-b1f6-22e68f61416a Version: $LATEST
+END RequestId: 8442810e-ff7f-41f9-b1f6-22e68f61416a
+REPORT RequestId: 8442810e-ff7f-41f9-b1f6-22e68f61416a	Duration: 10.61 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1d54aed2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441750082, \"updatedAt\": 1555441750082}"
+}
+--------------------------------------------------------------------
+START RequestId: b403b759-11c9-4ba6-98f4-ba310c735c46 Version: $LATEST
+END RequestId: b403b759-11c9-4ba6-98f4-ba310c735c46
+REPORT RequestId: b403b759-11c9-4ba6-98f4-ba310c735c46	Duration: 10.70 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1fa6c2d8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441753976, \"updatedAt\": 1555441753976}"
+}
+--------------------------------------------------------------------
+START RequestId: 19bd6520-72ca-4489-b7ab-394bfac3e94b Version: $LATEST
+END RequestId: 19bd6520-72ca-4489-b7ab-394bfac3e94b
+REPORT RequestId: 19bd6520-72ca-4489-b7ab-394bfac3e94b	Duration: 10.62 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"21ef8ebc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441757808, \"updatedAt\": 1555441757808}"
+}
+--------------------------------------------------------------------
+START RequestId: 36300dc8-7bbd-4251-b781-2540de7089da Version: $LATEST
+END RequestId: 36300dc8-7bbd-4251-b781-2540de7089da
+REPORT RequestId: 36300dc8-7bbd-4251-b781-2540de7089da	Duration: 10.77 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"244aa19c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441761760, \"updatedAt\": 1555441761760}"
+}
+--------------------------------------------------------------------
+START RequestId: 6dcfbc54-9043-47a7-97ec-244fe0d49ec1 Version: $LATEST
+END RequestId: 6dcfbc54-9043-47a7-97ec-244fe0d49ec1
+REPORT RequestId: 6dcfbc54-9043-47a7-97ec-244fe0d49ec1	Duration: 10.91 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2697b93a-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441765621, \"updatedAt\": 1555441765621}"
+}
+--------------------------------------------------------------------
+START RequestId: 682c58a0-cd5e-4504-9760-d1b9fae99ef1 Version: $LATEST
+END RequestId: 682c58a0-cd5e-4504-9760-d1b9fae99ef1
+REPORT RequestId: 682c58a0-cd5e-4504-9760-d1b9fae99ef1	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"28e921ce-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441769510, \"updatedAt\": 1555441769510}"
+}
+--------------------------------------------------------------------
+START RequestId: bffadd02-ba09-4b00-b0b4-d4d67c1816f3 Version: $LATEST
+END RequestId: bffadd02-ba09-4b00-b0b4-d4d67c1816f3
+REPORT RequestId: bffadd02-ba09-4b00-b0b4-d4d67c1816f3	Duration: 10.59 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2b370496-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441773376, \"updatedAt\": 1555441773376}"
+}
+--------------------------------------------------------------------
+START RequestId: 884d5135-0778-4e53-8d50-90696a877403 Version: $LATEST
+END RequestId: 884d5135-0778-4e53-8d50-90696a877403
+REPORT RequestId: 884d5135-0778-4e53-8d50-90696a877403	Duration: 10.81 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2d8f4230-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441777310, \"updatedAt\": 1555441777310}"
+}
+--------------------------------------------------------------------
+START RequestId: 91c859e7-c49a-47bf-bb95-4ff0bfd65750 Version: $LATEST
+END RequestId: 91c859e7-c49a-47bf-bb95-4ff0bfd65750
+REPORT RequestId: 91c859e7-c49a-47bf-bb95-4ff0bfd65750	Duration: 10.46 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2fdaa7dc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441781159, \"updatedAt\": 1555441781159}"
+}
+--------------------------------------------------------------------
+START RequestId: 93a02a16-2bea-400a-9be1-67d5d375a5b3 Version: $LATEST
+END RequestId: 93a02a16-2bea-400a-9be1-67d5d375a5b3
+REPORT RequestId: 93a02a16-2bea-400a-9be1-67d5d375a5b3	Duration: 10.91 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"322a6590-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441785037, \"updatedAt\": 1555441785037}"
+}
+--------------------------------------------------------------------
+START RequestId: aa46e5da-faae-4b8a-be40-118b53edab64 Version: $LATEST
+END RequestId: aa46e5da-faae-4b8a-be40-118b53edab64
+REPORT RequestId: aa46e5da-faae-4b8a-be40-118b53edab64	Duration: 11.11 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"34757524-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441788885, \"updatedAt\": 1555441788885}"
+}
+--------------------------------------------------------------------
+START RequestId: b75d694f-d868-4145-9fcd-f874e74254b6 Version: $LATEST
+END RequestId: b75d694f-d868-4145-9fcd-f874e74254b6
+REPORT RequestId: b75d694f-d868-4145-9fcd-f874e74254b6	Duration: 10.31 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"36bfc2bc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441792727, \"updatedAt\": 1555441792727}"
+}
+--------------------------------------------------------------------
+START RequestId: 4cdd7dc4-e05c-479a-b9f2-4d506cc7a758 Version: $LATEST
+END RequestId: 4cdd7dc4-e05c-479a-b9f2-4d506cc7a758
+REPORT RequestId: 4cdd7dc4-e05c-479a-b9f2-4d506cc7a758	Duration: 10.45 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"390ace40-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441796574, \"updatedAt\": 1555441796574}"
+}
+--------------------------------------------------------------------
+START RequestId: d84f05c6-53d8-4dda-b449-1ad2206c8d78 Version: $LATEST
+END RequestId: d84f05c6-53d8-4dda-b449-1ad2206c8d78
+REPORT RequestId: d84f05c6-53d8-4dda-b449-1ad2206c8d78	Duration: 10.38 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3b61f182-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441800501, \"updatedAt\": 1555441800501}"
+}
+--------------------------------------------------------------------
+START RequestId: c145780f-0ab0-4a6b-9088-59293f412b9c Version: $LATEST
+END RequestId: c145780f-0ab0-4a6b-9088-59293f412b9c
+REPORT RequestId: c145780f-0ab0-4a6b-9088-59293f412b9c	Duration: 10.49 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3da97c58-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441804325, \"updatedAt\": 1555441804325}"
+}
+--------------------------------------------------------------------
+START RequestId: bb61d76e-4033-4cb9-9cfa-e2e231184de8 Version: $LATEST
+END RequestId: bb61d76e-4033-4cb9-9cfa-e2e231184de8
+REPORT RequestId: bb61d76e-4033-4cb9-9cfa-e2e231184de8	Duration: 10.94 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3ffde714-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441808234, \"updatedAt\": 1555441808234}"
+}
+--------------------------------------------------------------------
+START RequestId: 965d9a86-feed-4317-8bac-f70f8c9753e2 Version: $LATEST
+END RequestId: 965d9a86-feed-4317-8bac-f70f8c9753e2
+REPORT RequestId: 965d9a86-feed-4317-8bac-f70f8c9753e2	Duration: 10.81 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"424b14d8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441812095, \"updatedAt\": 1555441812095}"
+}
+--------------------------------------------------------------------
+START RequestId: 702c91a5-83fe-4746-a3ad-da5aaefce0e1 Version: $LATEST
+END RequestId: 702c91a5-83fe-4746-a3ad-da5aaefce0e1
+REPORT RequestId: 702c91a5-83fe-4746-a3ad-da5aaefce0e1	Duration: 10.63 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"449590ce-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441815939, \"updatedAt\": 1555441815939}"
+}
+--------------------------------------------------------------------
+START RequestId: ca1c95de-a7b1-4003-a5e2-694d58bc16b5 Version: $LATEST
+END RequestId: ca1c95de-a7b1-4003-a5e2-694d58bc16b5
+REPORT RequestId: ca1c95de-a7b1-4003-a5e2-694d58bc16b5	Duration: 10.45 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"46dc43be-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441819757, \"updatedAt\": 1555441819757}"
+}
+--------------------------------------------------------------------
+START RequestId: 68d0ebb7-6ebc-4d1a-b615-5640078c4e11 Version: $LATEST
+END RequestId: 68d0ebb7-6ebc-4d1a-b615-5640078c4e11
+REPORT RequestId: 68d0ebb7-6ebc-4d1a-b615-5640078c4e11	Duration: 10.82 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"493f1ef6-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441823761, \"updatedAt\": 1555441823761}"
+}
+--------------------------------------------------------------------
+START RequestId: fddafac0-41fe-4001-9225-639d1d82ac75 Version: $LATEST
+END RequestId: fddafac0-41fe-4001-9225-639d1d82ac75
+REPORT RequestId: fddafac0-41fe-4001-9225-639d1d82ac75	Duration: 10.53 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4b9349fc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441827668, \"updatedAt\": 1555441827668}"
+}
+--------------------------------------------------------------------
+START RequestId: 8257d944-f8f5-44c6-a1ea-dd5bb4f048a8 Version: $LATEST
+END RequestId: 8257d944-f8f5-44c6-a1ea-dd5bb4f048a8
+REPORT RequestId: 8257d944-f8f5-44c6-a1ea-dd5bb4f048a8	Duration: 10.47 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4de37f7e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441831549, \"updatedAt\": 1555441831549}"
+}
+--------------------------------------------------------------------
+START RequestId: c06b2490-fc3f-45f6-810a-5716745e06be Version: $LATEST
+END RequestId: c06b2490-fc3f-45f6-810a-5716745e06be
+REPORT RequestId: c06b2490-fc3f-45f6-810a-5716745e06be	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5029e7b4-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441835366, \"updatedAt\": 1555441835366}"
+}
+--------------------------------------------------------------------
+START RequestId: 792ab559-547f-4ba9-abcc-c2cd1b72ec55 Version: $LATEST
+END RequestId: 792ab559-547f-4ba9-abcc-c2cd1b72ec55
+REPORT RequestId: 792ab559-547f-4ba9-abcc-c2cd1b72ec55	Duration: 10.87 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5273f460-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441839206, \"updatedAt\": 1555441839206}"
+}
+--------------------------------------------------------------------
+START RequestId: a338bf58-1daf-4124-89ed-ac4ea5677546 Version: $LATEST
+END RequestId: a338bf58-1daf-4124-89ed-ac4ea5677546
+REPORT RequestId: a338bf58-1daf-4124-89ed-ac4ea5677546	Duration: 10.27 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"54bc94e8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441843038, \"updatedAt\": 1555441843038}"
+}
+--------------------------------------------------------------------
+START RequestId: c8a1307b-cc11-4d90-8400-00c0da1102d2 Version: $LATEST
+END RequestId: c8a1307b-cc11-4d90-8400-00c0da1102d2
+REPORT RequestId: c8a1307b-cc11-4d90-8400-00c0da1102d2	Duration: 10.54 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"57076502-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441846883, \"updatedAt\": 1555441846883}"
+}
+--------------------------------------------------------------------
+START RequestId: 3f9fbaf1-5b97-4bc8-841a-2d23a83fd259 Version: $LATEST
+END RequestId: 3f9fbaf1-5b97-4bc8-841a-2d23a83fd259
+REPORT RequestId: 3f9fbaf1-5b97-4bc8-841a-2d23a83fd259	Duration: 10.89 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5951200a-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441850722, \"updatedAt\": 1555441850722}"
+}
+--------------------------------------------------------------------
+START RequestId: c1d3a17b-7aae-4d1d-8c42-7b5cb3d22378 Version: $LATEST
+END RequestId: c1d3a17b-7aae-4d1d-8c42-7b5cb3d22378
+REPORT RequestId: c1d3a17b-7aae-4d1d-8c42-7b5cb3d22378	Duration: 10.32 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5b9bafa6-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441854566, \"updatedAt\": 1555441854566}"
+}
+--------------------------------------------------------------------
+START RequestId: 16b52cf8-5367-4a44-b7b7-c3b74ef494eb Version: $LATEST
+END RequestId: 16b52cf8-5367-4a44-b7b7-c3b74ef494eb
+REPORT RequestId: 16b52cf8-5367-4a44-b7b7-c3b74ef494eb	Duration: 10.37 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5de4ed22-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441858402, \"updatedAt\": 1555441858402}"
+}
+--------------------------------------------------------------------
+START RequestId: 19497088-35ed-475f-9f11-3d3f33381cad Version: $LATEST
+END RequestId: 19497088-35ed-475f-9f11-3d3f33381cad
+REPORT RequestId: 19497088-35ed-475f-9f11-3d3f33381cad	Duration: 11.65 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"6033c238-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441862274, \"updatedAt\": 1555441862274}"
+}
+--------------------------------------------------------------------
+START RequestId: 49c29ce0-c35e-45cb-b7af-c10e2c840c37 Version: $LATEST
+END RequestId: 49c29ce0-c35e-45cb-b7af-c10e2c840c37
+REPORT RequestId: 49c29ce0-c35e-45cb-b7af-c10e2c840c37	Duration: 10.50 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"62802ca2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441866130, \"updatedAt\": 1555441866130}"
+}
+--------------------------------------------------------------------
+START RequestId: 25976f0f-c4d7-4983-940c-f4dd4846cb6f Version: $LATEST
+END RequestId: 25976f0f-c4d7-4983-940c-f4dd4846cb6f
+REPORT RequestId: 25976f0f-c4d7-4983-940c-f4dd4846cb6f	Duration: 10.90 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"64c4fc36-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441869937, \"updatedAt\": 1555441869937}"
+}
+--------------------------------------------------------------------
+START RequestId: b1d415b6-4026-48d8-a960-0a5df1456379 Version: $LATEST
+END RequestId: b1d415b6-4026-48d8-a960-0a5df1456379
+REPORT RequestId: b1d415b6-4026-48d8-a960-0a5df1456379	Duration: 10.43 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"671101ce-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441873790, \"updatedAt\": 1555441873790}"
+}
+--------------------------------------------------------------------
+START RequestId: 0029f617-a62d-4ba8-99b2-9d0a1248bae4 Version: $LATEST
+END RequestId: 0029f617-a62d-4ba8-99b2-9d0a1248bae4
+REPORT RequestId: 0029f617-a62d-4ba8-99b2-9d0a1248bae4	Duration: 10.83 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"6960c842-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441877668, \"updatedAt\": 1555441877668}"
+}
+--------------------------------------------------------------------
+START RequestId: dfc8bdbf-5d08-44c9-b2b9-093bf5588889 Version: $LATEST
+END RequestId: dfc8bdbf-5d08-44c9-b2b9-093bf5588889
+REPORT RequestId: dfc8bdbf-5d08-44c9-b2b9-093bf5588889	Duration: 10.54 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 71 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"6bad76b8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441881526, \"updatedAt\": 1555441881526}"
+}
+--------------------------------------------------------------------
+START RequestId: 64ef734d-99c2-46b3-bab2-dfda03dbfc19 Version: $LATEST
+END RequestId: 64ef734d-99c2-46b3-bab2-dfda03dbfc19
+REPORT RequestId: 64ef734d-99c2-46b3-bab2-dfda03dbfc19	Duration: 11.03 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"6e02fe2e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441885442, \"updatedAt\": 1555441885442}"
+}
+--------------------------------------------------------------------
+START RequestId: 068e29b8-b6a9-42a4-88d0-2b402eb4ca1c Version: $LATEST
+END RequestId: 068e29b8-b6a9-42a4-88d0-2b402eb4ca1c
+REPORT RequestId: 068e29b8-b6a9-42a4-88d0-2b402eb4ca1c	Duration: 10.71 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"704ba3ca-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441889274, \"updatedAt\": 1555441889274}"
+}
+--------------------------------------------------------------------
+START RequestId: bf071a62-fd5b-4ee3-aa10-78b56a191893 Version: $LATEST
+END RequestId: bf071a62-fd5b-4ee3-aa10-78b56a191893
+REPORT RequestId: bf071a62-fd5b-4ee3-aa10-78b56a191893	Duration: 10.34 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"729816cc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441893130, \"updatedAt\": 1555441893130}"
+}
+--------------------------------------------------------------------
+START RequestId: 13e115ce-c6a1-4b63-8cd9-666c0b1ebd61 Version: $LATEST
+END RequestId: 13e115ce-c6a1-4b63-8cd9-666c0b1ebd61
+REPORT RequestId: 13e115ce-c6a1-4b63-8cd9-666c0b1ebd61	Duration: 10.76 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"74e3e26c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441896983, \"updatedAt\": 1555441896983}"
+}
+--------------------------------------------------------------------
+START RequestId: 54b934e2-37c9-4e75-9321-be2f649fee73 Version: $LATEST
+END RequestId: 54b934e2-37c9-4e75-9321-be2f649fee73
+REPORT RequestId: 54b934e2-37c9-4e75-9321-be2f649fee73	Duration: 11.10 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"772bd7b4-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441900810, \"updatedAt\": 1555441900810}"
+}
+--------------------------------------------------------------------
+START RequestId: d59e16e7-93d8-4141-8974-28b81360417f Version: $LATEST
+END RequestId: d59e16e7-93d8-4141-8974-28b81360417f
+REPORT RequestId: d59e16e7-93d8-4141-8974-28b81360417f	Duration: 10.48 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"7976bbe2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441904656, \"updatedAt\": 1555441904656}"
+}
+--------------------------------------------------------------------
+START RequestId: e8067d26-4a9f-45ab-97a5-1fd5713216fa Version: $LATEST
+END RequestId: e8067d26-4a9f-45ab-97a5-1fd5713216fa
+REPORT RequestId: e8067d26-4a9f-45ab-97a5-1fd5713216fa	Duration: 10.42 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"7bc2f136-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441908511, \"updatedAt\": 1555441908511}"
+}
+--------------------------------------------------------------------
+START RequestId: 6f3224af-5414-4197-a5e1-d7942db01e73 Version: $LATEST
+END RequestId: 6f3224af-5414-4197-a5e1-d7942db01e73
+REPORT RequestId: 6f3224af-5414-4197-a5e1-d7942db01e73	Duration: 10.23 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"7e0d5d00-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441912354, \"updatedAt\": 1555441912354}"
+}
+--------------------------------------------------------------------
+START RequestId: d79b4006-ad18-40b9-af73-8f9b4b662d05 Version: $LATEST
+END RequestId: d79b4006-ad18-40b9-af73-8f9b4b662d05
+REPORT RequestId: d79b4006-ad18-40b9-af73-8f9b4b662d05	Duration: 10.59 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"80547698-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441916175, \"updatedAt\": 1555441916175}"
+}
+--------------------------------------------------------------------
+START RequestId: 82cdc03d-6d0f-4ea6-97c5-f47ee9b78b17 Version: $LATEST
+END RequestId: 82cdc03d-6d0f-4ea6-97c5-f47ee9b78b17
+REPORT RequestId: 82cdc03d-6d0f-4ea6-97c5-f47ee9b78b17	Duration: 10.36 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"829b472e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441919982, \"updatedAt\": 1555441919982}"
+}
+--------------------------------------------------------------------
+START RequestId: 26540775-2f1e-4d9a-bd2a-8a755fbaa6d8 Version: $LATEST
+END RequestId: 26540775-2f1e-4d9a-bd2a-8a755fbaa6d8
+REPORT RequestId: 26540775-2f1e-4d9a-bd2a-8a755fbaa6d8	Duration: 23.75 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"84e7471c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441923848, \"updatedAt\": 1555441923848}"
+}
+--------------------------------------------------------------------
+START RequestId: 957cf370-2d1a-45cf-8e59-958a87a116f9 Version: $LATEST
+END RequestId: 957cf370-2d1a-45cf-8e59-958a87a116f9
+REPORT RequestId: 957cf370-2d1a-45cf-8e59-958a87a116f9	Duration: 10.79 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"8730c692-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441927685, \"updatedAt\": 1555441927685}"
+}
+--------------------------------------------------------------------
+START RequestId: feffce2d-277e-4862-95e1-653f1f08a2dd Version: $LATEST
+END RequestId: feffce2d-277e-4862-95e1-653f1f08a2dd
+REPORT RequestId: feffce2d-277e-4862-95e1-653f1f08a2dd	Duration: 10.72 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"897a8a82-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441931524, \"updatedAt\": 1555441931524}"
+}
+--------------------------------------------------------------------
+START RequestId: a3649131-52bc-4a73-85ad-bc90e5f55bae Version: $LATEST
+END RequestId: a3649131-52bc-4a73-85ad-bc90e5f55bae
+REPORT RequestId: a3649131-52bc-4a73-85ad-bc90e5f55bae	Duration: 21.18 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"8bc9654c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441935397, \"updatedAt\": 1555441935397}"
+}
+--------------------------------------------------------------------
+START RequestId: 1a913fec-4b54-408c-b602-eff95be46d59 Version: $LATEST
+END RequestId: 1a913fec-4b54-408c-b602-eff95be46d59
+REPORT RequestId: 1a913fec-4b54-408c-b602-eff95be46d59	Duration: 11.56 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"8e177640-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441939263, \"updatedAt\": 1555441939263}"
+}
+--------------------------------------------------------------------
+START RequestId: 2143bbdf-91c8-411b-a0a5-7c7572842fd8 Version: $LATEST
+END RequestId: 2143bbdf-91c8-411b-a0a5-7c7572842fd8
+REPORT RequestId: 2143bbdf-91c8-411b-a0a5-7c7572842fd8	Duration: 10.69 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"906860d0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441943149, \"updatedAt\": 1555441943149}"
+}
+--------------------------------------------------------------------
+START RequestId: 277bde6e-179b-4249-a793-5eef3de42398 Version: $LATEST
+END RequestId: 277bde6e-179b-4249-a793-5eef3de42398
+REPORT RequestId: 277bde6e-179b-4249-a793-5eef3de42398	Duration: 10.51 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"92b51860-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441947007, \"updatedAt\": 1555441947007}"
+}
+--------------------------------------------------------------------
+START RequestId: 3db01266-ef5c-429b-8d66-47142b8c607d Version: $LATEST
+END RequestId: 3db01266-ef5c-429b-8d66-47142b8c607d
+REPORT RequestId: 3db01266-ef5c-429b-8d66-47142b8c607d	Duration: 10.88 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"94fc8f5e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441950831, \"updatedAt\": 1555441950831}"
+}
+--------------------------------------------------------------------
+START RequestId: 269b35d9-6978-4a1d-ba5f-3df094fc6066 Version: $LATEST
+END RequestId: 269b35d9-6978-4a1d-ba5f-3df094fc6066
+REPORT RequestId: 269b35d9-6978-4a1d-ba5f-3df094fc6066	Duration: 10.24 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"974317e2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441954649, \"updatedAt\": 1555441954649}"
+}
+--------------------------------------------------------------------
+START RequestId: 38d958fd-4005-42ee-b3d9-14fa1945f22b Version: $LATEST
+END RequestId: 38d958fd-4005-42ee-b3d9-14fa1945f22b
+REPORT RequestId: 38d958fd-4005-42ee-b3d9-14fa1945f22b	Duration: 11.11 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"998fa11e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441958506, \"updatedAt\": 1555441958506}"
+}
+--------------------------------------------------------------------
+START RequestId: c57b8cb6-3b3a-44d7-bdd7-c3ee70887437 Version: $LATEST
+END RequestId: c57b8cb6-3b3a-44d7-bdd7-c3ee70887437
+REPORT RequestId: c57b8cb6-3b3a-44d7-bdd7-c3ee70887437	Duration: 10.58 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9bd65b66-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441962325, \"updatedAt\": 1555441962325}"
+}
+--------------------------------------------------------------------
+START RequestId: 333c3707-aa56-4fa4-9e39-446fcba86cb9 Version: $LATEST
+END RequestId: 333c3707-aa56-4fa4-9e39-446fcba86cb9
+REPORT RequestId: 333c3707-aa56-4fa4-9e39-446fcba86cb9	Duration: 10.67 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"9e253914-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441966197, \"updatedAt\": 1555441966197}"
+}
+--------------------------------------------------------------------
+START RequestId: 3724befe-4b50-4b04-9212-0cb5691f97e0 Version: $LATEST
+END RequestId: 3724befe-4b50-4b04-9212-0cb5691f97e0
+REPORT RequestId: 3724befe-4b50-4b04-9212-0cb5691f97e0	Duration: 10.88 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a06f15d2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441970037, \"updatedAt\": 1555441970037}"
+}
+--------------------------------------------------------------------
+START RequestId: bfea87db-e47c-4b24-90d0-31e3dc860156 Version: $LATEST
+END RequestId: bfea87db-e47c-4b24-90d0-31e3dc860156
+REPORT RequestId: bfea87db-e47c-4b24-90d0-31e3dc860156	Duration: 10.47 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a2c13c66-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441973922, \"updatedAt\": 1555441973922}"
+}
+--------------------------------------------------------------------
+START RequestId: 5bf2aca7-594d-4031-b118-a87cadd210fb Version: $LATEST
+END RequestId: 5bf2aca7-594d-4031-b118-a87cadd210fb
+REPORT RequestId: 5bf2aca7-594d-4031-b118-a87cadd210fb	Duration: 20.06 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a5080c0c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441977750, \"updatedAt\": 1555441977750}"
+}
+--------------------------------------------------------------------
+START RequestId: 678319fa-525e-48c6-8d30-05ba8f358b6b Version: $LATEST
+END RequestId: 678319fa-525e-48c6-8d30-05ba8f358b6b
+REPORT RequestId: 678319fa-525e-48c6-8d30-05ba8f358b6b	Duration: 15.07 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a7502b7a-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441981578, \"updatedAt\": 1555441981578}"
+}
+--------------------------------------------------------------------
+START RequestId: 08ea15a0-a41b-4e78-8ff9-936535e4ba4a Version: $LATEST
+END RequestId: 08ea15a0-a41b-4e78-8ff9-936535e4ba4a
+REPORT RequestId: 08ea15a0-a41b-4e78-8ff9-936535e4ba4a	Duration: 10.64 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"a99a2a7a-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441985419, \"updatedAt\": 1555441985419}"
+}
+--------------------------------------------------------------------
+START RequestId: b6421118-4647-4566-a64d-3755367b5477 Version: $LATEST
+END RequestId: b6421118-4647-4566-a64d-3755367b5477
+REPORT RequestId: b6421118-4647-4566-a64d-3755367b5477	Duration: 10.54 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"abe6bbfe-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441989276, \"updatedAt\": 1555441989276}"
+}
+--------------------------------------------------------------------
+START RequestId: 382561cf-c232-4d92-af2a-d25fd4c37376 Version: $LATEST
+END RequestId: 382561cf-c232-4d92-af2a-d25fd4c37376
+REPORT RequestId: 382561cf-c232-4d92-af2a-d25fd4c37376	Duration: 10.71 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ae375058-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441993159, \"updatedAt\": 1555441993159}"
+}
+--------------------------------------------------------------------
+START RequestId: ba91db98-e741-4014-b976-b90c1ab6c644 Version: $LATEST
+END RequestId: ba91db98-e741-4014-b976-b90c1ab6c644
+REPORT RequestId: ba91db98-e741-4014-b976-b90c1ab6c644	Duration: 10.83 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b083a8fc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555441997015, \"updatedAt\": 1555441997015}"
+}
+--------------------------------------------------------------------
+START RequestId: 78320cd0-96b9-4485-b6fc-2d6b00bae246 Version: $LATEST
+END RequestId: 78320cd0-96b9-4485-b6fc-2d6b00bae246
+REPORT RequestId: 78320cd0-96b9-4485-b6fc-2d6b00bae246	Duration: 10.80 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b2ca1b1e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442000832, \"updatedAt\": 1555442000832}"
+}
+--------------------------------------------------------------------
+START RequestId: bd6e1cdd-d46d-48ea-9926-2289159f28d5 Version: $LATEST
+END RequestId: bd6e1cdd-d46d-48ea-9926-2289159f28d5
+REPORT RequestId: bd6e1cdd-d46d-48ea-9926-2289159f28d5	Duration: 10.63 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b50d8aa0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442004629, \"updatedAt\": 1555442004629}"
+}
+--------------------------------------------------------------------
+START RequestId: a989ca03-634f-4449-be58-a480d59ef4ab Version: $LATEST
+END RequestId: a989ca03-634f-4449-be58-a480d59ef4ab
+REPORT RequestId: a989ca03-634f-4449-be58-a480d59ef4ab	Duration: 10.72 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b756daa0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442008466, \"updatedAt\": 1555442008466}"
+}
+--------------------------------------------------------------------
+START RequestId: eaa95865-edc2-41bc-8223-093bc45f8d76 Version: $LATEST
+END RequestId: eaa95865-edc2-41bc-8223-093bc45f8d76
+REPORT RequestId: eaa95865-edc2-41bc-8223-093bc45f8d76	Duration: 10.53 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"b9a03630-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442012302, \"updatedAt\": 1555442012302}"
+}
+--------------------------------------------------------------------
+START RequestId: 4e76ae18-72b3-4044-8fb7-e2c616e44c2d Version: $LATEST
+END RequestId: 4e76ae18-72b3-4044-8fb7-e2c616e44c2d
+REPORT RequestId: 4e76ae18-72b3-4044-8fb7-e2c616e44c2d	Duration: 10.75 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"bbef3116-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442016174, \"updatedAt\": 1555442016174}"
+}
+--------------------------------------------------------------------
+START RequestId: 84bba934-fc66-4252-a612-bff8ef0c0f2b Version: $LATEST
+END RequestId: 84bba934-fc66-4252-a612-bff8ef0c0f2b
+REPORT RequestId: 84bba934-fc66-4252-a612-bff8ef0c0f2b	Duration: 11.44 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"be3d7bee-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442020043, \"updatedAt\": 1555442020043}"
+}
+--------------------------------------------------------------------
+START RequestId: 7752197a-e047-4e56-b387-287aae65a677 Version: $LATEST
+END RequestId: 7752197a-e047-4e56-b387-287aae65a677
+REPORT RequestId: 7752197a-e047-4e56-b387-287aae65a677	Duration: 10.92 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c0881724-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442023888, \"updatedAt\": 1555442023888}"
+}
+--------------------------------------------------------------------
+START RequestId: e1972035-720e-4500-b670-45468c941ad3 Version: $LATEST
+END RequestId: e1972035-720e-4500-b670-45468c941ad3
+REPORT RequestId: e1972035-720e-4500-b670-45468c941ad3	Duration: 10.87 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c2d37bc2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442027738, \"updatedAt\": 1555442027738}"
+}
+--------------------------------------------------------------------
+START RequestId: 1c921b5e-780b-4f3c-8d47-025a4b5715cd Version: $LATEST
+END RequestId: 1c921b5e-780b-4f3c-8d47-025a4b5715cd
+REPORT RequestId: 1c921b5e-780b-4f3c-8d47-025a4b5715cd	Duration: 10.40 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c52741f6-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442031642, \"updatedAt\": 1555442031642}"
+}
+--------------------------------------------------------------------
+START RequestId: 65804cb8-e405-4615-861a-96842017e080 Version: $LATEST
+END RequestId: 65804cb8-e405-4615-861a-96842017e080
+REPORT RequestId: 65804cb8-e405-4615-861a-96842017e080	Duration: 10.79 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c771dd86-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442035486, \"updatedAt\": 1555442035486}"
+}
+--------------------------------------------------------------------
+START RequestId: b6b2d700-ebe9-417c-a108-7b87f2206d60 Version: $LATEST
+END RequestId: b6b2d700-ebe9-417c-a108-7b87f2206d60
+REPORT RequestId: b6b2d700-ebe9-417c-a108-7b87f2206d60	Duration: 10.47 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"c9ba9c18-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442039318, \"updatedAt\": 1555442039318}"
+}
+--------------------------------------------------------------------
+START RequestId: 2b1838e2-8eb6-4577-bdd0-a956253b04f7 Version: $LATEST
+END RequestId: 2b1838e2-8eb6-4577-bdd0-a956253b04f7
+REPORT RequestId: 2b1838e2-8eb6-4577-bdd0-a956253b04f7	Duration: 10.40 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"cc02f772-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442043148, \"updatedAt\": 1555442043148}"
+}
+--------------------------------------------------------------------
+START RequestId: 6019dc40-598f-4162-b50d-6e98656c601a Version: $LATEST
+END RequestId: 6019dc40-598f-4162-b50d-6e98656c601a
+REPORT RequestId: 6019dc40-598f-4162-b50d-6e98656c601a	Duration: 10.77 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ce5bcc74-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442047086, \"updatedAt\": 1555442047086}"
+}
+--------------------------------------------------------------------
+START RequestId: 97b37888-38bc-4049-b9f0-b903c1f57a2f Version: $LATEST
+END RequestId: 97b37888-38bc-4049-b9f0-b903c1f57a2f
+REPORT RequestId: 97b37888-38bc-4049-b9f0-b903c1f57a2f	Duration: 10.51 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d0ad6f46-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442050976, \"updatedAt\": 1555442050976}"
+}
+--------------------------------------------------------------------
+START RequestId: 8126500c-84d0-42fa-8cd2-ed16bd0d93f5 Version: $LATEST
+END RequestId: 8126500c-84d0-42fa-8cd2-ed16bd0d93f5
+REPORT RequestId: 8126500c-84d0-42fa-8cd2-ed16bd0d93f5	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d30c9c26-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442054955, \"updatedAt\": 1555442054955}"
+}
+--------------------------------------------------------------------
+START RequestId: 01d8373e-2266-4513-929f-c839768b0c84 Version: $LATEST
+END RequestId: 01d8373e-2266-4513-929f-c839768b0c84
+REPORT RequestId: 01d8373e-2266-4513-929f-c839768b0c84	Duration: 10.73 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d5771234-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442059008, \"updatedAt\": 1555442059008}"
+}
+--------------------------------------------------------------------
+START RequestId: ffdea716-364e-452c-9c27-eb2e81e74e36 Version: $LATEST
+END RequestId: ffdea716-364e-452c-9c27-eb2e81e74e36
+REPORT RequestId: ffdea716-364e-452c-9c27-eb2e81e74e36	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"d7cd6132-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442062930, \"updatedAt\": 1555442062930}"
+}
+--------------------------------------------------------------------
+START RequestId: 47672d76-9723-4e7e-a5e6-d19f8a9067a4 Version: $LATEST
+END RequestId: 47672d76-9723-4e7e-a5e6-d19f8a9067a4
+REPORT RequestId: 47672d76-9723-4e7e-a5e6-d19f8a9067a4	Duration: 10.56 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"da1d4c7c-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442066809, \"updatedAt\": 1555442066809}"
+}
+--------------------------------------------------------------------
+START RequestId: 19b162e0-8444-42b5-ae0d-69a792a92969 Version: $LATEST
+END RequestId: 19b162e0-8444-42b5-ae0d-69a792a92969
+REPORT RequestId: 19b162e0-8444-42b5-ae0d-69a792a92969	Duration: 10.52 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"dc7000d2-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442070706, \"updatedAt\": 1555442070706}"
+}
+--------------------------------------------------------------------
+START RequestId: 8eee8654-c11b-4921-a88d-97c5f8d24127 Version: $LATEST
+END RequestId: 8eee8654-c11b-4921-a88d-97c5f8d24127
+REPORT RequestId: 8eee8654-c11b-4921-a88d-97c5f8d24127	Duration: 10.59 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"dec6602e-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442074628, \"updatedAt\": 1555442074628}"
+}
+--------------------------------------------------------------------
+START RequestId: c89876a4-79c5-40a9-8a19-b59d1f2cece9 Version: $LATEST
+END RequestId: c89876a4-79c5-40a9-8a19-b59d1f2cece9
+REPORT RequestId: c89876a4-79c5-40a9-8a19-b59d1f2cece9	Duration: 10.56 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e115ce32-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442078503, \"updatedAt\": 1555442078503}"
+}
+--------------------------------------------------------------------
+START RequestId: 99aebe42-b60c-4854-909c-237c40435975 Version: $LATEST
+END RequestId: 99aebe42-b60c-4854-909c-237c40435975
+REPORT RequestId: 99aebe42-b60c-4854-909c-237c40435975	Duration: 10.70 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e377cdd8-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442082501, \"updatedAt\": 1555442082501}"
+}
+--------------------------------------------------------------------
+START RequestId: 767a70d6-91c3-4b54-9e60-47e40ba63b60 Version: $LATEST
+END RequestId: 767a70d6-91c3-4b54-9e60-47e40ba63b60
+REPORT RequestId: 767a70d6-91c3-4b54-9e60-47e40ba63b60	Duration: 10.35 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e5c312aa-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442086350, \"updatedAt\": 1555442086350}"
+}
+--------------------------------------------------------------------
+START RequestId: a24bfd27-77ab-455a-9d19-c1b1fae3cfde Version: $LATEST
+END RequestId: a24bfd27-77ab-455a-9d19-c1b1fae3cfde
+REPORT RequestId: a24bfd27-77ab-455a-9d19-c1b1fae3cfde	Duration: 11.01 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"e8105996-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442090212, \"updatedAt\": 1555442090212}"
+}
+--------------------------------------------------------------------
+START RequestId: a2549aaa-ecca-480b-86c6-0618f16c4c9a Version: $LATEST
+END RequestId: a2549aaa-ecca-480b-86c6-0618f16c4c9a
+REPORT RequestId: a2549aaa-ecca-480b-86c6-0618f16c4c9a	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ea6186de-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442094099, \"updatedAt\": 1555442094099}"
+}
+--------------------------------------------------------------------
+START RequestId: d10f282d-7cbd-41f1-8ff7-e04a59d520f5 Version: $LATEST
+END RequestId: d10f282d-7cbd-41f1-8ff7-e04a59d520f5
+REPORT RequestId: d10f282d-7cbd-41f1-8ff7-e04a59d520f5	Duration: 10.84 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ecbcdaaa-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442098053, \"updatedAt\": 1555442098053}"
+}
+--------------------------------------------------------------------
+START RequestId: 15de5fe8-feb6-493f-aeff-f5ff093f0e06 Version: $LATEST
+END RequestId: 15de5fe8-feb6-493f-aeff-f5ff093f0e06
+REPORT RequestId: 15de5fe8-feb6-493f-aeff-f5ff093f0e06	Duration: 10.51 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ef1049ea-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442101956, \"updatedAt\": 1555442101956}"
+}
+--------------------------------------------------------------------
+START RequestId: 7101727b-24e3-4e9a-a719-896b1747bff1 Version: $LATEST
+END RequestId: 7101727b-24e3-4e9a-a719-896b1747bff1
+REPORT RequestId: 7101727b-24e3-4e9a-a719-896b1747bff1	Duration: 10.54 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f161a7fc-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442105844, \"updatedAt\": 1555442105844}"
+}
+--------------------------------------------------------------------
+START RequestId: 2c1bc72e-5632-49ef-81d8-4d6280ff9b2b Version: $LATEST
+END RequestId: 2c1bc72e-5632-49ef-81d8-4d6280ff9b2b
+REPORT RequestId: 2c1bc72e-5632-49ef-81d8-4d6280ff9b2b	Duration: 10.39 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f3b4d0b0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442109745, \"updatedAt\": 1555442109745}"
+}
+--------------------------------------------------------------------
+START RequestId: d3d4c7b5-a6aa-4e07-a6ac-4ff703cb1205 Version: $LATEST
+END RequestId: d3d4c7b5-a6aa-4e07-a6ac-4ff703cb1205
+REPORT RequestId: d3d4c7b5-a6aa-4e07-a6ac-4ff703cb1205	Duration: 10.70 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f6107ee0-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442113701, \"updatedAt\": 1555442113701}"
+}
+--------------------------------------------------------------------
+START RequestId: 675075bb-bcf5-4d84-9161-eb15e8ce8678 Version: $LATEST
+END RequestId: 675075bb-bcf5-4d84-9161-eb15e8ce8678
+REPORT RequestId: 675075bb-bcf5-4d84-9161-eb15e8ce8678	Duration: 10.67 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"f85d6a14-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442117561, \"updatedAt\": 1555442117561}"
+}
+--------------------------------------------------------------------
+START RequestId: 437fc67d-110b-431c-9447-7c9696fd7e94 Version: $LATEST
+END RequestId: 437fc67d-110b-431c-9447-7c9696fd7e94
+REPORT RequestId: 437fc67d-110b-431c-9447-7c9696fd7e94	Duration: 10.65 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"fab02518-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442121458, \"updatedAt\": 1555442121458}"
+}
+--------------------------------------------------------------------
+START RequestId: 7da3a0b1-947d-4645-9406-f541c2d0f673 Version: $LATEST
+END RequestId: 7da3a0b1-947d-4645-9406-f541c2d0f673
+REPORT RequestId: 7da3a0b1-947d-4645-9406-f541c2d0f673	Duration: 10.92 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"fd1d5d02-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442125529, \"updatedAt\": 1555442125529}"
+}
+--------------------------------------------------------------------
+START RequestId: f30bfa48-628a-40ed-8b78-dbf3d3b63dc8 Version: $LATEST
+END RequestId: f30bfa48-628a-40ed-8b78-dbf3d3b63dc8
+REPORT RequestId: f30bfa48-628a-40ed-8b78-dbf3d3b63dc8	Duration: 10.91 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"ff756158-607b-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442129462, \"updatedAt\": 1555442129462}"
+}
+--------------------------------------------------------------------
+START RequestId: d163823c-dfb1-4b1e-a7a1-b891337d6ddc Version: $LATEST
+END RequestId: d163823c-dfb1-4b1e-a7a1-b891337d6ddc
+REPORT RequestId: d163823c-dfb1-4b1e-a7a1-b891337d6ddc	Duration: 10.43 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"01c4778c-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442133335, \"updatedAt\": 1555442133335}"
+}
+--------------------------------------------------------------------
+START RequestId: 990e68df-1ad4-4a37-8979-046a4c314475 Version: $LATEST
+END RequestId: 990e68df-1ad4-4a37-8979-046a4c314475
+REPORT RequestId: 990e68df-1ad4-4a37-8979-046a4c314475	Duration: 11.10 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"04250fd2-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442137324, \"updatedAt\": 1555442137324}"
+}
+--------------------------------------------------------------------
+START RequestId: b5cfde04-ca1f-4705-9b7f-66c1cd77661b Version: $LATEST
+END RequestId: b5cfde04-ca1f-4705-9b7f-66c1cd77661b
+REPORT RequestId: b5cfde04-ca1f-4705-9b7f-66c1cd77661b	Duration: 10.68 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0676bf56-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442141215, \"updatedAt\": 1555442141215}"
+}
+--------------------------------------------------------------------
+START RequestId: 64dff8bb-5d41-42a1-b648-a714323fc0ef Version: $LATEST
+END RequestId: 64dff8bb-5d41-42a1-b648-a714323fc0ef
+REPORT RequestId: 64dff8bb-5d41-42a1-b648-a714323fc0ef	Duration: 10.72 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"08c01dca-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442145051, \"updatedAt\": 1555442145051}"
+}
+--------------------------------------------------------------------
+START RequestId: 9ec0b783-b173-4598-968c-71d2a0bb843b Version: $LATEST
+END RequestId: 9ec0b783-b173-4598-968c-71d2a0bb843b
+REPORT RequestId: 9ec0b783-b173-4598-968c-71d2a0bb843b	Duration: 14.41 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0b086182-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442148880, \"updatedAt\": 1555442148880}"
+}
+--------------------------------------------------------------------
+START RequestId: 2d81e413-c0a4-44c0-a53a-a4baadc6dc65 Version: $LATEST
+END RequestId: 2d81e413-c0a4-44c0-a53a-a4baadc6dc65
+REPORT RequestId: 2d81e413-c0a4-44c0-a53a-a4baadc6dc65	Duration: 10.55 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0d5657a0-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442152746, \"updatedAt\": 1555442152746}"
+}
+--------------------------------------------------------------------
+START RequestId: 880d450f-f692-4bb9-b800-7c881cfcd7c8 Version: $LATEST
+END RequestId: 880d450f-f692-4bb9-b800-7c881cfcd7c8
+REPORT RequestId: 880d450f-f692-4bb9-b800-7c881cfcd7c8	Duration: 10.75 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"0fa875d8-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442156640, \"updatedAt\": 1555442156640}"
+}
+--------------------------------------------------------------------
+START RequestId: 50c3b54b-a07b-47aa-bcc4-da86ecdd48db Version: $LATEST
+END RequestId: 50c3b54b-a07b-47aa-bcc4-da86ecdd48db
+REPORT RequestId: 50c3b54b-a07b-47aa-bcc4-da86ecdd48db	Duration: 10.82 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"11f8c9d2-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442160522, \"updatedAt\": 1555442160522}"
+}
+--------------------------------------------------------------------
+START RequestId: f6351dd6-fd27-4664-adb0-1f79adb8d49a Version: $LATEST
+END RequestId: f6351dd6-fd27-4664-adb0-1f79adb8d49a
+REPORT RequestId: f6351dd6-fd27-4664-adb0-1f79adb8d49a	Duration: 11.03 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1446c144-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442164388, \"updatedAt\": 1555442164388}"
+}
+--------------------------------------------------------------------
+START RequestId: ccaec3aa-2c79-4074-a38e-9bb484d1c83b Version: $LATEST
+END RequestId: ccaec3aa-2c79-4074-a38e-9bb484d1c83b
+REPORT RequestId: ccaec3aa-2c79-4074-a38e-9bb484d1c83b	Duration: 10.36 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"169c98ce-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442168306, \"updatedAt\": 1555442168306}"
+}
+--------------------------------------------------------------------
+START RequestId: e0a2be6b-c8a0-46c9-b341-a46b6606f15d Version: $LATEST
+END RequestId: e0a2be6b-c8a0-46c9-b341-a46b6606f15d
+REPORT RequestId: e0a2be6b-c8a0-46c9-b341-a46b6606f15d	Duration: 11.16 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"18e92886-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442172164, \"updatedAt\": 1555442172164}"
+}
+--------------------------------------------------------------------
+START RequestId: 330f5f91-c577-45a2-a79d-04e400e50062 Version: $LATEST
+END RequestId: 330f5f91-c577-45a2-a79d-04e400e50062
+REPORT RequestId: 330f5f91-c577-45a2-a79d-04e400e50062	Duration: 10.73 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1b3cdf4c-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442176068, \"updatedAt\": 1555442176068}"
+}
+--------------------------------------------------------------------
+START RequestId: 233bc48d-0e46-4c66-a39d-ec578438c549 Version: $LATEST
+END RequestId: 233bc48d-0e46-4c66-a39d-ec578438c549
+REPORT RequestId: 233bc48d-0e46-4c66-a39d-ec578438c549	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1d8639c4-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442179904, \"updatedAt\": 1555442179904}"
+}
+--------------------------------------------------------------------
+START RequestId: 56312864-7fa5-4af9-8863-7bc71b02c25e Version: $LATEST
+END RequestId: 56312864-7fa5-4af9-8863-7bc71b02c25e
+REPORT RequestId: 56312864-7fa5-4af9-8863-7bc71b02c25e	Duration: 10.76 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"1fe3ce84-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442183872, \"updatedAt\": 1555442183872}"
+}
+--------------------------------------------------------------------
+START RequestId: 9a32ff4d-df0d-464d-910e-f34f27313a47 Version: $LATEST
+END RequestId: 9a32ff4d-df0d-464d-910e-f34f27313a47
+REPORT RequestId: 9a32ff4d-df0d-464d-910e-f34f27313a47	Duration: 10.80 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"22320afc-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442187740, \"updatedAt\": 1555442187740}"
+}
+--------------------------------------------------------------------
+START RequestId: 09d1bfda-ea13-422e-9065-7dfc0db9c499 Version: $LATEST
+END RequestId: 09d1bfda-ea13-422e-9065-7dfc0db9c499
+REPORT RequestId: 09d1bfda-ea13-422e-9065-7dfc0db9c499	Duration: 10.93 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"247abbf6-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442191572, \"updatedAt\": 1555442191572}"
+}
+--------------------------------------------------------------------
+START RequestId: e5ea5a3f-59f5-4194-9836-b24f4d09c924 Version: $LATEST
+END RequestId: e5ea5a3f-59f5-4194-9836-b24f4d09c924
+REPORT RequestId: e5ea5a3f-59f5-4194-9836-b24f4d09c924	Duration: 10.41 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"26ccc232-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442195465, \"updatedAt\": 1555442195465}"
+}
+--------------------------------------------------------------------
+START RequestId: d84f7429-b838-4204-b915-8962291b7915 Version: $LATEST
+END RequestId: d84f7429-b838-4204-b915-8962291b7915
+REPORT RequestId: d84f7429-b838-4204-b915-8962291b7915	Duration: 10.60 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"291b6430-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442199336, \"updatedAt\": 1555442199336}"
+}
+--------------------------------------------------------------------
+START RequestId: f6f56f69-ad87-4028-bccf-9c44614cd1ab Version: $LATEST
+END RequestId: f6f56f69-ad87-4028-bccf-9c44614cd1ab
+REPORT RequestId: f6f56f69-ad87-4028-bccf-9c44614cd1ab	Duration: 10.62 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2b93469c-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442203477, \"updatedAt\": 1555442203477}"
+}
+--------------------------------------------------------------------
+START RequestId: 44c3ce38-0a5f-4c07-ba6e-de6440145b64 Version: $LATEST
+END RequestId: 44c3ce38-0a5f-4c07-ba6e-de6440145b64
+REPORT RequestId: 44c3ce38-0a5f-4c07-ba6e-de6440145b64	Duration: 10.94 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"2de1f380-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442207348, \"updatedAt\": 1555442207348}"
+}
+--------------------------------------------------------------------
+START RequestId: 3eabbc98-b89f-4631-bcef-a87f15adecac Version: $LATEST
+END RequestId: 3eabbc98-b89f-4631-bcef-a87f15adecac
+REPORT RequestId: 3eabbc98-b89f-4631-bcef-a87f15adecac	Duration: 10.85 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"30359b32-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442211252, \"updatedAt\": 1555442211252}"
+}
+--------------------------------------------------------------------
+START RequestId: a5f184c2-957c-4565-899f-9b013313affd Version: $LATEST
+END RequestId: a5f184c2-957c-4565-899f-9b013313affd
+REPORT RequestId: a5f184c2-957c-4565-899f-9b013313affd	Duration: 10.44 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"327b254c-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442215063, \"updatedAt\": 1555442215063}"
+}
+--------------------------------------------------------------------
+START RequestId: a33fa716-278a-43f3-b2cf-9c82799b148e Version: $LATEST
+END RequestId: a33fa716-278a-43f3-b2cf-9c82799b148e
+REPORT RequestId: a33fa716-278a-43f3-b2cf-9c82799b148e	Duration: 10.93 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"34db2b16-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442219048, \"updatedAt\": 1555442219048}"
+}
+--------------------------------------------------------------------
+START RequestId: d0add771-dfb9-4601-93c5-f773a1be5395 Version: $LATEST
+END RequestId: d0add771-dfb9-4601-93c5-f773a1be5395
+REPORT RequestId: d0add771-dfb9-4601-93c5-f773a1be5395	Duration: 11.02 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"372f261a-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442222954, \"updatedAt\": 1555442222954}"
+}
+--------------------------------------------------------------------
+START RequestId: 319852ce-c494-4db2-870a-5956c755c6fb Version: $LATEST
+END RequestId: 319852ce-c494-4db2-870a-5956c755c6fb
+REPORT RequestId: 319852ce-c494-4db2-870a-5956c755c6fb	Duration: 11.36 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3985cf36-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442226877, \"updatedAt\": 1555442226877}"
+}
+--------------------------------------------------------------------
+START RequestId: 1c377e8e-071f-4621-9897-992f3e9b4071 Version: $LATEST
+END RequestId: 1c377e8e-071f-4621-9897-992f3e9b4071
+REPORT RequestId: 1c377e8e-071f-4621-9897-992f3e9b4071	Duration: 10.69 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3bd3baa0-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442230743, \"updatedAt\": 1555442230743}"
+}
+--------------------------------------------------------------------
+START RequestId: c177d420-64dd-4cba-a246-dc6ef143244c Version: $LATEST
+END RequestId: c177d420-64dd-4cba-a246-dc6ef143244c
+REPORT RequestId: c177d420-64dd-4cba-a246-dc6ef143244c	Duration: 10.50 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"3e3f5a7e-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442234804, \"updatedAt\": 1555442234804}"
+}
+--------------------------------------------------------------------
+START RequestId: 0ee3af15-56dd-4d83-aafa-5e8232277668 Version: $LATEST
+END RequestId: 0ee3af15-56dd-4d83-aafa-5e8232277668
+REPORT RequestId: 0ee3af15-56dd-4d83-aafa-5e8232277668	Duration: 10.65 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4086e5ea-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442238628, \"updatedAt\": 1555442238628}"
+}
+--------------------------------------------------------------------
+START RequestId: d4c26924-8d18-4fec-a98a-ee307c39a994 Version: $LATEST
+END RequestId: d4c26924-8d18-4fec-a98a-ee307c39a994
+REPORT RequestId: d4c26924-8d18-4fec-a98a-ee307c39a994	Duration: 10.74 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"430a596e-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442242845, \"updatedAt\": 1555442242845}"
+}
+--------------------------------------------------------------------
+START RequestId: f603fa23-5e88-494c-aadd-fdaf1181ae68 Version: $LATEST
+END RequestId: f603fa23-5e88-494c-aadd-fdaf1181ae68
+REPORT RequestId: f603fa23-5e88-494c-aadd-fdaf1181ae68	Duration: 10.74 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4561ea60-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442246775, \"updatedAt\": 1555442246775}"
+}
+--------------------------------------------------------------------
+START RequestId: c2dee25d-c124-4775-aaf6-850d07311359 Version: $LATEST
+END RequestId: c2dee25d-c124-4775-aaf6-850d07311359
+REPORT RequestId: c2dee25d-c124-4775-aaf6-850d07311359	Duration: 10.74 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"47acc682-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442250620, \"updatedAt\": 1555442250620}"
+}
+--------------------------------------------------------------------
+START RequestId: 3966ab8e-2224-45db-82ab-dd57bb360f03 Version: $LATEST
+END RequestId: 3966ab8e-2224-45db-82ab-dd57bb360f03
+REPORT RequestId: 3966ab8e-2224-45db-82ab-dd57bb360f03	Duration: 10.67 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"49f74cc8-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442254465, \"updatedAt\": 1555442254465}"
+}
+--------------------------------------------------------------------
+START RequestId: 689a01a1-0b62-4832-a178-a813ced3aa46 Version: $LATEST
+END RequestId: 689a01a1-0b62-4832-a178-a813ced3aa46
+REPORT RequestId: 689a01a1-0b62-4832-a178-a813ced3aa46	Duration: 10.40 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4c460848-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442258336, \"updatedAt\": 1555442258336}"
+}
+--------------------------------------------------------------------
+START RequestId: 32acc816-8127-4deb-9e57-d22f14e2af70 Version: $LATEST
+END RequestId: 32acc816-8127-4deb-9e57-d22f14e2af70
+REPORT RequestId: 32acc816-8127-4deb-9e57-d22f14e2af70	Duration: 10.60 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"4e945bb8-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442262204, \"updatedAt\": 1555442262204}"
+}
+--------------------------------------------------------------------
+START RequestId: 23c942b3-84cb-4b69-b29a-0583c79703e3 Version: $LATEST
+END RequestId: 23c942b3-84cb-4b69-b29a-0583c79703e3
+REPORT RequestId: 23c942b3-84cb-4b69-b29a-0583c79703e3	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"50e2db56-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442266075, \"updatedAt\": 1555442266075}"
+}
+--------------------------------------------------------------------
+START RequestId: a9e437bd-45fc-4cf2-a66a-905c7fe68046 Version: $LATEST
+END RequestId: a9e437bd-45fc-4cf2-a66a-905c7fe68046
+REPORT RequestId: a9e437bd-45fc-4cf2-a66a-905c7fe68046	Duration: 10.44 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5333b02e-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442269960, \"updatedAt\": 1555442269960}"
+}
+--------------------------------------------------------------------
+START RequestId: bba215e9-5745-4f2e-8402-540a56fc5a15 Version: $LATEST
+END RequestId: bba215e9-5745-4f2e-8402-540a56fc5a15
+REPORT RequestId: bba215e9-5745-4f2e-8402-540a56fc5a15	Duration: 10.61 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"55851d7c-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442273849, \"updatedAt\": 1555442273849}"
+}
+--------------------------------------------------------------------
+START RequestId: b5eeed43-3205-4b4d-8da3-04714c2dd70e Version: $LATEST
+END RequestId: b5eeed43-3205-4b4d-8da3-04714c2dd70e
+REPORT RequestId: b5eeed43-3205-4b4d-8da3-04714c2dd70e	Duration: 10.72 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"57e21124-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442277813, \"updatedAt\": 1555442277813}"
+}
+--------------------------------------------------------------------
+START RequestId: 49569bc6-b487-4512-a2c0-002aed41d617 Version: $LATEST
+END RequestId: 49569bc6-b487-4512-a2c0-002aed41d617
+REPORT RequestId: 49569bc6-b487-4512-a2c0-002aed41d617	Duration: 10.33 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5a2d06fa-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442281660, \"updatedAt\": 1555442281660}"
+}
+--------------------------------------------------------------------
+START RequestId: 682ef1af-211f-4313-b2b5-fee29d485e11 Version: $LATEST
+END RequestId: 682ef1af-211f-4313-b2b5-fee29d485e11
+REPORT RequestId: 682ef1af-211f-4313-b2b5-fee29d485e11	Duration: 11.09 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5c78b95e-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442285512, \"updatedAt\": 1555442285512}"
+}
+--------------------------------------------------------------------
+START RequestId: ff128c82-4b01-4635-bd5d-7ccfeda1fb82 Version: $LATEST
+END RequestId: ff128c82-4b01-4635-bd5d-7ccfeda1fb82
+REPORT RequestId: ff128c82-4b01-4635-bd5d-7ccfeda1fb82	Duration: 12.49 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"5ec96744-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442289396, \"updatedAt\": 1555442289396}"
+}
+--------------------------------------------------------------------
+START RequestId: 051c59f4-7c2c-4524-b7d6-db5289fb7594 Version: $LATEST
+END RequestId: 051c59f4-7c2c-4524-b7d6-db5289fb7594
+REPORT RequestId: 051c59f4-7c2c-4524-b7d6-db5289fb7594	Duration: 11.09 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"61190568-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442293273, \"updatedAt\": 1555442293273}"
+}
+--------------------------------------------------------------------
+START RequestId: c91deef4-de14-4233-8f85-3629171cd5fe Version: $LATEST
+END RequestId: c91deef4-de14-4233-8f85-3629171cd5fe
+REPORT RequestId: c91deef4-de14-4233-8f85-3629171cd5fe	Duration: 10.61 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\": \"637db7b8-607c-11e9-b3c3-b21faa749be7\", \"text\": \"2019-04-15T21:13:50.950Z A new Todo Item dinner\", \"checked\": false, \"createdAt\": 1555442297288, \"updatedAt\": 1555442297288}"
+}
+--------------------------------------------------------------------
+START RequestId: baf837d5-ed6e-4c20-b738-c8096629d514 Version: $LATEST
+END RequestId: baf837d5-ed6e-4c20-b738-c8096629d514
+REPORT RequestId: baf837d5-ed6e-4c20-b738-c8096629d514	Duration: 17.11 ms	Billed Duration: 100 ms 	Memory Size: 2048 MB	Max Memory Used: 72 MB	
+
+

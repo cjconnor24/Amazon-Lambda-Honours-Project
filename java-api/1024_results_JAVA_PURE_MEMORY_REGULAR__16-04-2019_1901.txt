@@ -1,0 +1,2817 @@
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1ba7f137-3428-4777-a3a6-08dcc1fcaad4\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437673460,\"updatedAt\":1555437673460}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 71ddd7d9-0eaf-4a8a-8d88-8e5b58eec162 Version: $LATEST
+log4j:WARN No appenders could be found for logger (com.amazonaws.AmazonWebServiceClient).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+END RequestId: 71ddd7d9-0eaf-4a8a-8d88-8e5b58eec162
+REPORT RequestId: 71ddd7d9-0eaf-4a8a-8d88-8e5b58eec162	Duration: 4507.37 ms	Billed Duration: 4600 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"264228de-f1d0-4642-83c5-f9c7bc9add87\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437689549,\"updatedAt\":1555437689549}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 05406e3b-4ae6-4bc3-83ed-04122c28a7ad Version: $LATEST
+END RequestId: 05406e3b-4ae6-4bc3-83ed-04122c28a7ad
+REPORT RequestId: 05406e3b-4ae6-4bc3-83ed-04122c28a7ad	Duration: 17.03 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2f7ed63b-c402-4981-8a35-bea189220d4d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437700895,\"updatedAt\":1555437700895}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 82bd0aac-f515-4baf-aa4a-d16bc6946450 Version: $LATEST
+END RequestId: 82bd0aac-f515-4baf-aa4a-d16bc6946450
+REPORT RequestId: 82bd0aac-f515-4baf-aa4a-d16bc6946450	Duration: 11.94 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"74517a30-63ab-469d-b5c9-380f727bcf83\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437712281,\"updatedAt\":1555437712281}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: c275c2fc-9ab0-42e4-8d26-d8f6b343ac95 Version: $LATEST
+END RequestId: c275c2fc-9ab0-42e4-8d26-d8f6b343ac95
+REPORT RequestId: c275c2fc-9ab0-42e4-8d26-d8f6b343ac95	Duration: 24.85 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fddbca9a-1029-40c4-ac38-38a6565e0828\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437723632,\"updatedAt\":1555437723632}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1c8f225f-0bd9-420e-a234-1ac6fa88109b Version: $LATEST
+END RequestId: 1c8f225f-0bd9-420e-a234-1ac6fa88109b
+REPORT RequestId: 1c8f225f-0bd9-420e-a234-1ac6fa88109b	Duration: 11.56 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"397b8256-1f96-4976-9be4-31a9296c96ab\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437734980,\"updatedAt\":1555437734980}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ef1b6034-840c-4b75-9fca-7a6132a34ad5 Version: $LATEST
+END RequestId: ef1b6034-840c-4b75-9fca-7a6132a34ad5
+REPORT RequestId: ef1b6034-840c-4b75-9fca-7a6132a34ad5	Duration: 67.95 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"30fc2c3d-bc9a-4245-a7f6-c3cbd8c8d618\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437746391,\"updatedAt\":1555437746391}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: bf840a47-bba2-4874-b215-bf055669ac40 Version: $LATEST
+END RequestId: bf840a47-bba2-4874-b215-bf055669ac40
+REPORT RequestId: bf840a47-bba2-4874-b215-bf055669ac40	Duration: 10.82 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7f8f22f2-7497-4d28-ba3e-47619502ec4b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437757819,\"updatedAt\":1555437757819}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ad2ab83d-2227-4c13-b255-9fc0425fbe22 Version: $LATEST
+END RequestId: ad2ab83d-2227-4c13-b255-9fc0425fbe22
+REPORT RequestId: ad2ab83d-2227-4c13-b255-9fc0425fbe22	Duration: 24.56 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"a5b5c2ff-8818-4958-afd5-7aeb91383b5a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437769177,\"updatedAt\":1555437769177}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f6fb0ba4-5e82-4526-9cef-27c452c5a420 Version: $LATEST
+END RequestId: f6fb0ba4-5e82-4526-9cef-27c452c5a420
+REPORT RequestId: f6fb0ba4-5e82-4526-9cef-27c452c5a420	Duration: 10.82 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"6125d7d8-1b4f-4d33-9517-dd561601b80b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437780521,\"updatedAt\":1555437780521}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5aba5495-b0d1-4f81-b83f-23aece2edb4e Version: $LATEST
+END RequestId: 5aba5495-b0d1-4f81-b83f-23aece2edb4e
+REPORT RequestId: 5aba5495-b0d1-4f81-b83f-23aece2edb4e	Duration: 33.90 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"faf05d5c-8ff5-4d15-9a10-e9bec61d1abd\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437791889,\"updatedAt\":1555437791889}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8578191c-37c1-41fd-a7f6-6404d2c66477 Version: $LATEST
+END RequestId: 8578191c-37c1-41fd-a7f6-6404d2c66477
+REPORT RequestId: 8578191c-37c1-41fd-a7f6-6404d2c66477	Duration: 19.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"51fff99e-0993-4d07-8e51-3ff313b55349\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437803279,\"updatedAt\":1555437803279}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b4557bcf-e890-45d2-970f-63a146f51973 Version: $LATEST
+END RequestId: b4557bcf-e890-45d2-970f-63a146f51973
+REPORT RequestId: b4557bcf-e890-45d2-970f-63a146f51973	Duration: 28.82 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"6c6778ab-f6da-49b0-a3d6-f0d4717bf70d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437814603,\"updatedAt\":1555437814603}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 13116f8f-5669-4a9c-824f-d26caf2ac382 Version: $LATEST
+END RequestId: 13116f8f-5669-4a9c-824f-d26caf2ac382
+REPORT RequestId: 13116f8f-5669-4a9c-824f-d26caf2ac382	Duration: 10.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"05d5a6cc-66af-4d12-ade4-610d5168dbc4\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437825967,\"updatedAt\":1555437825967}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d9a9687e-a731-4557-abd2-50306a9606b7 Version: $LATEST
+END RequestId: d9a9687e-a731-4557-abd2-50306a9606b7
+REPORT RequestId: d9a9687e-a731-4557-abd2-50306a9606b7	Duration: 10.89 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"0f806a4a-ad3a-4e02-a9e4-64cd8a5fe5c7\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437837301,\"updatedAt\":1555437837301}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4da80e79-1d3d-4059-bf66-301d14721e2d Version: $LATEST
+END RequestId: 4da80e79-1d3d-4059-bf66-301d14721e2d
+REPORT RequestId: 4da80e79-1d3d-4059-bf66-301d14721e2d	Duration: 10.83 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"68d55941-8b3e-4ef6-9afa-3e69bdbcf4b7\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437848668,\"updatedAt\":1555437848668}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 01cd5192-bac4-460f-bb79-a98360c91bc8 Version: $LATEST
+END RequestId: 01cd5192-bac4-460f-bb79-a98360c91bc8
+REPORT RequestId: 01cd5192-bac4-460f-bb79-a98360c91bc8	Duration: 31.49 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ae8359f7-3648-4e5e-8bb0-126d2344626b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437860101,\"updatedAt\":1555437860101}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d6651ce1-ecc6-48e3-a182-c2b0587a3cd2 Version: $LATEST
+END RequestId: d6651ce1-ecc6-48e3-a182-c2b0587a3cd2
+REPORT RequestId: d6651ce1-ecc6-48e3-a182-c2b0587a3cd2	Duration: 19.10 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5079fbde-13db-4b9c-8757-42bf3617ae5b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437871477,\"updatedAt\":1555437871477}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 03e06401-4546-40bc-aa63-3d7b216ea371 Version: $LATEST
+END RequestId: 03e06401-4546-40bc-aa63-3d7b216ea371
+REPORT RequestId: 03e06401-4546-40bc-aa63-3d7b216ea371	Duration: 11.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"404cd687-43ef-445b-82a7-912ca4c0eaad\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437882833,\"updatedAt\":1555437882833}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: c0bb9a0c-6281-45a5-8f72-7e4118231356 Version: $LATEST
+END RequestId: c0bb9a0c-6281-45a5-8f72-7e4118231356
+REPORT RequestId: c0bb9a0c-6281-45a5-8f72-7e4118231356	Duration: 11.75 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c6d06192-410e-427e-a38c-46af27a12ef3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437894195,\"updatedAt\":1555437894195}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8b925e11-1f63-451d-aa33-a43fca1bc1dc Version: $LATEST
+END RequestId: 8b925e11-1f63-451d-aa33-a43fca1bc1dc
+REPORT RequestId: 8b925e11-1f63-451d-aa33-a43fca1bc1dc	Duration: 12.27 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2e45d529-fe24-4950-a721-1cbb8acbfff3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437905559,\"updatedAt\":1555437905559}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ac2d4862-5e6f-4138-bd4e-c131c950b9b6 Version: $LATEST
+END RequestId: ac2d4862-5e6f-4138-bd4e-c131c950b9b6
+REPORT RequestId: ac2d4862-5e6f-4138-bd4e-c131c950b9b6	Duration: 10.76 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"21101a68-22e0-4b70-b239-8a1e0a713834\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437916946,\"updatedAt\":1555437916946}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ff2ea11f-18ae-410c-91a5-4ceaf35c6fa7 Version: $LATEST
+END RequestId: ff2ea11f-18ae-410c-91a5-4ceaf35c6fa7
+REPORT RequestId: ff2ea11f-18ae-410c-91a5-4ceaf35c6fa7	Duration: 19.59 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"44353876-2082-4bd9-818c-3cc65f4fb056\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437928317,\"updatedAt\":1555437928317}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 53444ea0-e2b9-43b6-944f-9e2311c8bb42 Version: $LATEST
+END RequestId: 53444ea0-e2b9-43b6-944f-9e2311c8bb42
+REPORT RequestId: 53444ea0-e2b9-43b6-944f-9e2311c8bb42	Duration: 10.48 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b86acbd6-afc2-4530-b225-3d230afcf6b2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437939720,\"updatedAt\":1555437939720}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 72df6890-1e88-4fcc-80a2-1fd154042267 Version: $LATEST
+END RequestId: 72df6890-1e88-4fcc-80a2-1fd154042267
+REPORT RequestId: 72df6890-1e88-4fcc-80a2-1fd154042267	Duration: 39.20 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c62ad1a4-3dc7-4c70-91b5-a7eac679bcdf\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437951090,\"updatedAt\":1555437951090}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7553166f-a2e6-4842-a4ab-dca1454cdd5d Version: $LATEST
+END RequestId: 7553166f-a2e6-4842-a4ab-dca1454cdd5d
+REPORT RequestId: 7553166f-a2e6-4842-a4ab-dca1454cdd5d	Duration: 10.53 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"53ebee16-5ea6-49b6-970d-88d0833ceebc\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437962439,\"updatedAt\":1555437962439}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 87bdd41a-487a-42ba-b2b8-21cbe924a713 Version: $LATEST
+END RequestId: 87bdd41a-487a-42ba-b2b8-21cbe924a713
+REPORT RequestId: 87bdd41a-487a-42ba-b2b8-21cbe924a713	Duration: 10.49 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"6a38974b-37a5-47b3-9e9d-29691df3c0b1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437973912,\"updatedAt\":1555437973912}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 08ce1470-0ede-434f-b5f9-8ac09921f9e6 Version: $LATEST
+END RequestId: 08ce1470-0ede-434f-b5f9-8ac09921f9e6
+REPORT RequestId: 08ce1470-0ede-434f-b5f9-8ac09921f9e6	Duration: 10.81 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"96675377-36e1-47d1-963d-50954d2e200b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437985267,\"updatedAt\":1555437985267}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8a90d814-50a1-4e7c-8870-5c7a048a256a Version: $LATEST
+END RequestId: 8a90d814-50a1-4e7c-8870-5c7a048a256a
+REPORT RequestId: 8a90d814-50a1-4e7c-8870-5c7a048a256a	Duration: 17.84 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"726cd157-f800-45b3-b34a-8aa04778b15d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555437996694,\"updatedAt\":1555437996694}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 54869444-c788-49e3-851b-565ee11605cb Version: $LATEST
+END RequestId: 54869444-c788-49e3-851b-565ee11605cb
+REPORT RequestId: 54869444-c788-49e3-851b-565ee11605cb	Duration: 10.91 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"df91db69-dc58-4fc6-9dc2-e60d6b9c5011\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438008060,\"updatedAt\":1555438008060}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 85f88deb-d703-4669-8790-30f5ff1ebec5 Version: $LATEST
+END RequestId: 85f88deb-d703-4669-8790-30f5ff1ebec5
+REPORT RequestId: 85f88deb-d703-4669-8790-30f5ff1ebec5	Duration: 26.94 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"839a94d7-a666-45fd-b1a5-82a22ddf59e4\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438019443,\"updatedAt\":1555438019443}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9c71fa7f-ff0d-4410-b8d9-414af5520d3c Version: $LATEST
+END RequestId: 9c71fa7f-ff0d-4410-b8d9-414af5520d3c
+REPORT RequestId: 9c71fa7f-ff0d-4410-b8d9-414af5520d3c	Duration: 11.12 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3c263ec8-ad68-4926-b48e-520c8635d916\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438030777,\"updatedAt\":1555438030777}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9e2bc82c-e496-485d-b5b7-5922f8a5f238 Version: $LATEST
+END RequestId: 9e2bc82c-e496-485d-b5b7-5922f8a5f238
+REPORT RequestId: 9e2bc82c-e496-485d-b5b7-5922f8a5f238	Duration: 10.85 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8b160b1e-5b92-4812-add8-e65a1a73f30f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438042153,\"updatedAt\":1555438042153}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 98c2dfef-7e23-422f-8db8-ff171628eb8f Version: $LATEST
+END RequestId: 98c2dfef-7e23-422f-8db8-ff171628eb8f
+REPORT RequestId: 98c2dfef-7e23-422f-8db8-ff171628eb8f	Duration: 10.65 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f777f47a-de3d-4d8a-890a-d34f5b9ef41a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438053542,\"updatedAt\":1555438053542}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5da28d27-3650-497c-b11b-ac07524c0261 Version: $LATEST
+END RequestId: 5da28d27-3650-497c-b11b-ac07524c0261
+REPORT RequestId: 5da28d27-3650-497c-b11b-ac07524c0261	Duration: 24.83 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"22de6d7e-ff98-491d-b016-1c622d129bf0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438064917,\"updatedAt\":1555438064917}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 3fbc2af3-5e8c-4896-a1e5-6c215b9d7560 Version: $LATEST
+END RequestId: 3fbc2af3-5e8c-4896-a1e5-6c215b9d7560
+REPORT RequestId: 3fbc2af3-5e8c-4896-a1e5-6c215b9d7560	Duration: 10.50 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c39c5136-1e58-4f95-8014-94bfd3be076e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438076299,\"updatedAt\":1555438076299}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 0ce44226-c925-46e5-a3b9-de9794b2fed5 Version: $LATEST
+END RequestId: 0ce44226-c925-46e5-a3b9-de9794b2fed5
+REPORT RequestId: 0ce44226-c925-46e5-a3b9-de9794b2fed5	Duration: 43.91 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"019e6b91-c28b-4464-bbb4-728d946700c3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438087634,\"updatedAt\":1555438087634}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8023b463-68c3-47a4-ab5d-436074c4b2ac Version: $LATEST
+END RequestId: 8023b463-68c3-47a4-ab5d-436074c4b2ac
+REPORT RequestId: 8023b463-68c3-47a4-ab5d-436074c4b2ac	Duration: 13.44 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1ecbe8c4-e6b2-4b71-8d7d-7a61dd1a2a21\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438098999,\"updatedAt\":1555438098999}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 077a8f78-85bb-4ef8-8481-d8f083ec36e8 Version: $LATEST
+END RequestId: 077a8f78-85bb-4ef8-8481-d8f083ec36e8
+REPORT RequestId: 077a8f78-85bb-4ef8-8481-d8f083ec36e8	Duration: 11.89 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5ce4f8d2-a18a-4779-8a0e-9c9df85cc8d7\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438110316,\"updatedAt\":1555438110316}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 93daf350-db0c-4b9f-b15b-7a53dbd82298 Version: $LATEST
+END RequestId: 93daf350-db0c-4b9f-b15b-7a53dbd82298
+REPORT RequestId: 93daf350-db0c-4b9f-b15b-7a53dbd82298	Duration: 23.52 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"552f6eae-11d6-44f3-863d-41ddc2e46a7b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438121679,\"updatedAt\":1555438121679}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 32b9f08f-091a-49e9-b067-7f508b9f5c69 Version: $LATEST
+END RequestId: 32b9f08f-091a-49e9-b067-7f508b9f5c69
+REPORT RequestId: 32b9f08f-091a-49e9-b067-7f508b9f5c69	Duration: 45.08 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"38b0de75-fec2-4a91-a372-4e7bbda65e9c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438133057,\"updatedAt\":1555438133057}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 097d1a19-a846-4a97-a974-aa4d0ef098a9 Version: $LATEST
+END RequestId: 097d1a19-a846-4a97-a974-aa4d0ef098a9
+REPORT RequestId: 097d1a19-a846-4a97-a974-aa4d0ef098a9	Duration: 22.58 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4a5c589a-2d89-4eb6-ba8a-dc2aa29771bb\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438144459,\"updatedAt\":1555438144459}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 46f7b4cc-729a-47d5-a09f-8093ca2fa6ae Version: $LATEST
+END RequestId: 46f7b4cc-729a-47d5-a09f-8093ca2fa6ae
+REPORT RequestId: 46f7b4cc-729a-47d5-a09f-8093ca2fa6ae	Duration: 42.55 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"161fbc46-a9f2-484e-9235-1dbe08722b38\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438155836,\"updatedAt\":1555438155836}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7a261f67-01aa-4488-8e78-05466bc1ed58 Version: $LATEST
+END RequestId: 7a261f67-01aa-4488-8e78-05466bc1ed58
+REPORT RequestId: 7a261f67-01aa-4488-8e78-05466bc1ed58	Duration: 10.15 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4d92dfab-5368-42b2-8a45-ff10a7dc69d0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438167199,\"updatedAt\":1555438167199}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 76d10c3d-d375-4da0-8e19-93f139aa1fdb Version: $LATEST
+END RequestId: 76d10c3d-d375-4da0-8e19-93f139aa1fdb
+REPORT RequestId: 76d10c3d-d375-4da0-8e19-93f139aa1fdb	Duration: 27.26 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e7d18572-1e5a-4d3b-9913-ebf1218f703a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438178597,\"updatedAt\":1555438178597}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: fcad7025-3dae-4e65-b25e-62daf371bb17 Version: $LATEST
+END RequestId: fcad7025-3dae-4e65-b25e-62daf371bb17
+REPORT RequestId: fcad7025-3dae-4e65-b25e-62daf371bb17	Duration: 10.27 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"27e7188a-aae9-4604-9ed5-3b84608f66c2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438189919,\"updatedAt\":1555438189919}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8d673d35-35cf-4834-930b-1107a6ad166e Version: $LATEST
+END RequestId: 8d673d35-35cf-4834-930b-1107a6ad166e
+REPORT RequestId: 8d673d35-35cf-4834-930b-1107a6ad166e	Duration: 26.47 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"9c10a16a-c304-40fa-9835-87b049268c97\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438201241,\"updatedAt\":1555438201241}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1705c994-c3ff-44b5-a7f3-e52731ad8fba Version: $LATEST
+END RequestId: 1705c994-c3ff-44b5-a7f3-e52731ad8fba
+REPORT RequestId: 1705c994-c3ff-44b5-a7f3-e52731ad8fba	Duration: 10.80 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8415bd37-c17c-41f1-99e0-65fd1f31cd9d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438212580,\"updatedAt\":1555438212580}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5ce95a59-b1fc-400d-8e7d-73fc5ab81000 Version: $LATEST
+END RequestId: 5ce95a59-b1fc-400d-8e7d-73fc5ab81000
+REPORT RequestId: 5ce95a59-b1fc-400d-8e7d-73fc5ab81000	Duration: 32.08 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"0aafff9b-955a-4538-b894-e8a3b489d573\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438223962,\"updatedAt\":1555438223962}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e22d17c7-9666-45bb-8efe-0e90b6972066 Version: $LATEST
+END RequestId: e22d17c7-9666-45bb-8efe-0e90b6972066
+REPORT RequestId: e22d17c7-9666-45bb-8efe-0e90b6972066	Duration: 23.89 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"45e7e050-e287-4782-9978-d13d27425397\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438235299,\"updatedAt\":1555438235299}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6acf719f-d27a-4016-bb25-1a8e7f7d2384 Version: $LATEST
+END RequestId: 6acf719f-d27a-4016-bb25-1a8e7f7d2384
+REPORT RequestId: 6acf719f-d27a-4016-bb25-1a8e7f7d2384	Duration: 10.43 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"692c90a4-0819-409b-b390-0e34c787638f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438246647,\"updatedAt\":1555438246647}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f4967ab8-f31f-4d41-975e-af2a9ea54d2c Version: $LATEST
+END RequestId: f4967ab8-f31f-4d41-975e-af2a9ea54d2c
+REPORT RequestId: f4967ab8-f31f-4d41-975e-af2a9ea54d2c	Duration: 10.64 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"139b20e2-9913-48ba-a2b1-db48754a72f6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438257975,\"updatedAt\":1555438257975}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ae705b4f-62d1-4e90-a6d0-dbce06ba4e74 Version: $LATEST
+END RequestId: ae705b4f-62d1-4e90-a6d0-dbce06ba4e74
+REPORT RequestId: ae705b4f-62d1-4e90-a6d0-dbce06ba4e74	Duration: 10.26 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fe2eed2c-3cec-44ed-a6fa-58d2be7ff197\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438269317,\"updatedAt\":1555438269317}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a69a9802-9d9b-4856-81c6-9574fe0e21bb Version: $LATEST
+END RequestId: a69a9802-9d9b-4856-81c6-9574fe0e21bb
+REPORT RequestId: a69a9802-9d9b-4856-81c6-9574fe0e21bb	Duration: 10.75 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5abce809-515f-4340-9134-40960608c22c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438280659,\"updatedAt\":1555438280659}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9547766f-b6cf-497b-8c62-b960a058efc9 Version: $LATEST
+END RequestId: 9547766f-b6cf-497b-8c62-b960a058efc9
+REPORT RequestId: 9547766f-b6cf-497b-8c62-b960a058efc9	Duration: 23.65 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"26ecdfe9-abfb-4c05-8e4f-b1c39a355587\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438291966,\"updatedAt\":1555438291966}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: af1d7433-9e4f-4c07-8fbd-10c4e0a75722 Version: $LATEST
+END RequestId: af1d7433-9e4f-4c07-8fbd-10c4e0a75722
+REPORT RequestId: af1d7433-9e4f-4c07-8fbd-10c4e0a75722	Duration: 10.21 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"160e599c-fb6f-4d19-b033-777d2f259907\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438303319,\"updatedAt\":1555438303319}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5cd15384-c6a9-491c-8b9c-d58d6ed66653 Version: $LATEST
+END RequestId: 5cd15384-c6a9-491c-8b9c-d58d6ed66653
+REPORT RequestId: 5cd15384-c6a9-491c-8b9c-d58d6ed66653	Duration: 25.83 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"45b31d1b-2a3d-44e0-8226-6c4a0a2bd734\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438314649,\"updatedAt\":1555438314649}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d8db5572-1fc4-427a-a7f4-d59d9dd86d6a Version: $LATEST
+END RequestId: d8db5572-1fc4-427a-a7f4-d59d9dd86d6a
+REPORT RequestId: d8db5572-1fc4-427a-a7f4-d59d9dd86d6a	Duration: 11.07 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b16371c9-d487-49a5-9833-4becc63b8795\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438326002,\"updatedAt\":1555438326002}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 41af63a0-d0c1-493d-afd4-dbd9c074baf2 Version: $LATEST
+END RequestId: 41af63a0-d0c1-493d-afd4-dbd9c074baf2
+REPORT RequestId: 41af63a0-d0c1-493d-afd4-dbd9c074baf2	Duration: 22.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fad567fe-2ada-4d8b-8242-6f92bdb94a4e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438337348,\"updatedAt\":1555438337348}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ec8a2482-76f0-4786-89ef-8c2fb140a53b Version: $LATEST
+END RequestId: ec8a2482-76f0-4786-89ef-8c2fb140a53b
+REPORT RequestId: ec8a2482-76f0-4786-89ef-8c2fb140a53b	Duration: 10.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8ed6d6ed-1b58-4f7a-974b-b516673b10e1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438348718,\"updatedAt\":1555438348718}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f633db1e-23a4-4c51-a22b-5d6a534bffae Version: $LATEST
+END RequestId: f633db1e-23a4-4c51-a22b-5d6a534bffae
+REPORT RequestId: f633db1e-23a4-4c51-a22b-5d6a534bffae	Duration: 20.60 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b27ae5c3-b270-4e67-b9b5-b31379b592ba\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438360089,\"updatedAt\":1555438360089}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 65aa0a25-7966-41f9-9bf1-de1cbbec8a5e Version: $LATEST
+END RequestId: 65aa0a25-7966-41f9-9bf1-de1cbbec8a5e
+REPORT RequestId: 65aa0a25-7966-41f9-9bf1-de1cbbec8a5e	Duration: 9.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e5f4033e-62ec-4636-a019-e5e76e3146c1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438371450,\"updatedAt\":1555438371450}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: cffa9be6-8858-4c1f-9c5e-4dfb396c0982 Version: $LATEST
+END RequestId: cffa9be6-8858-4c1f-9c5e-4dfb396c0982
+REPORT RequestId: cffa9be6-8858-4c1f-9c5e-4dfb396c0982	Duration: 14.54 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ddcda577-b266-4760-a2bb-bd17f75b2730\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438382771,\"updatedAt\":1555438382771}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 75d8ae2f-2775-4260-9a46-cc04d5940db8 Version: $LATEST
+END RequestId: 75d8ae2f-2775-4260-9a46-cc04d5940db8
+REPORT RequestId: 75d8ae2f-2775-4260-9a46-cc04d5940db8	Duration: 10.03 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"09680615-2271-4a9b-99d8-176da069356c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438394128,\"updatedAt\":1555438394128}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 0d3ae3d2-cc53-40e8-a9fa-b7da4b046edd Version: $LATEST
+END RequestId: 0d3ae3d2-cc53-40e8-a9fa-b7da4b046edd
+REPORT RequestId: 0d3ae3d2-cc53-40e8-a9fa-b7da4b046edd	Duration: 18.93 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"aa240075-df51-4a10-97e5-487d300c3a40\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438405452,\"updatedAt\":1555438405452}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ff87b437-d63e-4415-9696-d69db6d1a816 Version: $LATEST
+END RequestId: ff87b437-d63e-4415-9696-d69db6d1a816
+REPORT RequestId: ff87b437-d63e-4415-9696-d69db6d1a816	Duration: 14.50 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"9053fce5-03b5-4703-8e82-c7807a068935\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438416809,\"updatedAt\":1555438416809}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 3b221be1-b242-404e-9a93-90899f210381 Version: $LATEST
+END RequestId: 3b221be1-b242-404e-9a93-90899f210381
+REPORT RequestId: 3b221be1-b242-404e-9a93-90899f210381	Duration: 32.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f1f5bd4f-12b5-4671-99c8-bf04422a2242\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438428214,\"updatedAt\":1555438428214}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: af39a251-1f52-413e-9872-6f02676c5605 Version: $LATEST
+END RequestId: af39a251-1f52-413e-9872-6f02676c5605
+REPORT RequestId: af39a251-1f52-413e-9872-6f02676c5605	Duration: 10.64 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"026e6c3b-f86c-41be-852e-753e96d379e1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438439534,\"updatedAt\":1555438439534}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d4135216-ac40-4b92-8dbb-707e9a99f9b0 Version: $LATEST
+END RequestId: d4135216-ac40-4b92-8dbb-707e9a99f9b0
+REPORT RequestId: d4135216-ac40-4b92-8dbb-707e9a99f9b0	Duration: 11.08 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1f58318f-c6de-4a7c-8640-db172ef71b29\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438451038,\"updatedAt\":1555438451038}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2dc27945-61c8-498e-9930-125471f33ce7 Version: $LATEST
+END RequestId: 2dc27945-61c8-498e-9930-125471f33ce7
+REPORT RequestId: 2dc27945-61c8-498e-9930-125471f33ce7	Duration: 10.40 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b4d46606-511a-40fb-9a95-4e641298262c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438462391,\"updatedAt\":1555438462391}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6a7f1ebe-225f-4a6e-9b1c-c9dbac7df20b Version: $LATEST
+END RequestId: 6a7f1ebe-225f-4a6e-9b1c-c9dbac7df20b
+REPORT RequestId: 6a7f1ebe-225f-4a6e-9b1c-c9dbac7df20b	Duration: 17.39 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"462ae8b9-04d6-4732-b842-96dc12667f1e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438473801,\"updatedAt\":1555438473801}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: bbd4b572-c3c6-4945-96c9-162cbe0712aa Version: $LATEST
+END RequestId: bbd4b572-c3c6-4945-96c9-162cbe0712aa
+REPORT RequestId: bbd4b572-c3c6-4945-96c9-162cbe0712aa	Duration: 26.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"50dec926-4e6a-4e10-a961-f493e5aed5a5\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438485266,\"updatedAt\":1555438485266}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 39160b0b-ee12-43cb-b8b9-1f2d71f0eea5 Version: $LATEST
+END RequestId: 39160b0b-ee12-43cb-b8b9-1f2d71f0eea5
+REPORT RequestId: 39160b0b-ee12-43cb-b8b9-1f2d71f0eea5	Duration: 10.66 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"d67a52ba-091a-4fa4-84c3-fb1fcc3009b2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438496628,\"updatedAt\":1555438496628}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 800ecfe4-ffd1-4ffa-bfdf-83c9bb5e8a2f Version: $LATEST
+END RequestId: 800ecfe4-ffd1-4ffa-bfdf-83c9bb5e8a2f
+REPORT RequestId: 800ecfe4-ffd1-4ffa-bfdf-83c9bb5e8a2f	Duration: 19.82 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"bb4e4cab-50f1-4a8c-9e17-42f2eac71e59\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438508038,\"updatedAt\":1555438508038}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e8903f7e-8d7b-4fc3-8827-281b0ec3be14 Version: $LATEST
+END RequestId: e8903f7e-8d7b-4fc3-8827-281b0ec3be14
+REPORT RequestId: e8903f7e-8d7b-4fc3-8827-281b0ec3be14	Duration: 18.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5bc1bc92-2ee2-418d-ba75-fcce86c1e823\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438519364,\"updatedAt\":1555438519364}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a42eaa83-10f4-4331-8f6e-8b40d4e8de92 Version: $LATEST
+END RequestId: a42eaa83-10f4-4331-8f6e-8b40d4e8de92
+REPORT RequestId: a42eaa83-10f4-4331-8f6e-8b40d4e8de92	Duration: 10.12 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fb6b3826-06e9-43f0-9295-02c7a7333c5d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438530775,\"updatedAt\":1555438530775}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2fa7691e-20dc-49c2-a575-a212b7e91109 Version: $LATEST
+END RequestId: 2fa7691e-20dc-49c2-a575-a212b7e91109
+REPORT RequestId: 2fa7691e-20dc-49c2-a575-a212b7e91109	Duration: 10.58 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"67c58eaf-6f83-4688-88e9-d2b238679121\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438542118,\"updatedAt\":1555438542118}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4addcc4a-3557-4ea5-b555-4bd5ee8a3dd9 Version: $LATEST
+END RequestId: 4addcc4a-3557-4ea5-b555-4bd5ee8a3dd9
+REPORT RequestId: 4addcc4a-3557-4ea5-b555-4bd5ee8a3dd9	Duration: 21.39 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"eb8fff09-6659-4417-a8d4-eb25a734cb61\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438553537,\"updatedAt\":1555438553537}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a84a12dd-68de-4d7e-a2cd-15a5c3e3b9d3 Version: $LATEST
+END RequestId: a84a12dd-68de-4d7e-a2cd-15a5c3e3b9d3
+REPORT RequestId: a84a12dd-68de-4d7e-a2cd-15a5c3e3b9d3	Duration: 22.88 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ea9f0d79-f82c-4273-8355-df3cdc70055c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438564946,\"updatedAt\":1555438564946}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2ff9e531-dde6-4709-88ec-ee1ac3138d0a Version: $LATEST
+END RequestId: 2ff9e531-dde6-4709-88ec-ee1ac3138d0a
+REPORT RequestId: 2ff9e531-dde6-4709-88ec-ee1ac3138d0a	Duration: 13.64 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"01f9142e-0771-474c-8699-5cc9c05e0b8b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438576361,\"updatedAt\":1555438576361}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: db0d6769-1f9e-48f9-b819-a3fc7d706fe2 Version: $LATEST
+END RequestId: db0d6769-1f9e-48f9-b819-a3fc7d706fe2
+REPORT RequestId: db0d6769-1f9e-48f9-b819-a3fc7d706fe2	Duration: 24.17 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"dbbd096b-5442-4df3-9fad-cb06adb54fea\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438587723,\"updatedAt\":1555438587723}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e6afbc97-96bf-47a7-af47-755ddef1f22f Version: $LATEST
+END RequestId: e6afbc97-96bf-47a7-af47-755ddef1f22f
+REPORT RequestId: e6afbc97-96bf-47a7-af47-755ddef1f22f	Duration: 23.41 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"69198be1-ea33-4675-8a4b-f5d304c67ce0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438599142,\"updatedAt\":1555438599142}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: c9c1d83b-6cbb-4626-9500-8a4558aa60aa Version: $LATEST
+END RequestId: c9c1d83b-6cbb-4626-9500-8a4558aa60aa
+REPORT RequestId: c9c1d83b-6cbb-4626-9500-8a4558aa60aa	Duration: 23.09 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c6fa6b2d-07b1-432a-9101-c06822a3943f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438610547,\"updatedAt\":1555438610547}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5fb91ebc-9601-4081-b488-b8b347dbecec Version: $LATEST
+END RequestId: 5fb91ebc-9601-4081-b488-b8b347dbecec
+REPORT RequestId: 5fb91ebc-9601-4081-b488-b8b347dbecec	Duration: 9.79 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c1cb716e-1efa-4cbd-807e-86b128367f18\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438621919,\"updatedAt\":1555438621919}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 73732d1d-8545-40b2-81eb-1191eb1b4c97 Version: $LATEST
+END RequestId: 73732d1d-8545-40b2-81eb-1191eb1b4c97
+REPORT RequestId: 73732d1d-8545-40b2-81eb-1191eb1b4c97	Duration: 11.84 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b5be3b52-e5b7-46eb-a597-810784281e4b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438633266,\"updatedAt\":1555438633266}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b4ac03f8-0e90-45d5-a17f-faee17c2522a Version: $LATEST
+END RequestId: b4ac03f8-0e90-45d5-a17f-faee17c2522a
+REPORT RequestId: b4ac03f8-0e90-45d5-a17f-faee17c2522a	Duration: 20.27 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8041de25-45ce-4df2-b002-eeffec178337\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438644653,\"updatedAt\":1555438644653}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 01abfd4e-1251-4eac-9c82-9cc82489e1bd Version: $LATEST
+END RequestId: 01abfd4e-1251-4eac-9c82-9cc82489e1bd
+REPORT RequestId: 01abfd4e-1251-4eac-9c82-9cc82489e1bd	Duration: 12.17 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"14275682-1346-409e-81b9-bea9fbea35ae\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438656019,\"updatedAt\":1555438656019}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e97d0447-fbe2-4c97-8cb3-b8158f4fd877 Version: $LATEST
+END RequestId: e97d0447-fbe2-4c97-8cb3-b8158f4fd877
+REPORT RequestId: e97d0447-fbe2-4c97-8cb3-b8158f4fd877	Duration: 10.22 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"0ed69271-7444-4260-88bd-13d94cbe4a77\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438667366,\"updatedAt\":1555438667366}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4c2ab664-e484-4716-b836-0870d6e60e59 Version: $LATEST
+END RequestId: 4c2ab664-e484-4716-b836-0870d6e60e59
+REPORT RequestId: 4c2ab664-e484-4716-b836-0870d6e60e59	Duration: 9.98 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"891c86ef-b144-4ba4-aeea-45c9ba9022ed\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438678770,\"updatedAt\":1555438678770}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 334a44ed-917f-44bc-9f34-a28ebef4472f Version: $LATEST
+END RequestId: 334a44ed-917f-44bc-9f34-a28ebef4472f
+REPORT RequestId: 334a44ed-917f-44bc-9f34-a28ebef4472f	Duration: 10.45 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f74eaa62-abc2-45f7-a6e8-45f7631a3022\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438690164,\"updatedAt\":1555438690164}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 38115d6a-578f-450d-869f-f85e7a0a6f05 Version: $LATEST
+END RequestId: 38115d6a-578f-450d-869f-f85e7a0a6f05
+REPORT RequestId: 38115d6a-578f-450d-869f-f85e7a0a6f05	Duration: 35.18 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5b0cdc54-e174-416d-bcf5-4fd696d2a6db\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438701572,\"updatedAt\":1555438701572}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a048a477-12d8-4570-9bb7-8a5347f68297 Version: $LATEST
+END RequestId: a048a477-12d8-4570-9bb7-8a5347f68297
+REPORT RequestId: a048a477-12d8-4570-9bb7-8a5347f68297	Duration: 10.06 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7fefb344-fb99-4267-addc-a94a1c42c35c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438712948,\"updatedAt\":1555438712948}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 965a8206-0398-4af7-b5e5-9726eeb5bd05 Version: $LATEST
+END RequestId: 965a8206-0398-4af7-b5e5-9726eeb5bd05
+REPORT RequestId: 965a8206-0398-4af7-b5e5-9726eeb5bd05	Duration: 20.87 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e100f3af-af02-4cd9-9343-9ea479bee8b9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438724338,\"updatedAt\":1555438724338}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 81a3ee5a-d194-4151-b8a8-2209940cb623 Version: $LATEST
+END RequestId: 81a3ee5a-d194-4151-b8a8-2209940cb623
+REPORT RequestId: 81a3ee5a-d194-4151-b8a8-2209940cb623	Duration: 11.34 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5ae5ee7b-73fa-4531-9d15-57711908382b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438735699,\"updatedAt\":1555438735699}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: af00ce75-94cd-4ea1-8440-c9840614d034 Version: $LATEST
+END RequestId: af00ce75-94cd-4ea1-8440-c9840614d034
+REPORT RequestId: af00ce75-94cd-4ea1-8440-c9840614d034	Duration: 24.40 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"58bd54cd-6b3c-4db9-87f6-981620697ebc\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438747129,\"updatedAt\":1555438747129}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 49b4022d-0093-4db8-b225-811194d5d5e7 Version: $LATEST
+END RequestId: 49b4022d-0093-4db8-b225-811194d5d5e7
+REPORT RequestId: 49b4022d-0093-4db8-b225-811194d5d5e7	Duration: 29.93 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f8d2d9f0-7a4f-490e-8942-a0e5b2def2b0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438758519,\"updatedAt\":1555438758519}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8a34432a-3255-4bf4-8938-8f395c466468 Version: $LATEST
+END RequestId: 8a34432a-3255-4bf4-8938-8f395c466468
+REPORT RequestId: 8a34432a-3255-4bf4-8938-8f395c466468	Duration: 13.78 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"226edf1e-4e0e-4100-85b8-33c948fde9d2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438769901,\"updatedAt\":1555438769901}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 42df8a8d-8bfc-4734-931e-cf8956c2e38e Version: $LATEST
+END RequestId: 42df8a8d-8bfc-4734-931e-cf8956c2e38e
+REPORT RequestId: 42df8a8d-8bfc-4734-931e-cf8956c2e38e	Duration: 10.12 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4fc862a0-f5ee-4e40-b13f-e99e78f5d99f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438781279,\"updatedAt\":1555438781279}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8a8b68f0-8db4-4284-9ba6-f5dd44be3f20 Version: $LATEST
+END RequestId: 8a8b68f0-8db4-4284-9ba6-f5dd44be3f20
+REPORT RequestId: 8a8b68f0-8db4-4284-9ba6-f5dd44be3f20	Duration: 10.16 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"cf1df825-6b71-4c9b-9b38-36a391dbf55c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438792662,\"updatedAt\":1555438792662}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 08aaed6c-8774-4d31-b70f-74dc5e743308 Version: $LATEST
+END RequestId: 08aaed6c-8774-4d31-b70f-74dc5e743308
+REPORT RequestId: 08aaed6c-8774-4d31-b70f-74dc5e743308	Duration: 17.19 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"be86074c-bb92-4d9b-abc0-4bac381700cf\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438804027,\"updatedAt\":1555438804027}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9cdc1c06-414a-4efb-b698-c62427ddcdde Version: $LATEST
+END RequestId: 9cdc1c06-414a-4efb-b698-c62427ddcdde
+REPORT RequestId: 9cdc1c06-414a-4efb-b698-c62427ddcdde	Duration: 12.57 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ccd80ef8-8edf-4f08-87bb-b628195f92fa\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438815534,\"updatedAt\":1555438815534}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: c9669986-3e9b-43da-80e9-39e09ab5f6a6 Version: $LATEST
+END RequestId: c9669986-3e9b-43da-80e9-39e09ab5f6a6
+REPORT RequestId: c9669986-3e9b-43da-80e9-39e09ab5f6a6	Duration: 11.24 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"66c8c54b-9e2d-41d2-959a-cd38c2a7939d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438826939,\"updatedAt\":1555438826939}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 77e9c93a-434b-44e6-b74d-0627cf4c1335 Version: $LATEST
+END RequestId: 77e9c93a-434b-44e6-b74d-0627cf4c1335
+REPORT RequestId: 77e9c93a-434b-44e6-b74d-0627cf4c1335	Duration: 33.33 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"29dc446d-acc8-4750-bbcf-bceb65289051\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438838344,\"updatedAt\":1555438838344}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 808af0a9-7fc5-4bf9-90c7-b86d62cc351f Version: $LATEST
+END RequestId: 808af0a9-7fc5-4bf9-90c7-b86d62cc351f
+REPORT RequestId: 808af0a9-7fc5-4bf9-90c7-b86d62cc351f	Duration: 9.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5d8a26e0-fdfe-48d1-b1d7-818e2df4aff2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438849704,\"updatedAt\":1555438849704}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: dfa9fcf8-4e9b-48f1-8784-83959c6547ed Version: $LATEST
+END RequestId: dfa9fcf8-4e9b-48f1-8784-83959c6547ed
+REPORT RequestId: dfa9fcf8-4e9b-48f1-8784-83959c6547ed	Duration: 21.90 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"313a43c5-bb3c-47ab-8b57-c63a5a70a83f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438861093,\"updatedAt\":1555438861093}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d2abafb9-138e-4653-9406-f496c0b7b173 Version: $LATEST
+END RequestId: d2abafb9-138e-4653-9406-f496c0b7b173
+REPORT RequestId: d2abafb9-138e-4653-9406-f496c0b7b173	Duration: 10.03 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"a2f69636-61db-4b92-abc4-f32957b4d2d1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438872419,\"updatedAt\":1555438872419}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ec20fa98-53ee-4b8a-a86b-a21afe8be953 Version: $LATEST
+END RequestId: ec20fa98-53ee-4b8a-a86b-a21afe8be953
+REPORT RequestId: ec20fa98-53ee-4b8a-a86b-a21afe8be953	Duration: 20.89 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"dd40f563-836a-494b-93b7-5c0dc5569d77\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438883786,\"updatedAt\":1555438883786}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9d40ee81-8f2e-4141-8f11-112a1a5888ab Version: $LATEST
+END RequestId: 9d40ee81-8f2e-4141-8f11-112a1a5888ab
+REPORT RequestId: 9d40ee81-8f2e-4141-8f11-112a1a5888ab	Duration: 19.24 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"62ed14dc-6f13-46a3-848e-aa12e24caada\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438895218,\"updatedAt\":1555438895218}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: bf38a495-e624-43c8-aa0c-6a23b7fcb3c2 Version: $LATEST
+END RequestId: bf38a495-e624-43c8-aa0c-6a23b7fcb3c2
+REPORT RequestId: bf38a495-e624-43c8-aa0c-6a23b7fcb3c2	Duration: 38.07 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"987b5023-bc38-4a7f-ab59-8620b524592b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438906555,\"updatedAt\":1555438906555}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: eb4c2a89-7d6f-4176-bfd9-4de553f8dd82 Version: $LATEST
+END RequestId: eb4c2a89-7d6f-4176-bfd9-4de553f8dd82
+REPORT RequestId: eb4c2a89-7d6f-4176-bfd9-4de553f8dd82	Duration: 9.94 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"187b98ef-807e-4c9a-8182-f65d3f4b236a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438917885,\"updatedAt\":1555438917885}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9ae9fda0-ef9d-461d-8af7-6a70b8bce945 Version: $LATEST
+END RequestId: 9ae9fda0-ef9d-461d-8af7-6a70b8bce945
+REPORT RequestId: 9ae9fda0-ef9d-461d-8af7-6a70b8bce945	Duration: 33.29 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7fe471b0-22b2-4dcd-a551-8d9375c7f489\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438929235,\"updatedAt\":1555438929235}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 74ed6683-5ec3-48ec-a822-8614a3247342 Version: $LATEST
+END RequestId: 74ed6683-5ec3-48ec-a822-8614a3247342
+REPORT RequestId: 74ed6683-5ec3-48ec-a822-8614a3247342	Duration: 9.92 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"0b5f1096-8c95-4546-b33a-1631cd9bc162\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438940571,\"updatedAt\":1555438940571}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 49020d4a-120d-4d28-9441-77c89d6340ad Version: $LATEST
+END RequestId: 49020d4a-120d-4d28-9441-77c89d6340ad
+REPORT RequestId: 49020d4a-120d-4d28-9441-77c89d6340ad	Duration: 10.68 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ba6f6fb4-933c-4cd1-a621-39cffb3bab09\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438951946,\"updatedAt\":1555438951946}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d48f27f2-2cb9-420b-8e7a-4ef971434b1b Version: $LATEST
+END RequestId: d48f27f2-2cb9-420b-8e7a-4ef971434b1b
+REPORT RequestId: d48f27f2-2cb9-420b-8e7a-4ef971434b1b	Duration: 9.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5a6a7c66-53c9-4a64-8388-9c3a4b8dc1f3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438963357,\"updatedAt\":1555438963357}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 23a616d2-1976-41cf-9bda-05397b156cc4 Version: $LATEST
+END RequestId: 23a616d2-1976-41cf-9bda-05397b156cc4
+REPORT RequestId: 23a616d2-1976-41cf-9bda-05397b156cc4	Duration: 22.04 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"635de943-576c-403f-ae6a-ce1b8ce29198\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438974708,\"updatedAt\":1555438974708}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ca6bafef-fcb0-408d-be7a-bd677ca9bfa9 Version: $LATEST
+END RequestId: ca6bafef-fcb0-408d-be7a-bd677ca9bfa9
+REPORT RequestId: ca6bafef-fcb0-408d-be7a-bd677ca9bfa9	Duration: 10.03 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ac30eaaa-11a4-4067-a355-f26d028a93a9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438986296,\"updatedAt\":1555438986296}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f27919c4-9f83-4f84-b71b-77803024b6b2 Version: $LATEST
+END RequestId: f27919c4-9f83-4f84-b71b-77803024b6b2
+REPORT RequestId: f27919c4-9f83-4f84-b71b-77803024b6b2	Duration: 30.40 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"724e8ee6-8bfe-4eed-96b8-cc9c77dadb54\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555438997678,\"updatedAt\":1555438997678}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 72c421f1-70cf-4e51-832e-a7f564658a38 Version: $LATEST
+END RequestId: 72c421f1-70cf-4e51-832e-a7f564658a38
+REPORT RequestId: 72c421f1-70cf-4e51-832e-a7f564658a38	Duration: 21.11 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"6bdeb580-b240-4a44-8412-3389eb0c193e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439009079,\"updatedAt\":1555439009079}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7102a222-350a-4147-9942-627b7ada9297 Version: $LATEST
+END RequestId: 7102a222-350a-4147-9942-627b7ada9297
+REPORT RequestId: 7102a222-350a-4147-9942-627b7ada9297	Duration: 27.43 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"bde4b320-d05f-4997-9b30-929f2aacd12a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439020439,\"updatedAt\":1555439020439}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9674a57e-a999-4a55-b262-57475eb9969c Version: $LATEST
+END RequestId: 9674a57e-a999-4a55-b262-57475eb9969c
+REPORT RequestId: 9674a57e-a999-4a55-b262-57475eb9969c	Duration: 9.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"532af523-33cb-4c67-a55f-99ef4ae6f133\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439031858,\"updatedAt\":1555439031858}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 183a9904-67e5-4c4e-b031-3878a6607f36 Version: $LATEST
+END RequestId: 183a9904-67e5-4c4e-b031-3878a6607f36
+REPORT RequestId: 183a9904-67e5-4c4e-b031-3878a6607f36	Duration: 9.93 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"da20e2cc-3035-4cb3-9e65-c51ac7f6ab61\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439043174,\"updatedAt\":1555439043174}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8a30a950-6e20-4087-8421-8d1898fd1654 Version: $LATEST
+END RequestId: 8a30a950-6e20-4087-8421-8d1898fd1654
+REPORT RequestId: 8a30a950-6e20-4087-8421-8d1898fd1654	Duration: 15.38 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"17181f73-be97-41f2-bee8-61f6bb00f274\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439054539,\"updatedAt\":1555439054539}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5d1aa2a1-05c9-4c84-a021-0d7f3a887c90 Version: $LATEST
+END RequestId: 5d1aa2a1-05c9-4c84-a021-0d7f3a887c90
+REPORT RequestId: 5d1aa2a1-05c9-4c84-a021-0d7f3a887c90	Duration: 24.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8bdbaf90-6267-4b06-b42e-3ce29e8cb27c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439065910,\"updatedAt\":1555439065910}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 43967923-5856-43ca-97c1-4b4bdfe6ea65 Version: $LATEST
+END RequestId: 43967923-5856-43ca-97c1-4b4bdfe6ea65
+REPORT RequestId: 43967923-5856-43ca-97c1-4b4bdfe6ea65	Duration: 9.91 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 138 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"39e3fc0a-de41-4cd5-806a-b63151c7ffb2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439077279,\"updatedAt\":1555439077279}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4113f472-13fc-4897-93f7-49b40d2343bd Version: $LATEST
+END RequestId: 4113f472-13fc-4897-93f7-49b40d2343bd
+REPORT RequestId: 4113f472-13fc-4897-93f7-49b40d2343bd	Duration: 24.68 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 140 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b207400f-9bee-4005-8f23-7aac3ccec2cd\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439088646,\"updatedAt\":1555439088646}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 90c57a23-e442-4e79-9d7a-0ac4aad028f2 Version: $LATEST
+END RequestId: 90c57a23-e442-4e79-9d7a-0ac4aad028f2
+REPORT RequestId: 90c57a23-e442-4e79-9d7a-0ac4aad028f2	Duration: 18.52 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 143 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"fbbdbe8f-30ff-44dd-9a56-0e2a08f42976\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439100019,\"updatedAt\":1555439100019}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1409a309-031a-42dd-a0f8-cfab01d83e9b Version: $LATEST
+END RequestId: 1409a309-031a-42dd-a0f8-cfab01d83e9b
+REPORT RequestId: 1409a309-031a-42dd-a0f8-cfab01d83e9b	Duration: 58.04 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 143 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"dbd5512b-1b08-4581-8991-368dc0b2064a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439111415,\"updatedAt\":1555439111415}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9800ccdd-2d26-41af-9eae-23b32aa3bca1 Version: $LATEST
+END RequestId: 9800ccdd-2d26-41af-9eae-23b32aa3bca1
+REPORT RequestId: 9800ccdd-2d26-41af-9eae-23b32aa3bca1	Duration: 18.02 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 144 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"49e1eb52-eeec-4484-b005-373de0f94743\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439122759,\"updatedAt\":1555439122759}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: dadb8adf-c859-4d33-81ac-68cb5f63f848 Version: $LATEST
+END RequestId: dadb8adf-c859-4d33-81ac-68cb5f63f848
+REPORT RequestId: dadb8adf-c859-4d33-81ac-68cb5f63f848	Duration: 13.72 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 144 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7f71a672-50a0-40b0-8c96-14f3f921e7bc\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439134147,\"updatedAt\":1555439134147}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 35ade64a-b684-4eec-84c3-9778b23cc5f6 Version: $LATEST
+END RequestId: 35ade64a-b684-4eec-84c3-9778b23cc5f6
+REPORT RequestId: 35ade64a-b684-4eec-84c3-9778b23cc5f6	Duration: 13.02 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 145 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"44771611-7d27-40f3-a449-e2e673f214b2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439145472,\"updatedAt\":1555439145472}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8c87dfdd-6018-4f54-880e-c2807cbd47ef Version: $LATEST
+END RequestId: 8c87dfdd-6018-4f54-880e-c2807cbd47ef
+REPORT RequestId: 8c87dfdd-6018-4f54-880e-c2807cbd47ef	Duration: 30.64 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 145 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"435d931f-deae-4840-8a78-09c133403dc2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439156915,\"updatedAt\":1555439156915}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7515b068-8fed-49b7-bc74-6e274b1d67b1 Version: $LATEST
+END RequestId: 7515b068-8fed-49b7-bc74-6e274b1d67b1
+REPORT RequestId: 7515b068-8fed-49b7-bc74-6e274b1d67b1	Duration: 10.01 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 147 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f5fc9fcd-ca8f-4ba2-8c1d-ebbbd176c897\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439168339,\"updatedAt\":1555439168339}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1a7d0755-4c38-4179-a28a-df1292821fb9 Version: $LATEST
+END RequestId: 1a7d0755-4c38-4179-a28a-df1292821fb9
+REPORT RequestId: 1a7d0755-4c38-4179-a28a-df1292821fb9	Duration: 25.93 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ec7e3fc1-35d8-4e20-aa8c-5158a6123e3d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439179660,\"updatedAt\":1555439179660}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 88d23c49-c830-40fc-98cd-ac510602a4cc Version: $LATEST
+END RequestId: 88d23c49-c830-40fc-98cd-ac510602a4cc
+REPORT RequestId: 88d23c49-c830-40fc-98cd-ac510602a4cc	Duration: 9.72 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5dd0bb74-f7e7-4daa-a7bb-67b7b4b05967\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439190991,\"updatedAt\":1555439190991}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ee8c0db3-124a-485b-bb38-d73136fa34ba Version: $LATEST
+END RequestId: ee8c0db3-124a-485b-bb38-d73136fa34ba
+REPORT RequestId: ee8c0db3-124a-485b-bb38-d73136fa34ba	Duration: 17.91 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"689b2ec9-1c75-4431-8c10-059a12249e59\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439202373,\"updatedAt\":1555439202373}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d0995bc0-8cef-48a5-8ce1-9123d72544d1 Version: $LATEST
+END RequestId: d0995bc0-8cef-48a5-8ce1-9123d72544d1
+REPORT RequestId: d0995bc0-8cef-48a5-8ce1-9123d72544d1	Duration: 9.95 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"4a4c86fe-5d48-4b99-af33-273def391c14\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439213718,\"updatedAt\":1555439213718}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4bcb0c0c-0116-40eb-8f96-4b3ed45b724c Version: $LATEST
+END RequestId: 4bcb0c0c-0116-40eb-8f96-4b3ed45b724c
+REPORT RequestId: 4bcb0c0c-0116-40eb-8f96-4b3ed45b724c	Duration: 14.75 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2c42d0bf-5c35-40bb-9e64-f1bf622e42c3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439225053,\"updatedAt\":1555439225053}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ae8f4ddc-289c-44f7-90aa-2fe7836dd5ab Version: $LATEST
+END RequestId: ae8f4ddc-289c-44f7-90aa-2fe7836dd5ab
+REPORT RequestId: ae8f4ddc-289c-44f7-90aa-2fe7836dd5ab	Duration: 11.14 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3c9b92c1-0f2a-4e2f-ac36-e4c242fff1e6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439236395,\"updatedAt\":1555439236395}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 02192401-cba4-4dad-aedc-f9e2d2d50518 Version: $LATEST
+END RequestId: 02192401-cba4-4dad-aedc-f9e2d2d50518
+REPORT RequestId: 02192401-cba4-4dad-aedc-f9e2d2d50518	Duration: 10.26 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7f018094-bc0b-4ba5-a309-6b43e9a41e8e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439247751,\"updatedAt\":1555439247751}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 555019b2-0c31-4977-97ad-43a9f2b60a0c Version: $LATEST
+END RequestId: 555019b2-0c31-4977-97ad-43a9f2b60a0c
+REPORT RequestId: 555019b2-0c31-4977-97ad-43a9f2b60a0c	Duration: 12.36 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c26cf03e-11b0-4c5d-9273-ac21b385c9b3\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439259198,\"updatedAt\":1555439259198}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d0db5429-acbe-4035-998d-714725d68bf1 Version: $LATEST
+END RequestId: d0db5429-acbe-4035-998d-714725d68bf1
+REPORT RequestId: d0db5429-acbe-4035-998d-714725d68bf1	Duration: 14.58 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c4baf46d-023a-4ba9-8aae-58277da8fdf9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439270562,\"updatedAt\":1555439270562}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8e7b06cf-d2b5-4738-a5b4-f57cd10cd1ad Version: $LATEST
+END RequestId: 8e7b06cf-d2b5-4738-a5b4-f57cd10cd1ad
+REPORT RequestId: 8e7b06cf-d2b5-4738-a5b4-f57cd10cd1ad	Duration: 22.83 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"cc683cdd-3562-4b34-8d13-f45b03c88b0b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439281938,\"updatedAt\":1555439281938}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 81f1c5b5-fe17-4e6a-a749-14a5a605e6cf Version: $LATEST
+END RequestId: 81f1c5b5-fe17-4e6a-a749-14a5a605e6cf
+REPORT RequestId: 81f1c5b5-fe17-4e6a-a749-14a5a605e6cf	Duration: 12.26 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1aea0033-f552-481a-8851-c9146dde8382\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439293261,\"updatedAt\":1555439293261}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 43e7314a-5188-4d2a-a84e-7d3e8bbe1de9 Version: $LATEST
+END RequestId: 43e7314a-5188-4d2a-a84e-7d3e8bbe1de9
+REPORT RequestId: 43e7314a-5188-4d2a-a84e-7d3e8bbe1de9	Duration: 24.24 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"828e866e-caec-4394-a22b-03c4e89720d6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439304595,\"updatedAt\":1555439304595}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a6f99f90-05e7-44b0-b594-406be34f3001 Version: $LATEST
+END RequestId: a6f99f90-05e7-44b0-b594-406be34f3001
+REPORT RequestId: a6f99f90-05e7-44b0-b594-406be34f3001	Duration: 9.57 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8e8ae208-ea3d-4c0a-bb88-bd7f7dbdc95d\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439315926,\"updatedAt\":1555439315926}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 88d148fd-014e-422b-8a1c-4e80d51a5075 Version: $LATEST
+END RequestId: 88d148fd-014e-422b-8a1c-4e80d51a5075
+REPORT RequestId: 88d148fd-014e-422b-8a1c-4e80d51a5075	Duration: 9.88 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2c85a723-23e6-485a-9f23-6a5e65172dbf\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439327263,\"updatedAt\":1555439327263}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d8e50c3d-8499-4bf1-a0a8-45c1a12202f2 Version: $LATEST
+END RequestId: d8e50c3d-8499-4bf1-a0a8-45c1a12202f2
+REPORT RequestId: d8e50c3d-8499-4bf1-a0a8-45c1a12202f2	Duration: 9.90 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5a752fa2-ab41-493a-9471-eb262615a8bb\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439338550,\"updatedAt\":1555439338550}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b76f7be0-3740-4c39-b3f5-b4793f9166a5 Version: $LATEST
+END RequestId: b76f7be0-3740-4c39-b3f5-b4793f9166a5
+REPORT RequestId: b76f7be0-3740-4c39-b3f5-b4793f9166a5	Duration: 9.49 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f3a1bbdf-24f0-44bd-b295-722e58379acc\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439349863,\"updatedAt\":1555439349863}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2cf93295-4cfc-4504-b4cf-56369843b058 Version: $LATEST
+END RequestId: 2cf93295-4cfc-4504-b4cf-56369843b058
+REPORT RequestId: 2cf93295-4cfc-4504-b4cf-56369843b058	Duration: 22.10 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"48158e9e-d6be-4532-9f97-c4d74badf17c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439361209,\"updatedAt\":1555439361209}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 2ea1f887-6f57-42a3-8e99-6866f24969ef Version: $LATEST
+END RequestId: 2ea1f887-6f57-42a3-8e99-6866f24969ef
+REPORT RequestId: 2ea1f887-6f57-42a3-8e99-6866f24969ef	Duration: 15.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"a1961494-0be9-4d2e-b893-7c4e3dfec9ab\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439372538,\"updatedAt\":1555439372538}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 814f7701-0ec7-4713-a426-178f0d5c1fd1 Version: $LATEST
+END RequestId: 814f7701-0ec7-4713-a426-178f0d5c1fd1
+REPORT RequestId: 814f7701-0ec7-4713-a426-178f0d5c1fd1	Duration: 39.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"55364ade-f71a-4d63-bbc8-dc57441ff8b7\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439383854,\"updatedAt\":1555439383854}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 0a04ce14-bfb8-450b-a30e-53854203b3e7 Version: $LATEST
+END RequestId: 0a04ce14-bfb8-450b-a30e-53854203b3e7
+REPORT RequestId: 0a04ce14-bfb8-450b-a30e-53854203b3e7	Duration: 16.48 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"bf2d78e5-fbd7-4936-82e3-aa2674cd082f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439395178,\"updatedAt\":1555439395178}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: a010a854-13fd-4dfd-90c6-bc6d278b5e02 Version: $LATEST
+END RequestId: a010a854-13fd-4dfd-90c6-bc6d278b5e02
+REPORT RequestId: a010a854-13fd-4dfd-90c6-bc6d278b5e02	Duration: 21.38 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f02c7082-491e-454a-ac8d-768d2d6f7338\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439406488,\"updatedAt\":1555439406488}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 66600f59-7ec2-462f-a77c-5a9253965c0b Version: $LATEST
+END RequestId: 66600f59-7ec2-462f-a77c-5a9253965c0b
+REPORT RequestId: 66600f59-7ec2-462f-a77c-5a9253965c0b	Duration: 9.89 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e376c8ee-caa0-4a93-9789-3a6a13d7dcca\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439417840,\"updatedAt\":1555439417840}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: bbd7b258-efd5-491d-9a04-f560634f5ad6 Version: $LATEST
+END RequestId: bbd7b258-efd5-491d-9a04-f560634f5ad6
+REPORT RequestId: bbd7b258-efd5-491d-9a04-f560634f5ad6	Duration: 25.98 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2f166dfb-4c5f-4184-a283-7b4f44331a7c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439429179,\"updatedAt\":1555439429179}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 5bb7e457-0ec5-4293-a5ae-5167cd56f4ef Version: $LATEST
+END RequestId: 5bb7e457-0ec5-4293-a5ae-5167cd56f4ef
+REPORT RequestId: 5bb7e457-0ec5-4293-a5ae-5167cd56f4ef	Duration: 9.65 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"c8937de2-59d2-41df-a841-25501c31fb46\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439440489,\"updatedAt\":1555439440489}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 404bc66d-9c16-4669-a281-6ab50cbef81b Version: $LATEST
+END RequestId: 404bc66d-9c16-4669-a281-6ab50cbef81b
+REPORT RequestId: 404bc66d-9c16-4669-a281-6ab50cbef81b	Duration: 18.63 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"d156e2ed-34e3-44a5-ad2a-75b92046afde\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439451822,\"updatedAt\":1555439451822}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: da6889bc-225d-4e20-ba0e-ab6bf977c904 Version: $LATEST
+END RequestId: da6889bc-225d-4e20-ba0e-ab6bf977c904
+REPORT RequestId: da6889bc-225d-4e20-ba0e-ab6bf977c904	Duration: 9.70 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7745b182-c675-4abd-ac6c-f3c8ddd6bfb7\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439463161,\"updatedAt\":1555439463161}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: cd412f83-d324-4c75-9623-bb8969db0996 Version: $LATEST
+END RequestId: cd412f83-d324-4c75-9623-bb8969db0996
+REPORT RequestId: cd412f83-d324-4c75-9623-bb8969db0996	Duration: 23.65 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f819440e-7c27-4615-9f28-04bbeb300679\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439474505,\"updatedAt\":1555439474505}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 50c3b922-3328-45f0-ac98-a49ac54215ce Version: $LATEST
+END RequestId: 50c3b922-3328-45f0-ac98-a49ac54215ce
+REPORT RequestId: 50c3b922-3328-45f0-ac98-a49ac54215ce	Duration: 10.12 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"93de2737-98a0-4910-ba38-5b066ccfcd63\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439485800,\"updatedAt\":1555439485800}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 63a674b1-129f-4fed-8803-0214956ca4d6 Version: $LATEST
+END RequestId: 63a674b1-129f-4fed-8803-0214956ca4d6
+REPORT RequestId: 63a674b1-129f-4fed-8803-0214956ca4d6	Duration: 38.14 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"d4392857-ae79-4fcd-8bd4-d2ba2deffc7b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439497167,\"updatedAt\":1555439497167}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e6ab9b04-63fa-45fe-bacd-5819e3ce2474 Version: $LATEST
+END RequestId: e6ab9b04-63fa-45fe-bacd-5819e3ce2474
+REPORT RequestId: e6ab9b04-63fa-45fe-bacd-5819e3ce2474	Duration: 17.68 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"32a2d290-9809-40e3-bfec-1da33a1f7f6f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439508482,\"updatedAt\":1555439508482}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 0f92c2b3-284c-4ade-b8a7-71d0a86e4d3f Version: $LATEST
+END RequestId: 0f92c2b3-284c-4ade-b8a7-71d0a86e4d3f
+REPORT RequestId: 0f92c2b3-284c-4ade-b8a7-71d0a86e4d3f	Duration: 10.14 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"92662989-62f6-414b-9f02-287b01663c39\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439519808,\"updatedAt\":1555439519808}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: e99f83ba-b6e4-4c41-afe5-8d9f72eedc18 Version: $LATEST
+END RequestId: e99f83ba-b6e4-4c41-afe5-8d9f72eedc18
+REPORT RequestId: e99f83ba-b6e4-4c41-afe5-8d9f72eedc18	Duration: 9.70 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"5e59affb-4606-4c57-bf0b-ecd3cd3db0d6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439531122,\"updatedAt\":1555439531122}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 23f763be-65fe-461f-86c2-c38c54ccbad0 Version: $LATEST
+END RequestId: 23f763be-65fe-461f-86c2-c38c54ccbad0
+REPORT RequestId: 23f763be-65fe-461f-86c2-c38c54ccbad0	Duration: 26.75 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"94aaf8a2-4d1a-4b14-90e1-9d4bd1e4bbb8\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439542925,\"updatedAt\":1555439542925}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b61b3d57-647a-46ae-b8f4-a003869d1cd4 Version: $LATEST
+END RequestId: b61b3d57-647a-46ae-b8f4-a003869d1cd4
+REPORT RequestId: b61b3d57-647a-46ae-b8f4-a003869d1cd4	Duration: 13.78 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"abfbd27a-c721-488c-a506-0b5aa52153d2\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439554238,\"updatedAt\":1555439554238}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: c66dff59-12f0-4afb-8b0f-f59e15e4f0b5 Version: $LATEST
+END RequestId: c66dff59-12f0-4afb-8b0f-f59e15e4f0b5
+REPORT RequestId: c66dff59-12f0-4afb-8b0f-f59e15e4f0b5	Duration: 26.44 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b8e8b60b-7896-4dfc-9785-a80e88d3557f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439565529,\"updatedAt\":1555439565529}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ee0e49de-dcca-4d92-bb0a-20178828853a Version: $LATEST
+END RequestId: ee0e49de-dcca-4d92-bb0a-20178828853a
+REPORT RequestId: ee0e49de-dcca-4d92-bb0a-20178828853a	Duration: 10.34 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e9685f68-f5a7-405a-9dd0-28680177fa3b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439576816,\"updatedAt\":1555439576816}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 094c898e-a86c-45bc-8be8-d8fd51e6f44d Version: $LATEST
+END RequestId: 094c898e-a86c-45bc-8be8-d8fd51e6f44d
+REPORT RequestId: 094c898e-a86c-45bc-8be8-d8fd51e6f44d	Duration: 9.53 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"42c0cafa-d331-411e-a38e-26ab783bf692\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439588095,\"updatedAt\":1555439588095}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ab626ca3-8192-49eb-a34a-0f287d642799 Version: $LATEST
+END RequestId: ab626ca3-8192-49eb-a34a-0f287d642799
+REPORT RequestId: ab626ca3-8192-49eb-a34a-0f287d642799	Duration: 10.64 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"a0f4ef99-a779-4723-9399-d868c8d27649\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439599397,\"updatedAt\":1555439599397}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 87585990-d3c0-4741-aaf6-91e3e761d98b Version: $LATEST
+END RequestId: 87585990-d3c0-4741-aaf6-91e3e761d98b
+REPORT RequestId: 87585990-d3c0-4741-aaf6-91e3e761d98b	Duration: 10.14 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"a3b823cf-95b9-4352-8137-70e9841c94de\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439610729,\"updatedAt\":1555439610729}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d4c5b0dc-d3f0-407b-8899-afeb53064cd7 Version: $LATEST
+END RequestId: d4c5b0dc-d3f0-407b-8899-afeb53064cd7
+REPORT RequestId: d4c5b0dc-d3f0-407b-8899-afeb53064cd7	Duration: 10.32 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"462be4ea-95d8-48b9-bc3c-f0dee9c11dae\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439622021,\"updatedAt\":1555439622021}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 567131e1-5aef-4456-a4d5-b9f06ec97145 Version: $LATEST
+END RequestId: 567131e1-5aef-4456-a4d5-b9f06ec97145
+REPORT RequestId: 567131e1-5aef-4456-a4d5-b9f06ec97145	Duration: 26.05 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3caf1028-e95d-43bc-b74f-331ad4fa0dc9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439633348,\"updatedAt\":1555439633348}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d11ffecb-63df-42f1-907d-772cfddcf9ec Version: $LATEST
+END RequestId: d11ffecb-63df-42f1-907d-772cfddcf9ec
+REPORT RequestId: d11ffecb-63df-42f1-907d-772cfddcf9ec	Duration: 9.49 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3433dc6e-0d28-454a-a83a-72b99e39bab1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439644648,\"updatedAt\":1555439644648}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 6c4355b2-4a8a-45d6-98c1-8bb1fc582b88 Version: $LATEST
+END RequestId: 6c4355b2-4a8a-45d6-98c1-8bb1fc582b88
+REPORT RequestId: 6c4355b2-4a8a-45d6-98c1-8bb1fc582b88	Duration: 16.99 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"47c10af0-5499-4343-a129-16238fac16eb\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439655981,\"updatedAt\":1555439655981}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: f6e7eba7-7ef9-4221-b4d3-8c786668e219 Version: $LATEST
+END RequestId: f6e7eba7-7ef9-4221-b4d3-8c786668e219
+REPORT RequestId: f6e7eba7-7ef9-4221-b4d3-8c786668e219	Duration: 18.61 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"07362013-316c-4f4d-92c7-8152ec1db615\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439667278,\"updatedAt\":1555439667278}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7b8f27cc-6043-4aab-ba32-83772fe71d1e Version: $LATEST
+END RequestId: 7b8f27cc-6043-4aab-ba32-83772fe71d1e
+REPORT RequestId: 7b8f27cc-6043-4aab-ba32-83772fe71d1e	Duration: 23.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"22307126-a815-426e-a50f-96b9e0d3fca6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439678569,\"updatedAt\":1555439678569}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 1832d193-13da-47e3-9806-b3520a143e39 Version: $LATEST
+END RequestId: 1832d193-13da-47e3-9806-b3520a143e39
+REPORT RequestId: 1832d193-13da-47e3-9806-b3520a143e39	Duration: 9.62 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"e4a8edca-8130-4cf0-9ba6-fb165d22552e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439689852,\"updatedAt\":1555439689852}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 86e36642-3e67-4047-accd-1ce5020a8626 Version: $LATEST
+END RequestId: 86e36642-3e67-4047-accd-1ce5020a8626
+REPORT RequestId: 86e36642-3e67-4047-accd-1ce5020a8626	Duration: 14.18 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"042069cb-fb48-4c22-b4e2-aaa274484eb1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439701181,\"updatedAt\":1555439701181}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 8382ecc9-4188-488a-b762-316873d60cf4 Version: $LATEST
+END RequestId: 8382ecc9-4188-488a-b762-316873d60cf4
+REPORT RequestId: 8382ecc9-4188-488a-b762-316873d60cf4	Duration: 18.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ba52b2ec-5656-4a68-9884-f7526b10d64a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439712466,\"updatedAt\":1555439712466}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 22937059-8e4c-477a-994e-d5ec5314ce8e Version: $LATEST
+END RequestId: 22937059-8e4c-477a-994e-d5ec5314ce8e
+REPORT RequestId: 22937059-8e4c-477a-994e-d5ec5314ce8e	Duration: 18.79 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"930e62fb-6773-4f7e-9f7a-d56998a91978\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439723769,\"updatedAt\":1555439723769}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 83e8cc91-5694-4876-b923-119674c8882f Version: $LATEST
+END RequestId: 83e8cc91-5694-4876-b923-119674c8882f
+REPORT RequestId: 83e8cc91-5694-4876-b923-119674c8882f	Duration: 9.59 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"d56b4cf6-0590-4945-bf30-82846c251a18\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439735078,\"updatedAt\":1555439735078}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: df78113c-f7e7-4216-9ba1-8b2a8eb2e6c5 Version: $LATEST
+END RequestId: df78113c-f7e7-4216-9ba1-8b2a8eb2e6c5
+REPORT RequestId: df78113c-f7e7-4216-9ba1-8b2a8eb2e6c5	Duration: 15.82 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f7f0e7bd-a691-4f53-982e-d329bde42206\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439746362,\"updatedAt\":1555439746362}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 09aa4486-0289-475c-b92e-d8c8399509e6 Version: $LATEST
+END RequestId: 09aa4486-0289-475c-b92e-d8c8399509e6
+REPORT RequestId: 09aa4486-0289-475c-b92e-d8c8399509e6	Duration: 9.35 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b34e1b51-d963-49b9-885e-7bc1e040e582\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439757664,\"updatedAt\":1555439757664}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9ddf0afd-6287-4d2c-8cad-2c080fc63e3c Version: $LATEST
+END RequestId: 9ddf0afd-6287-4d2c-8cad-2c080fc63e3c
+REPORT RequestId: 9ddf0afd-6287-4d2c-8cad-2c080fc63e3c	Duration: 21.22 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"7f92c2bb-0ca0-41bb-9cb3-97c3983536e6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439768986,\"updatedAt\":1555439768986}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 9e267310-0c8a-48c8-8a4e-da6d68db169b Version: $LATEST
+END RequestId: 9e267310-0c8a-48c8-8a4e-da6d68db169b
+REPORT RequestId: 9e267310-0c8a-48c8-8a4e-da6d68db169b	Duration: 9.62 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"afcf12d6-e327-48c7-9c80-3e257e711cfc\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439780278,\"updatedAt\":1555439780278}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 01c29dbd-1ac2-4190-8120-8eaa4c749a74 Version: $LATEST
+END RequestId: 01c29dbd-1ac2-4190-8120-8eaa4c749a74
+REPORT RequestId: 01c29dbd-1ac2-4190-8120-8eaa4c749a74	Duration: 31.98 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"2e3de846-9851-4cd1-8e9c-2c26e802f17e\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439791584,\"updatedAt\":1555439791584}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ddcf2de9-4dfd-4460-8279-c2370f3d5b66 Version: $LATEST
+END RequestId: ddcf2de9-4dfd-4460-8279-c2370f3d5b66
+REPORT RequestId: ddcf2de9-4dfd-4460-8279-c2370f3d5b66	Duration: 9.55 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b6e41913-9ffc-4840-8fab-ee1812c5666c\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439802880,\"updatedAt\":1555439802880}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 3040e30b-aada-445e-ba75-e491ecb87245 Version: $LATEST
+END RequestId: 3040e30b-aada-445e-ba75-e491ecb87245
+REPORT RequestId: 3040e30b-aada-445e-ba75-e491ecb87245	Duration: 20.43 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"6585cb30-2770-4c80-928e-00a637a9d22a\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439814227,\"updatedAt\":1555439814227}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 4a3e066d-86b0-4bac-9af5-9bbbf2dd4b44 Version: $LATEST
+END RequestId: 4a3e066d-86b0-4bac-9af5-9bbbf2dd4b44
+REPORT RequestId: 4a3e066d-86b0-4bac-9af5-9bbbf2dd4b44	Duration: 9.59 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"b05f9380-6978-4517-9f76-d15d2a2689e1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439825539,\"updatedAt\":1555439825539}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 73941de3-a081-43b2-bea2-eee02b9831cd Version: $LATEST
+END RequestId: 73941de3-a081-43b2-bea2-eee02b9831cd
+REPORT RequestId: 73941de3-a081-43b2-bea2-eee02b9831cd	Duration: 25.66 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"61a245f9-0ff5-4f0b-b451-f77b420bc35f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439836898,\"updatedAt\":1555439836898}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: ffac33fe-a735-4aa7-8614-9363fb277b71 Version: $LATEST
+END RequestId: ffac33fe-a735-4aa7-8614-9363fb277b71
+REPORT RequestId: ffac33fe-a735-4aa7-8614-9363fb277b71	Duration: 12.88 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"34aa1a76-1ac3-43e5-aaf9-f876eb104af9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439848178,\"updatedAt\":1555439848178}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 32456410-64fa-4ba9-bfa8-dea0928e2285 Version: $LATEST
+END RequestId: 32456410-64fa-4ba9-bfa8-dea0928e2285
+REPORT RequestId: 32456410-64fa-4ba9-bfa8-dea0928e2285	Duration: 19.45 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"8c06fe21-605d-4787-b81c-7e837596ddac\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439859470,\"updatedAt\":1555439859470}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7764d9d5-2d3f-4f61-8749-317e9fd37323 Version: $LATEST
+END RequestId: 7764d9d5-2d3f-4f61-8749-317e9fd37323
+REPORT RequestId: 7764d9d5-2d3f-4f61-8749-317e9fd37323	Duration: 9.66 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3d40c87e-c106-4f87-98ac-304696d03e2b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439870752,\"updatedAt\":1555439870752}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d6308707-eb6f-4e0b-917d-f67c6d70e9e9 Version: $LATEST
+END RequestId: d6308707-eb6f-4e0b-917d-f67c6d70e9e9
+REPORT RequestId: d6308707-eb6f-4e0b-917d-f67c6d70e9e9	Duration: 12.93 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"03e517f3-c102-4916-b0fb-a8f6a9e4c0e9\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439882055,\"updatedAt\":1555439882055}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 67a921b6-23ef-4763-b40a-1ffa32d7fb6c Version: $LATEST
+END RequestId: 67a921b6-23ef-4763-b40a-1ffa32d7fb6c
+REPORT RequestId: 67a921b6-23ef-4763-b40a-1ffa32d7fb6c	Duration: 9.66 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"f941bca5-2269-4f84-8396-36088524740b\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439893347,\"updatedAt\":1555439893347}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 7d0e3700-83b8-4b7d-9982-f270caefc87c Version: $LATEST
+END RequestId: 7d0e3700-83b8-4b7d-9982-f270caefc87c
+REPORT RequestId: 7d0e3700-83b8-4b7d-9982-f270caefc87c	Duration: 17.51 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"0d887596-4316-4feb-acd5-204bac351810\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439904672,\"updatedAt\":1555439904672}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 05001631-6a73-40d4-aaa8-31af76d4a3f8 Version: $LATEST
+END RequestId: 05001631-6a73-40d4-aaa8-31af76d4a3f8
+REPORT RequestId: 05001631-6a73-40d4-aaa8-31af76d4a3f8	Duration: 9.65 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"3f2602c9-9357-4961-93b9-22b8afeac3b1\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439915960,\"updatedAt\":1555439915960}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 0c723fda-f8be-4ab8-8f46-a684749eb30f Version: $LATEST
+END RequestId: 0c723fda-f8be-4ab8-8f46-a684749eb30f
+REPORT RequestId: 0c723fda-f8be-4ab8-8f46-a684749eb30f	Duration: 9.69 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"1b6c48b3-0198-4a81-b356-e1f1fa9e62a6\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439927264,\"updatedAt\":1555439927264}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: b8ce30e4-1471-40c1-bd08-e1e42ebd664d Version: $LATEST
+END RequestId: b8ce30e4-1471-40c1-bd08-e1e42ebd664d
+REPORT RequestId: b8ce30e4-1471-40c1-bd08-e1e42ebd664d	Duration: 9.95 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"ba9fe4e9-aa77-46d1-b814-ff9e96cc7eb0\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439938558,\"updatedAt\":1555439938558}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: d940c4e5-76b0-4556-ae3c-bdb91dc03710 Version: $LATEST
+END RequestId: d940c4e5-76b0-4556-ae3c-bdb91dc03710
+REPORT RequestId: d940c4e5-76b0-4556-ae3c-bdb91dc03710	Duration: 38.55 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
+{
+    "statusCode": 200,
+    "body": "{\"id\":\"64af23c2-087e-4745-b661-9a5ecdd5923f\",\"text\":\"2019-04-15T21:13:50.950Z A new Todo Item dinner\",\"checked\":false,\"createdAt\":1555439949926,\"updatedAt\":1555439949926}",
+    "headers": {
+        "X-Powered-By": "AWS Lambda & Serverless"
+    },
+    "isBase64Encoded": false
+}
+--------------------------------------------------------------------
+START RequestId: 15086d61-02af-460c-8e74-dcfe100a65fb Version: $LATEST
+END RequestId: 15086d61-02af-460c-8e74-dcfe100a65fb
+REPORT RequestId: 15086d61-02af-460c-8e74-dcfe100a65fb	Duration: 9.24 ms	Billed Duration: 100 ms 	Memory Size: 1024 MB	Max Memory Used: 149 MB	
+
+
