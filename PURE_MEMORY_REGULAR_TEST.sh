@@ -32,8 +32,6 @@ declare -a MEMORY_TIERS=("512" "1024" "2048")
 
 # LOOP FOR X
 until [ $COUNT -gt 200 ]; do
-
-    
     
     # LOOP FOR EACH MEMORY TIER
     for i in "${MEMORY_TIERS[@]}"

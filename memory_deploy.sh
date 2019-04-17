@@ -1,28 +1,41 @@
 #!/bin/bash
 
-## declare an array variable
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
+
+# DEPLOY MEMORY TESTS
+
+# THIS SCRIPT WILL DEPLOY THE MEMORY TESTS
+# AUTOMATICALLY WITHOUT HAVING TO CALL THEM
+# INDIVIDUALLY VIA THE SERVERLESS FRAMEWORK
+
+## CREATE AN ARRAY OF THE RUNTIMES
 declare -a arr=("java" "node" "python3")
 
-## now loop through the above array
+# LLOOP THROUGH THEM
 for i in "${arr[@]}"
 do
    folder="$i-memory"
    
+   # CHANGE INTO THAT DIRECTORY
    cd $folder
    
+   # UPDATE THE CONSOLE
    echo "Now deploying $i API"
    echo ""
    pwd
    echo ""
    echo "####################"
 
+   # DEPLOY USING SERVERLESS
    sls deploy
    
 
+   # CHANGE DIRECTORY BACK TO THE CALLING DIRECTORY
    cd ../
-   # or do whatever with individual element of the array
+   
 done
 
+# UPDATE THE CONSOLE 
 echo ALL MEMORY FUNCTIONS HAVE BEEN DEPLOYED
-
-# You can access them using echo "${arr[0]}", "${arr[1]}" also
