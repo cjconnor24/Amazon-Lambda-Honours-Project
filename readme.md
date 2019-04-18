@@ -27,6 +27,17 @@ $: cd ./java-api
 $: sls deploy
 ```
 
+# Removal
+Similarly, to remove the API's from deployment you can run the following command
+
+```bash
+$: ./remove.sh
+```
+and
+```bash
+$: ./memory_remove.sh
+```
+
 # Accessing the API Public
 
 If at any point to you need to access the API and don't have the details. You can navigate to any of the API's and run the following command
