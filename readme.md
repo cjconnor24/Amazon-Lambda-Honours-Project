@@ -7,7 +7,9 @@ My project was an investigation into serverless computing with AWS Lambda, and h
 >"Does the choice of runtime have an impact on the Cold Start problem with Serverless architecture?"
 
 ## Deployment instructions
-You *must* have the [Serverless Framework](http://serverless.com/] installed to deploy these to AWS.
+You *must* have the [Serverless Framework](http://serverless.com/) installed to deploy these to AWS.
+
+You will also need an [Amazon Web Services](http://aws.amazon.com/) account.
 
 To deploy all instances to AWS, run the follow command from the root of the project.
 ```

@@ -6,7 +6,10 @@ Below is a brief summary of the test results for the Node API
 # API Gateway Coldstart Tests
 These were carried out using cURL and bash to send data to the API and measure the duration. Results were varied given the local area connection - full details can be read in the report.
 
-TABLE HERE
+| Average | Median | Min   | Max    | Std Deviation | 99p    | 
+|---------|--------|-------|--------|---------------|--------| 
+| 943ms   | 917ms  | 732ms | 1789ms | 173ms         | 1773ms | 
+
 
 # Direct Invocation Coldstart Tests
 There were carried out again using bash but this time directly calling the functions via the Serverless Framework
