@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# CHRIS CONNOR
+# S1715477
+# CCONNO208@CALEDONIAN.AC.UK
+
+# GET URLS
+
+# CREATE AN ARRAY WITH THE THREE FOLDERS
+declare -a API_FOLDERS=("java" "node" "python3")
+
+# LOOP THROUGH EACH OF THE FOLDERS
+for i in "${API_FOLDERS[@]}"
+do
+   # CONCATENATE THE FULL FOLDER WITH -API
+   folder="$i-api"
+   
+   # CHANGE DIRECTORY TO THIS FOLDER
+   cd $folder
+
+   # CALL THE INFO COMMAND AND PIPE INTO GREP
+   sls info | grep execute
+
+   # RETURN TO THE MAIN FOLDER
+   cd ../
+   
+done
