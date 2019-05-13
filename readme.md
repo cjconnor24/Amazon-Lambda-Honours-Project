@@ -6,6 +6,11 @@ My project was an investigation into serverless computing with AWS Lambda, and h
 # Research Question
 >"Does the choice of runtime have an impact on the Cold Start problem with Serverless architecture?"
 
+# Architecture Overview
+The architecture inolves an API Gateway instance which directs requests out to 5 different lambda functions.
+
+![Architecture Overview](readme_resources/architecture.png)
+
 ## Deployment instructions
 You *must* have the [Serverless Framework](http://serverless.com/) installed to deploy these to AWS.
 
